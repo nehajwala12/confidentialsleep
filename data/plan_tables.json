@@ -58,12 +58,10 @@
     "None",
     "See decision 12"
    ]
-  ],
-  "source": null,
-  "sec": "1"
+  ]
  },
  "1.2": {
-  "title": "Thirteen decisions are asked of Comvest.",
+  "title": "Fourteen decisions are asked of Comvest.",
   "sub": null,
   "head": [
    "#",
@@ -76,86 +74,90 @@
     "1",
     "Decline the 19 October request in writing and reserve all rights",
     "20 Nov 2026",
-    "4, 7"
+    "4, 8"
    ],
    [
     "2",
     "Instruct restructuring counsel and healthcare counsel. First deliverables are a consent matrix and a default calendar from the executed documents",
     "20 Nov 2026",
-    "7, 16"
+    "8, 17"
    ],
    [
     "3",
-    "Offer a forbearance to 29 January 2027 on the terms in section 7.2",
+    "Offer a forbearance to 29 January 2027 on the terms in section 8.2",
     "Before 30 Nov 2026",
-    "7"
+    "8"
    ],
    [
     "4",
     "Approve the dual track: the handover negotiation, plus live sale tracks for Sleep Media and Sleep Care from 1 December",
     "Now",
-    "6, 11"
+    "7, 12"
    ],
    [
     "5",
     "Adopt the decision rule for the mid-January gate",
     "Now",
-    "6"
+    "7"
    ],
    [
     "6",
     "Ring-fence Sleep Media's cash and domains now. Separate it legally at the handover. Defer the technical split",
     "Now, then Feb to Mar 2027",
-    "9"
+    "10"
    ],
    [
     "7",
     "Cap Sleep Care spending from 1 December and sell it for certainty and speed",
     "Now",
-    "8"
+    "9"
    ],
    [
     "8",
     "Prepare the contested route in parallel, so that it is ready if no term sheet is signed by 18 December",
     "Now",
-    "7"
+    "8"
    ],
    [
     "9",
     "Leave Vistria Credit's strip sharing pro rata. Do not pay $7M for it",
     "18 Dec 2026",
-    "7"
+    "8"
    ],
    [
     "10",
     "Approve retention for about ten Media and technology staff, about $0.4M, once quoted",
     "27 Nov 2026",
-    "9, 13"
+    "10, 14"
    ],
    [
     "11",
     "Have the company engage a sell-side adviser acceptable to the lenders for both sale tracks",
     "4 Dec 2026",
-    "11"
+    "12"
    ],
    [
     "12",
     "Open question: is \"no new money\" absolute? A protective advance of $1M to $3M may be the cheapest cover for a cash miss",
     "Before 15 Jan 2027",
-    "13"
+    "14"
    ],
    [
     "13",
     "Adopt the staffing rule for MediaCo: no change to Sleep Media's team before the handover, AI workflows built from now, a step down from about 15 people to a core of six only as each workflow is proved, and a one-person company only as a run-off",
     "Now, for the handover term sheet and the quoted budget",
-    "10"
+    "11"
+   ],
+   [
+    "14",
+    "Name an owner for each of the nine workstreams in section 15, and adopt its decision calendar and Friday update",
+    "20 Nov 2026",
+    "15"
    ]
-  ],
-  "source": null,
-  "sec": "1"
+  ]
  },
  "2.1": {
-  "title": "Most of the findings hold, and three need watching.",
+  "title": "Most of the findings hold, and four need watching.",
   "sub": null,
   "head": [
    "#",
@@ -186,35 +188,45 @@
     "4",
     "A consensual handover is the cheapest route. A board change through the pledged equity, then a sale of collateral with a credit bid, is the prepared alternative",
     "Holds",
-    "7"
+    "8"
    ],
    [
     "5",
     "A March sale is worth more than a hold on each case at the same multiple. The margin is small enough that real bids should decide",
     "Watch",
-    "6, 12"
+    "7, 13"
    ],
    [
     "6",
     "The funding bridge has about $0.2M of room over a $2.0M reserve. It depends on holiday-quarter revenue arriving on plan, on Sleep Care spending being capped from December, and on no cash interest",
     "Watch",
-    "13"
+    "14"
    ],
    [
     "7",
     "Sleep Care is worth more to the lenders as an exit cost avoided than as a price. Its November acquisition figures are the best of the year, which helps a sale now",
     "Watch",
-    "8"
+    "9"
    ],
    [
     "8",
     "AI can take MediaCo from about 15 people to a core of six by early 2028, and not to one. Six to nine full-time equivalents of human work remain. The saving of about $0.7M a year is worth up to about $1.4M to Comvest, and only if a buyer pays for it",
     "Holds",
-    "10"
+    "11"
+   ],
+   [
+    "9",
+    "Sleep Foundation is the most trusted site in its field. It has about ten times the linking websites of its nearest specialist rival and is the one sleep site among the twenty sources most cited in AI answers. A tester-led rival, NapLab, led the mattress rankings on the company's own index at the last reading",
+    "Holds",
+    "6"
+   ],
+   [
+    "10",
+    "Sleep Care is a small seller in a market that is consolidating. The cash sellers merged into ReDream Brands in August 2026 and discount the same home test, and the insured clinics have each raised $20M to $33M. The consolidators are the natural buyers, and delay costs more each month",
+    "Watch",
+    "6, 9"
    ]
-  ],
-  "source": null,
-  "sec": "2"
+  ]
  },
  "3.1": {
   "title": "Sleep Care's loss and the shared layer turn Sleep Media's profit into a company loss.",
@@ -262,9 +274,7 @@
     "16",
     "83"
    ]
-  ],
-  "source": "Source: long-range plan of 21 October 2026. Basis: Record. The plan shows Sleep Media before shared cost at $13.3M on one sheet and at $13.1M when rebuilt from the segment sheets; the $0.2M difference in direct cost is for management to reconcile.",
-  "sec": "3"
+  ]
  },
  "3.2": {
   "title": "Trailing earnings sit about $2M below this year's forecast.",
@@ -333,9 +343,7 @@
     "—",
     "Record. Not used in this plan"
    ]
-  ],
-  "source": "Source: long-range plan, Sleep Media sheets, monthly. Basis: stand-alone EBITDA is CreditSwan's estimate; the quoted budget in section 10 replaces it.",
-  "sec": "3"
+  ]
  },
  "3.3": {
   "title": "Sleep Care's monthly loss has roughly doubled since January.",
@@ -386,9 +394,7 @@
     "205",
     "565"
    ]
-  ],
-  "source": "Source: long-range plan, Sleep Care sheet. Basis: Record.",
-  "sec": "3"
+  ]
  },
  "4.1": {
   "title": "Base value reaches the senior loan and no layer below it.",
@@ -457,9 +463,7 @@
     "—",
     "Out of the money on every case"
    ]
-  ],
-  "source": "Source: long-range plan, debt schedule; April 2024 situation update, p. 7; September 2021 approval memo. Basis: Record. The current register has not been seen.",
-  "sec": "4"
+  ]
  },
  "4.2": {
   "title": "The request asks for time and offers no sponsor money.",
@@ -510,9 +514,7 @@
     "—",
     "None"
    ]
-  ],
-  "source": "Source: company update of 19 October 2026, p. 18. Basis: Record, from the company's summary and not the executed amendment. On the request the senior claim grows to about $114.5M at December 2027 and $139.7M at December 2029.",
-  "sec": "4"
+  ]
  },
  "4.3": {
   "title": "Three tests fall before the end of March.",
@@ -572,9 +574,7 @@
     "No refinancing exists at about $190M of debt",
     "Record"
    ]
-  ],
-  "source": null,
-  "sec": "4"
+  ]
  },
  "5.1": {
   "title": "Weekly clicks sit 12% above the sale-review trigger.",
@@ -636,9 +636,7 @@
     "42.0K",
     "12%"
    ]
-  ],
-  "source": "Source: Google Search Console, pulled 16 November 2026. Basis: Record. Best-of pages are pages with /best- in the address. The update began on 10 November.",
-  "sec": "5"
+  ]
  },
  "5.2": {
   "title": "Listed publishers report falls in Google traffic of the same order.",
@@ -664,9 +662,7 @@
     "Core sessions down 26% in Q3 2026, with Google search traffic down 22% after 40% in Q2",
     "Licensing revenue up 49%; session-based revenue down 6%"
    ]
-  ],
-  "source": "Source: Search Console; Ziff Davis Q2 and Q3 2026 results; People Inc. Q3 2026 results. Basis: Record and public.",
-  "sec": "5"
+  ]
  },
  "5.3": {
   "title": "The main mattress term has recovered, and the specialist terms have slipped.",
@@ -714,9 +710,7 @@
     "8th",
     "Clicks down 91%"
    ]
-  ],
-  "source": "Source: Google Search Console, pulled 4 November 2026. Basis: Record. Not pulled again after the update began. One index of AI answers placed Sleep Foundation in about 90% of answers on mattresses, against about 60% for the next rival; that figure was not re-checked for this document.",
-  "sec": "5"
+  ]
  },
  "5.4": {
   "title": "Four cases for next year follow from the click level and the yield.",
@@ -762,11 +756,653 @@
     "$5.3M",
     "$7.5M"
    ]
-  ],
-  "source": "Source: recovery model; long-range plan; Search Console. Basis: Model and estimate. AI referral revenue is $0.9M in each case except Severe ($0.45M); other revenue is $1.8M to $2.4M. After 2027 search revenue falls 15% a year, and 25% a year in the Severe case.",
-  "sec": "5"
+  ]
  },
  "6.1": {
+  "title": "Sleep Foundation is the largest site in its field by search visits.",
+  "sub": "The competitive set for Sleep Media. Visits are a third-party estimate of organic search visits a month, read 17 November 2026.",
+  "head": [
+   "Site or group",
+   "Owner",
+   "What it is",
+   "Search visits a month, about",
+   "Other reading",
+   "Latest move"
+  ],
+  "rows": [
+   [
+    "sleepfoundation.org",
+    "OneCare Media",
+    "Sleep health and product reviews",
+    "2.0M",
+    "975K Google clicks in October, from Search Console. About 82K linking websites",
+    "Main mattress term back to about 3rd in autumn 2026"
+   ],
+   [
+    "naplab.com",
+    "Independent. Founded by Derek Hales, who founded Sleepopolis",
+    "Mattress tests and reviews",
+    "599K",
+    "Over 580 mattresses tested, on its own count. A named team of six",
+    "Launched in 2021. Led the company's mattress index in late 2025"
+   ],
+   [
+    "mattressclarity.com",
+    "Pillar4 Media",
+    "Mattress reviews",
+    "403K",
+    "In about 60% of AI answers on mattresses in October",
+    "Bought by Pillar4 in May 2020"
+   ],
+   [
+    "sleepopolis.com",
+    "Pillar4 Media",
+    "Mattress reviews and sleep content",
+    "358K",
+    "About 8K linking websites. In about 44% of AI answers",
+    "Bought by Pillar4 in May 2020"
+   ],
+   [
+    "mattressnerd.com",
+    "Pillar4 Media",
+    "Mattress reviews",
+    "346K",
+    "In about 49% of AI answers",
+    "Level with Sleep Foundation on the company's index in late 2025"
+   ],
+   [
+    "sleepadvisor.org",
+    "Pillar4 Media",
+    "Sleep product reviews",
+    "55K",
+    "—",
+    "—"
+   ],
+   [
+    "Wirecutter, CNET, Tom's Guide, Forbes Vetted",
+    "The New York Times, Ziff Davis, Future, Forbes",
+    "General product reviews",
+    "Not read",
+    "Wirecutter's US search visits fell from 15.9M to 8.0M, as reported in February 2026",
+    "Lost most mattress rankings to specialist sites after May 2025"
+   ],
+   [
+    "mattressfirm.com and casper.com",
+    "Somnigroup; Casper",
+    "Retailer and brand pages",
+    "868K and 368K",
+    "—",
+    "Rank in the same results as the review sites"
+   ],
+   [
+    "YouTube and Reddit",
+    "Google; Reddit",
+    "Video and forums",
+    "—",
+    "Cited in 10.3% and 8.3% of AI answers to buying questions",
+    "The two most-cited sources in AI answers"
+   ]
+  ]
+ },
+ "6.2": {
+  "title": "On the company's own index a tester-led rival led the mattress rankings.",
+  "sub": "The company's mattress ranking index by site, December 2025. Values are read from a chart and are approximate.",
+  "head": [
+   "Site",
+   "Index value, about",
+   "Reading"
+  ],
+  "rows": [
+   [
+    "NapLab",
+    "$850K",
+    "The category leader, in the company's words"
+   ],
+   [
+    "Sleep Foundation",
+    "$500K",
+    "Down from about $750K in the summer of 2025"
+   ],
+   [
+    "Mattress Nerd",
+    "$500K",
+    "Level with Sleep Foundation"
+   ],
+   [
+    "Sleepopolis",
+    "$150K",
+    "Down from about $600K in June 2025"
+   ],
+   [
+    "Wirecutter",
+    "$150K",
+    "A large publisher's review brand"
+   ],
+   [
+    "Forbes",
+    "$30K",
+    "From over $1.0M before the May 2025 update"
+   ],
+   [
+    "All specialist review sites",
+    "$2.5M",
+    "Against about $0.3M for general media and about $0.85M for forums"
+   ]
+  ]
+ },
+ "6.3": {
+  "title": "Sleep Foundation leads on links and on presence in AI answers.",
+  "sub": null,
+  "head": [
+   "Measure",
+   "Sleep Foundation",
+   "Nearest specialist rival",
+   "Reading"
+  ],
+  "rows": [
+   [
+    "Websites that link to the site, November 2026",
+    "About 82K",
+    "Sleepopolis, about 8K",
+    "About ten times, as it was at the 2021 underwriting (52.5K against 4.5K)"
+   ],
+   [
+    "Domain rating, a tracker's score out of 100",
+    "90",
+    "Sleepopolis, 74",
+    "—"
+   ],
+   [
+    "Share of AI answers on mattresses that name the site, October 2026",
+    "About 90%",
+    "Mattress Clarity, about 60%",
+    "Read 4 November. The index no longer publishes it by site"
+   ],
+   [
+    "Rank among all sources cited in AI answers to buying questions",
+    "10th, in 1.6% of answers",
+    "No other sleep or health site is in the top twenty",
+    "1 September to 17 November 2026"
+   ],
+   [
+    "Share of ChatGPT answers citing the site",
+    "3.9%",
+    "—",
+    "Against 0.5% of Google's AI Overviews and 0.3% of its AI Mode"
+   ],
+   [
+    "Readers outside search",
+    "3.26M email subscribers and 594K YouTube subscribers",
+    "Not read",
+    "Not re-checked for this document"
+   ]
+  ]
+ },
+ "6.4": {
+  "title": "Sleep Foundation scores highest on trust and lower on proof of testing.",
+  "sub": "CreditSwan's scores on a five-point scale, where 5 is strongest. A dash means not scored for lack of evidence.",
+  "head": [
+   "Rival",
+   "Links and authority",
+   "Mattress rankings",
+   "Proof of testing",
+   "Medical authority",
+   "Presence in AI answers",
+   "Readers outside search",
+   "Independence from sellers"
+  ],
+  "rows": [
+   [
+    "Sleep Foundation",
+    "5",
+    "3",
+    "4",
+    "5",
+    "5",
+    "4",
+    "3"
+   ],
+   [
+    "NapLab",
+    "2",
+    "5",
+    "5",
+    "1",
+    "—",
+    "2",
+    "4"
+   ],
+   [
+    "Pillar4 sites",
+    "3",
+    "3",
+    "3",
+    "2",
+    "3",
+    "—",
+    "2"
+   ],
+   [
+    "Large publishers' review brands",
+    "5",
+    "2",
+    "3",
+    "2",
+    "3",
+    "5",
+    "4"
+   ],
+   [
+    "Health publishers",
+    "5",
+    "1",
+    "1",
+    "5",
+    "4",
+    "4",
+    "4"
+   ],
+   [
+    "Retailers and brands",
+    "3",
+    "3",
+    "1",
+    "1",
+    "4",
+    "4",
+    "1"
+   ]
+  ]
+ },
+ "6.5": {
+  "title": "Sleep Care's rivals are larger, and several have fresh capital.",
+  "sub": "The competitive set for Sleep Care, with the latest public reading for each.",
+  "head": [
+   "Rival",
+   "Group",
+   "Scale",
+   "How patients pay",
+   "Latest move"
+  ],
+  "rows": [
+   [
+    "Sleep Care (Sleep Doctor)",
+    "Online seller with its own clinic",
+    "$20.3M of revenue in the 2026 forecast, at a loss of $9.8M. About 730 to 760 new patients a week in early November. 59 people",
+    "Cash, and insurance since 2026",
+    "Insurance being added state by state. No party will fund the plan"
+   ],
+   [
+    "ReDream Brands",
+    "Online sellers for cash",
+    "Over 700,000 orders a year from three warehouses. Lofta alone had revenue of about $37.6M in 2025",
+    "Cash",
+    "Formed August 2026 by Cathay Capital, with a joint venture with AdaptHealth and a new credit facility"
+   ],
+   [
+    "Sleeplay",
+    "Online seller for cash",
+    "Not read",
+    "Cash",
+    "Sells three home tests from $99"
+   ],
+   [
+    "Ognomy",
+    "Insured virtual clinic",
+    "Over 85,000 visits. In network for over 200M insured lives",
+    "Insurance",
+    "Raised $20M in June 2026"
+   ],
+   [
+    "Dreem Health (Sunrise)",
+    "Insured virtual clinic",
+    "All 50 states",
+    "Insurance",
+    "Raised $29M in September 2025. Joined Amazon's health benefits service in April 2026"
+   ],
+   [
+    "BetterNight",
+    "Insured clinic sold through health plans",
+    "Not read",
+    "Insurance",
+    "Raised $33M and bought two providers in 2025"
+   ],
+   [
+    "AdaptHealth",
+    "National equipment supplier",
+    "Revenue of $745.6M in Q3 2026. Sleep revenue of $386.5M in Q2, up 15.5%",
+    "Insurance",
+    "Selling its diabetes business for $235M to focus on sleep and respiratory care"
+   ],
+   [
+    "ResMed",
+    "Device maker",
+    "Revenue of about $5.7B in the year to June 2026",
+    "Through suppliers and retailers",
+    "Bought a home sleep-test provider in 2025"
+   ]
+  ]
+ },
+ "6.6": {
+  "title": "Sleep Care charges the most for a home test among the online sellers read.",
+  "sub": "Cash price of a home sleep apnea test as shown on 17 November 2026. Promotions change weekly.",
+  "head": [
+   "Seller",
+   "Test",
+   "List price shown",
+   "Price charged",
+   "Rating shown by the seller"
+  ],
+  "rows": [
+   [
+    "Sleep Care (Sleep Doctor)",
+    "WatchPAT One",
+    "$349",
+    "$189, or \"as little as $0\" with insurance",
+    "4.9 from 412 reviews"
+   ],
+   [
+    "Lofta (ReDream)",
+    "WatchPAT One",
+    "$189 to $249",
+    "$99 to $132",
+    "4.5 from 4,154 ratings"
+   ],
+   [
+    "Sleeplay",
+    "WatchPAT One",
+    "$199 to $249",
+    "$139 to $149",
+    "4.5 to 4.7"
+   ],
+   [
+    "Sleeplay",
+    "NightOwl, made by ResMed",
+    "$189",
+    "$99",
+    "4.5"
+   ],
+   [
+    "Sleeplay",
+    "Wesper",
+    "$199",
+    "$99",
+    "4.3"
+   ],
+   [
+    "SleepTest.com",
+    "Home test read by a lab",
+    "—",
+    "$285, plus $95 and $85 for visits where needed",
+    "—"
+   ]
+  ]
+ },
+ "6.7": {
+  "title": "Management credits Sleep Care with every capability, and each rival group with some.",
+  "sub": "Management's own matrix. Full means a core capability, part means partial or emerging, and none means not a core capability.",
+  "head": [
+   "Capability",
+   "Sleep Care",
+   "ReDream Brands",
+   "Online retailers",
+   "Other online platforms",
+   "Clinical platforms",
+   "Equipment suppliers"
+  ],
+  "rows": [
+   [
+    "Finding patients online",
+    "Full",
+    "Full",
+    "Full",
+    "Full",
+    "None",
+    "None"
+   ],
+   [
+    "Home testing",
+    "Full",
+    "Full",
+    "None",
+    "Full",
+    "Part",
+    "Part"
+   ],
+   [
+    "Clinical care and prescription",
+    "Full",
+    "Full",
+    "None",
+    "None",
+    "Full",
+    "Part"
+   ],
+   [
+    "Delivery of the device",
+    "Full",
+    "Full",
+    "Full",
+    "Full",
+    "Full",
+    "Full"
+   ],
+   [
+    "Resupply and support",
+    "Full",
+    "None",
+    "Part",
+    "Part",
+    "Full",
+    "Full"
+   ],
+   [
+    "Several revenue lines for each patient",
+    "Full",
+    "Part",
+    "None",
+    "Part",
+    "Part",
+    "Part"
+   ],
+   [
+    "Insurance contracts",
+    "Full",
+    "None",
+    "None",
+    "Part",
+    "Full",
+    "Full"
+   ],
+   [
+    "Data and scale",
+    "Full",
+    "Full",
+    "None",
+    "Part",
+    "Part",
+    "Part"
+   ],
+   [
+    "Brand and trust",
+    "Full",
+    "Part",
+    "None",
+    "Part",
+    "Part",
+    "Part"
+   ]
+  ]
+ },
+ "6.8": {
+  "title": "Sleep Care is strongest on finding patients and clinical care, and weakest on funding.",
+  "sub": "CreditSwan's scores on a five-point scale, where 5 is strongest. A dash means not scored for lack of evidence.",
+  "head": [
+   "Rival",
+   "Scale",
+   "Cash price",
+   "Insurance coverage",
+   "Clinical depth",
+   "Funding",
+   "Resupply book",
+   "Cost of finding a patient"
+  ],
+  "rows": [
+   [
+    "Sleep Care",
+    "2",
+    "2",
+    "2",
+    "4",
+    "1",
+    "2",
+    "4"
+   ],
+   [
+    "ReDream Brands",
+    "5",
+    "5",
+    "1",
+    "2",
+    "4",
+    "4",
+    "4"
+   ],
+   [
+    "Insured virtual clinics",
+    "3",
+    "—",
+    "5",
+    "5",
+    "4",
+    "2",
+    "—"
+   ],
+   [
+    "National equipment suppliers",
+    "5",
+    "—",
+    "5",
+    "2",
+    "3",
+    "5",
+    "2"
+   ],
+   [
+    "ResMed",
+    "5",
+    "4",
+    "—",
+    "2",
+    "5",
+    "5",
+    "—"
+   ]
+  ]
+ },
+ "6.9": {
+  "title": "Each competitive fact changes a step in the plan.",
+  "sub": null,
+  "head": [
+   "Fact",
+   "What it changes",
+   "Where"
+  ],
+  "rows": [
+   [
+    "Sleep Foundation has about ten times the links of its nearest specialist rival, and leads in AI answers",
+    "Lead the information pack with authority and AI presence. Price against a strategic buyer and not against a brokered site",
+    "Sections 12 and 13"
+   ],
+   [
+    "NapLab led the mattress rankings with a team of six",
+    "Keep the test lab and publish the test evidence on the pages that earn. Do not cut testing to save cost",
+    "Section 11"
+   ],
+   [
+    "Pillar4 owns five rival sites",
+    "Approach it first as a buyer, and keep partner terms and bids behind an information wall",
+    "Sections 8 and 12"
+   ],
+   [
+    "Large publishers lost their mattress rankings",
+    "Their review brands are buyers of a specialist site and not a threat to it",
+    "Section 12"
+   ],
+   [
+    "AI answers cite YouTube and Reddit most",
+    "Count the video channel and the test data as assets in a sale, and test one licensing route",
+    "Section 11"
+   ],
+   [
+    "ReDream merged the cash sellers and is discounting",
+    "Sell the cash-pay book now, and offer it to ReDream first",
+    "Section 9"
+   ],
+   [
+    "Insured clinics have raised $20M to $33M each",
+    "Offer the insurance platform to a funded clinic or to AdaptHealth. Do not fund the build from Sleep Media's cash",
+    "Section 9"
+   ],
+   [
+    "Sleep Care's edge is Sleep Media's readers",
+    "Keep the readers and the email file in MediaCo, and sell access by a referral agreement",
+    "Sections 9 and 10"
+   ]
+  ]
+ },
+ "7.1": {
+  "title": "The two paths share every step to mid-January and differ after it.",
+  "sub": "Sleep Media. Comvest's values are present values at 16 November 2026, on the Low, Central and High cases.",
+  "head": [
+   "Point",
+   "Path A: sell in March 2027",
+   "Path B: hold in MediaCo and sell later"
+  ],
+  "rows": [
+   [
+    "Chosen when",
+    "The best net bid is at or above about three times the case's forward EBITDA",
+    "The best bid is below about two and a half times, and the evidence does not point to the Severe case"
+   ],
+   [
+    "Worth to Comvest",
+    "$11.6M, $14.9M and $18.5M",
+    "$10.2M, $13.5M and $17.3M, for a sale in June 2028 at the same multiple"
+   ],
+   [
+    "When the cash arrives",
+    "At closing, by 31 March 2027",
+    "Monthly from May 2027, then at a sale in mid-2028"
+   ],
+   [
+    "What the lenders own afterwards",
+    "No part of Sleep Media. A lien on what Sleep Care fetches",
+    "MediaCo, with its own loan to 2030"
+   ],
+   [
+    "The team",
+    "Left for the buyer to shape",
+    "About 15 people at the start, stepping down to a core of six by early 2028"
+   ],
+   [
+    "The main risk",
+    "Buyers discount for the open update and unsigned partner terms",
+    "The Severe case, the cost of ownership, and a lower price later"
+   ],
+   [
+    "Timetable",
+    "Table 15.5",
+    "Table 15.6"
+   ],
+   [
+    "Steps shared by both",
+    "Decline, forbear, ring-fence, cap Sleep Care, take control, sell Sleep Care",
+    "The same"
+   ]
+  ]
+ },
+ "7.2": {
   "title": "A bid near three times forward EBITDA is the point of indifference.",
   "sub": "Sleep Media by case. $M. Comvest at 58.9%. Present value at 16 November 2026.",
   "head": [
@@ -815,11 +1451,9 @@
     "0.7 times",
     "Any serious bid"
    ]
-  ],
-  "source": "Source: recovery model (Appendix A). Basis: Model. The last column is the indifference multiple against a later sale at 3.5 times, applied to forward EBITDA, before selling cost.",
-  "sec": "6"
+  ]
  },
- "6.2": {
+ "7.3": {
   "title": "Five pieces of evidence decide the gate.",
   "sub": null,
   "head": [
@@ -859,11 +1493,9 @@
     "The consent matrix supports the route, and a structure exists for a hold past 31 December 2027",
     "Unresolved consents, title, maturity or tax"
    ]
-  ],
-  "source": "Source: CreditSwan analysis. Basis: Estimate.",
-  "sec": "6"
+  ]
  },
- "7.1": {
+ "8.1": {
   "title": "A handover is the cheapest tool, and a court sale the dearest.",
   "sub": null,
   "head": [
@@ -907,11 +1539,9 @@
     "Litigation, or liabilities worse than known",
     "Needs financing that no party has offered"
    ]
-  ],
-  "source": "Source: CreditSwan estimate; Delaware UCC Article 9; practitioner commentary on pledged-equity proxy rights. Basis: Estimate and For counsel.",
-  "sec": "7"
+  ]
  },
- "7.2": {
+ "8.2": {
   "title": "Twelve terms protect Sleep Media's cash while the deal is signed.",
   "sub": null,
   "head": [
@@ -980,11 +1610,9 @@
     "Termination",
     "Ends on a missed milestone, a budget breach or a new default. The lenders then use tools 2 and 3"
    ]
-  ],
-  "source": "Source: CreditSwan analysis. Basis: Estimate and For counsel.",
-  "sec": "7"
+  ]
  },
- "7.3": {
+ "8.3": {
   "title": "The asset route leaves the healthcare business and the junior debt behind.",
   "sub": null,
   "head": [
@@ -1033,11 +1661,9 @@
     "6 to 10 weeks",
     "4 to 8 weeks"
    ]
-  ],
-  "source": "Source: CreditSwan analysis; separation assessment of 10 November 2026. Basis: Estimate and For counsel.",
-  "sec": "7"
+  ]
  },
- "7.4": {
+ "8.4": {
   "title": "Each step needs its own consent analysis.",
   "sub": null,
   "head": [
@@ -1096,11 +1722,9 @@
     "Independent authorised approval",
     "Conflicts and lender-control exposure"
    ]
-  ],
-  "source": "Source: September 2021 approval memo; April 2024 situation update; CreditSwan analysis. Basis: For counsel. The 2021 memo expected Vistria Credit's vote to be limited to matters needing every lender; the outcome has not been seen.",
-  "sec": "7"
+  ]
  },
- "7.5": {
+ "8.5": {
   "title": "Each party holds something different and wants something different.",
   "sub": null,
   "head": [
@@ -1140,11 +1764,9 @@
     "Funding for Sleep Care",
     "Retention for key Media and technology staff, and the chance to bid for Sleep Care with outside capital"
    ]
-  ],
-  "source": "Source: April 2024 situation update; long-range plan; CreditSwan analysis. Basis: Estimate.",
-  "sec": "7"
+  ]
  },
- "7.6": {
+ "8.6": {
   "title": "A $7M take-out is fair on the Central case and dear on the Low case.",
   "sub": null,
   "head": [
@@ -1172,11 +1794,9 @@
     "$5.6M",
     "Costs the other lenders about $1.4M"
    ]
-  ],
-  "source": "Source: recovery model. Basis: Model. Any take-out needs a willing seller, the required consents, and cash the plan does not have before a sale.",
-  "sec": "7"
+  ]
  },
- "7.7": {
+ "8.7": {
   "title": "Lenders have taken control of comparable businesses in and out of court.",
   "sub": null,
   "head": [
@@ -1215,11 +1835,9 @@
     "Lender takeovers",
     "Lincoln International counts over $24B in 2025, against $2.7B in 2023"
    ]
-  ],
-  "source": "Source: Goodwin on Pluralsight; 9fin on Alacrity; court-approved sale release on Vice Media; Bloomberg, 10 March 2026; Debtwire, June 2026, for the Lincoln International count; earlier CreditSwan research on Digital Media Solutions, not re-checked. Basis: Public. Advisers now prepare carve-out style transition plans before lenders take control, which is the form of this document.",
-  "sec": "7"
+  ]
  },
- "8.1": {
+ "9.1": {
   "title": "The cohorts old enough to judge have not repaid their acquisition cost.",
   "sub": null,
   "head": [
@@ -1263,11 +1881,9 @@
     "About $16M to $17M on CreditSwan's reading, which is more than Sleep Media earns",
     "Model. The plan's own cash cells contain formula errors, so the figure is unverified"
    ]
-  ],
-  "source": "Source: Q3 2026 board pre-read, p. 26; Sleep Care dashboard and workbook of 15 November 2026; long-range plan.",
-  "sec": "8"
+  ]
  },
- "8.2": {
+ "9.2": {
   "title": "A going-concern sale now is the option that removes cost fastest.",
   "sub": null,
   "head": [
@@ -1301,11 +1917,9 @@
     "Management's plan",
     "Not fundable. Reopen on an outside funder's money and on that funder's risk"
    ]
-  ],
-  "source": "Source: CreditSwan analysis; recovery model. Basis: Estimate.",
-  "sec": "8"
+  ]
  },
- "8.3": {
+ "9.3": {
   "title": "Four Medicare rules shape how Sleep Care can be sold.",
   "sub": null,
   "head": [
@@ -1334,11 +1948,9 @@
     "A supplier newly enrolled, or with a 100% change of ownership, on or after that date needs prior authorisation for listed items during a probationary period",
     "A direct change of ownership would slow a buyer's collections. Whether a parent-level change is caught is for counsel"
    ]
-  ],
-  "source": "Source: 42 CFR part 424; CMS; Katten, Foley and Bass Berry notes on the 2026 rules. Basis: Public and For counsel. State licence, Medicaid, commercial payor and physician-practice terms may each carry their own change-of-control rules.",
-  "sec": "8"
+  ]
  },
- "8.4": {
+ "9.4": {
   "title": "Two kinds of buyer exist, for the cash-pay book and for the insured platform.",
   "sub": null,
   "head": [
@@ -1384,11 +1996,9 @@
     "Its operating partners support the insurance strategy",
     "Swap or nominal transfer"
    ]
-  ],
-  "source": "Source: HME News, Sleep Review and Homecare, August 2026, on ReDream Brands; AdaptHealth Q2 2026 results; earlier CreditSwan research on the others, not re-checked. Basis: Public. Overlap with these operators is a reason to test bids and not evidence of a price.",
-  "sec": "8"
+  ]
  },
- "9.1": {
+ "10.1": {
   "title": "Each step of separation costs less than $1M, and the first costs least.",
   "sub": null,
   "head": [
@@ -1420,11 +2030,9 @@
     "10 weeks to day one, 26 to finish",
     "Deferred until funded"
    ]
-  ],
-  "source": "Source: separation assessment of 10 November 2026; CreditSwan estimate. Basis: Estimate. The assessment did not inspect admin consoles, contracts or code. The August 2025 Shopify migration disrupted trading, so no platform change is made to meet a date.",
-  "sec": "9"
+  ]
  },
- "9.2": {
+ "10.2": {
   "title": "Sleep Media's assets move, and Sleep Care keeps what patients and payors depend on.",
   "sub": null,
   "head": [
@@ -1463,11 +2071,9 @@
     "Sleep Care",
     "No patient data moves. Referrals pass by tracked link"
    ]
-  ],
-  "source": "Source: separation assessment of 10 November 2026. Basis: Estimate.",
-  "sec": "9"
+  ]
  },
- "9.3": {
+ "10.3": {
   "title": "Two main registrations fall due before the end of January.",
   "sub": null,
   "head": [
@@ -1496,11 +2102,9 @@
     "19 January 2028",
     "Hold under agreed control"
    ]
-  ],
-  "source": "Source: public registry records, read 10 November 2026. Basis: Public.",
-  "sec": "9"
+  ]
  },
- "10.1": {
+ "11.1": {
   "title": "Cash payroll is the largest block of MediaCo's budget.",
   "sub": null,
   "head": [
@@ -1544,11 +2148,9 @@
     "**5.20**",
     "Tested at $5.0M to $5.6M; 3% inflation; plus about $0.04M a month for tax and hardware"
    ]
-  ],
-  "source": "Source: long-range plan, headcount and operating-cost sheets; recovery model. Basis: Estimate.",
-  "sec": "10"
+  ]
  },
- "10.2": {
+ "11.2": {
   "title": "Each lever has evidence today and a test that converts it.",
   "sub": null,
   "head": [
@@ -1568,7 +2170,7 @@
     "Lean corporate and content cost",
     "$2.4M",
     "Cost plan. The operating review puts a core of six at about $4.5M a year, which adds about $2.7M to a harvest to 2031",
-    "A quoted budget below $5.2M, after a workflow is proved on a pilot cluster (section 10.5)"
+    "A quoted budget below $5.2M, after a workflow is proved on a pilot cluster (section 11.5)"
    ],
    [
     "AI-referral rebuild",
@@ -1618,11 +2220,9 @@
     "A $195K offer for Telehealth.com in October 2026",
     "Cash received"
    ]
-  ],
-  "source": "Source: earlier CreditSwan model for the values; Q3 2026 board pre-read; long-range plan; Apnimed release of 16 November 2026; company correspondence of October 2026; CreditSwan operating review of 17 November 2026. Basis: Model and Record. The subscriber count and the earlier values were not re-checked for this document.",
-  "sec": "10"
+  ]
  },
- "10.3": {
+ "11.3": {
   "title": "About six to nine full-time equivalents of human work remain after AI.",
   "sub": null,
   "head": [
@@ -1698,11 +2298,9 @@
     "**925 to 1,500**",
     "**About 6 to 9**"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026; the site's methodology and editorial pages. Basis: Estimate. The 400 products a year is the site's own ten-year average and not the current rate. The hours for each test, the 380 page changes a month and the minutes for each review are assumptions that management's monthly counts would replace (section 16, items 33 to 35).",
-  "sec": "section 10"
+  ]
  },
- "10.4": {
+ "11.4": {
   "title": "Between one employee and six the cost barely changes, and the two cheap models stop doing the work.",
   "sub": "Staffing models for MediaCo. Cost in $M a year, in 2027 dollars. Each total is accurate to about 15% either side.",
   "head": [
@@ -1726,7 +2324,7 @@
     "—",
     "—",
     "—",
-    "In section 13",
+    "In section 14",
     "Yes",
     "The starting point, and the budget in every case"
    ],
@@ -1788,7 +2386,7 @@
     "Not a sale case",
     "Not costed by the review",
     "No",
-    "The fallback in the Severe case or after a failed sale (section 10.5)"
+    "The fallback in the Severe case or after a failed sale (section 11.5)"
    ],
    [
     "A. Strict: one person and no outside people",
@@ -1814,11 +2412,9 @@
     "Depends on the operator",
     "Possible. Closer to a sale with deferred payment (Appendix B)"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026; recovery model (Table A.7). Basis: Estimate and Model. The break-even column divides the saving by 2027 revenue on the High and Low cases. The value column takes the saving at 3.5 times, less the 5% selling cost, discounted from March 2027, at 58.9%. It is an upper limit, because a buyer tests a cost base before paying for it. The review's own figures used an earlier model with a direct-cost line and no discount, and are restated here on this plan's model.",
-  "sec": "section 10"
+  ]
  },
- "10.5": {
+ "11.5": {
   "title": "Each of the six roles owns the agents beneath it.",
   "sub": null,
   "head": [
@@ -1857,11 +2453,9 @@
     "Runs testing and the evidence trail behind every score",
     "Lab data agent"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026. Basis: Estimate. Table E.2 describes each agent, its human gate and the main way it fails.",
-  "sec": "section 10"
+  ]
  },
- "10.6": {
+ "11.6": {
   "title": "Each stage ends at a gate, and no role goes before its workflow is proved.",
   "sub": null,
   "head": [
@@ -1895,11 +2489,9 @@
     "The team reduces to the core of six, by attrition and agreed exits",
     "The hold-or-sell position is settled"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026. Basis: Estimate.",
-  "sec": "section 10"
+  ]
  },
- "10.7": {
+ "11.7": {
   "title": "The team steps down with revenue, and each rung matches a case.",
   "sub": null,
   "head": [
@@ -1938,11 +2530,9 @@
     "Severe: $7.5M in 2027",
     "Collect cash. Freeze and label the testing and review claims"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026 for the rungs; recovery model (Table A.4) for the cases. Basis: Estimate. The rungs are CreditSwan's judgement. They apply from stage 3, except the last, which the January gate can reach directly.",
-  "sec": "section 10"
+  ]
  },
- "10.8": {
+ "11.8": {
   "title": "In the Severe case a sale at 2.5 times beats a run-off, unless traffic falls no faster than the case already assumes.",
   "sub": "Severe case, $M, present value at 16 November 2026. Value cells show pool / Comvest.",
   "head": [
@@ -2002,11 +2592,9 @@
     "Early 2029",
     "1.1 times, or $2.2M"
    ]
-  ],
-  "source": "Source: recovery model (Table A.7). Basis: Model, on illustrative rates of decline. Cost falls to $2.23M a year from July 2027, after a one-off cost of $1.0M that is CreditSwan's estimate and was not costed by the review. The run-off stops in the month that returns most to the lenders, and nothing is counted for the site or the domains at the end. The last column is a multiple of the Severe case's forward EBITDA of $2.0M, and the enterprise value it implies.",
-  "sec": "section 10"
+  ]
  },
- "10.9": {
+ "11.9": {
   "title": "On a hold the smaller team adds up to about $1.1M for Comvest, and a March sale still leads.",
   "sub": "Comvest's value for Sleep Media, $M, present value at 16 November 2026. A hold closes in June 2028 at 3.5 times.",
   "head": [
@@ -2055,11 +2643,9 @@
     "**−0.1**",
     ""
    ]
-  ],
-  "source": "Source: recovery model (Table A.7). Basis: Model. The saving is phased in from October 2027 and is complete from April 2028. The one-off cost is $0.6M, the middle of the range. At $0.4M the gain at full credit is about $1.2M, and at $0.8M about $1.0M.",
-  "sec": "section 10"
+  ]
  },
- "11.1": {
+ "12.1": {
   "title": "Five kinds of buyer could bid for Sleep Media.",
   "sub": null,
   "head": [
@@ -2099,11 +2685,9 @@
     "Audience and email file",
     "Low. Ownership by a seller weakens the independence the site trades on"
    ]
-  ],
-  "source": "Source: earlier CreditSwan research of June and November 2026, not re-checked except for Ziff Davis; Ziff Davis Q3 2026 results and call. Basis: Public and Estimate.",
-  "sec": "11"
+  ]
  },
- "11.2": {
+ "12.2": {
   "title": "The kind of process moves the price more than the calendar does.",
   "sub": "Enterprise value of Sleep Media by kind of process, $M, applied to forward EBITDA at March 2027.",
   "head": [
@@ -2135,11 +2719,9 @@
     "30 to 33",
     "37 to 42"
    ]
-  ],
-  "source": "Source: recovery model; public trading multiples and brokered-site multiples from earlier research. Basis: Estimate. These are assumptions for comparing bids and not sale floors.",
-  "sec": "11"
+  ]
  },
- "11.3": {
+ "12.3": {
   "title": "A headline price becomes a recovery after six deductions.",
   "sub": null,
   "head": [
@@ -2171,11 +2753,9 @@
     "Timing and certainty",
     "Actual distribution dates, conditions, financing and the cost of a failed sale"
    ]
-  ],
-  "source": "Source: CreditSwan analysis. Basis: Estimate.",
-  "sec": "11"
+  ]
  },
- "12.1": {
+ "13.1": {
   "title": "An earlier sale is worth more than a later one on each case.",
   "sub": "Sleep Media, $M. Each cell shows pool / Comvest.",
   "head": [
@@ -2219,11 +2799,9 @@
     "2.6 / 1.6",
     "About nil"
    ]
-  ],
-  "source": "Source: recovery model (Appendix A). Basis: Model. Later sales include the cash swept before closing. The last column is a five-year harvest with a residual of three times 2031 EBITDA, and excludes cash on hand of about $2.5M.",
-  "sec": "12"
+  ]
  },
- "12.2": {
+ "13.2": {
   "title": "Each half turn of multiple is worth about $2M to Comvest.",
   "sub": "Comvest's value for a March 2027 sale, $M, by case and sale multiple.",
   "head": [
@@ -2259,11 +2837,9 @@
     "13.1",
     "14.7"
    ]
-  ],
-  "source": "Source: recovery model. Basis: Model.",
-  "sec": "12"
+  ]
  },
- "12.3": {
+ "13.3": {
   "title": "On judgement weights the plan is worth about what the September mark implies.",
   "sub": "Comvest's value for Sleep Media, $M.",
   "head": [
@@ -2303,11 +2879,9 @@
     "**12.9**",
     "**11.5**"
    ]
-  ],
-  "source": "Source: recovery model; CreditSwan judgement for the weights. Basis: Estimate. With a modest value for Sleep Care the weighted figure is about $14M, against $13.7M at the September mark. The plan's work is to cut off the Severe case and to reach for the High one.",
-  "sec": "12"
+  ]
  },
- "12.4": {
+ "13.4": {
   "title": "Search revenue and the sale multiple move value most.",
   "sub": "Change in Comvest's value on the Central case, March sale.",
   "head": [
@@ -2374,11 +2948,9 @@
     "Net bids",
     "Mid-January"
    ]
-  ],
-  "source": "Source: recovery model. Basis: Model.",
-  "sec": "12"
+  ]
  },
- "12.5": {
+ "13.5": {
   "title": "Uncontracted levers and Sleep Care explain most of the gap to a full harvest.",
   "sub": "Bridge from a full five-year harvest with every growth lever to the cases in this plan, $M.",
   "head": [
@@ -2417,11 +2989,9 @@
     "19.7",
     "11.6"
    ]
-  ],
-  "source": "Source: earlier CreditSwan harvest model; recovery model. Basis: Model. The first three rows use a five-year harvest with a residual of three times 2031 EBITDA.",
-  "sec": "12"
+  ]
  },
- "12.6": {
+ "13.6": {
   "title": "Holders carry the loan at about a quarter of its face value.",
   "sub": null,
   "head": [
@@ -2445,11 +3015,9 @@
     "Another lender's fund, 30 June 2026",
     "$17.0M"
    ]
-  ],
-  "source": "Source: Commonwealth Credit Partners BDC I, Form 10-Q for 30 September 2026; earlier readings of the June filings, not re-checked. Basis: Public. Applied to 58.9% of the $103.1M December balance.",
-  "sec": "12"
+  ]
  },
- "13.1": {
+ "14.1": {
   "title": "Cash is lowest in January, and the sweep begins in May.",
   "sub": "Month-end cash, $M, Central case. Cash opens at $2.85M on 30 November on the company's forecast.",
   "head": [
@@ -2597,11 +3165,9 @@
     "**2.29**",
     ""
    ]
-  ],
-  "source": "Source: recovery model; 13-week cash forecast of 30 October 2026; long-range plan, collection schedule. Basis: Model. No cash interest and no new money. Cash above $3.0M is swept. December and January receipts are the same on every case.",
-  "sec": "13"
+  ]
  },
- "13.2": {
+ "14.2": {
   "title": "Any of three slips takes cash below the reserve in January.",
   "sub": "Lowest month-end cash, $M, against a $2.0M reserve.",
   "head": [
@@ -2650,11 +3216,1804 @@
     "About 0.5, June",
     "1.5 below"
    ]
-  ],
-  "source": "Source: recovery model; the last row is from the independent rebuild. Basis: Model. The stresses are alternatives and are not added together, except where stated.",
-  "sec": "13"
+  ]
  },
- "14.1": {
+ "15.1": {
+  "title": "Each phase has a purpose and a test that ends it.",
+  "sub": null,
+  "head": [
+   "Phase",
+   "Dates",
+   "Purpose",
+   "Main steps",
+   "The test that ends it"
+  ],
+  "rows": [
+   [
+    "1. Stabilise",
+    "16 to 30 November 2026",
+    "Stop the clock from running against the lenders",
+    "Decline the request. Instruct counsel. Sign the forbearance. Approve retention. Open the controlled account",
+    "Forbearance signed before 30 November"
+   ],
+   [
+    "2. Protect and test",
+    "1 December 2026 to 15 January 2027",
+    "Protect Sleep Media's cash and find out what it is worth",
+    "Cap Sleep Care. Open both sale tracks. Read the clicks. Sign the 2027 partner terms. Sign the handover term sheet",
+    "Written indications and the December evidence in hand"
+   ],
+   [
+    "3. Decide and document",
+    "15 January to 28 February 2027",
+    "Choose the path and sign it",
+    "Apply the decision rule. Extend the forbearance. Sign a sale agreement or the handover documents. Sign or wind down Sleep Care",
+    "Signed documents"
+   ],
+   [
+    "4. Close",
+    "March 2027",
+    "Move Sleep Media to a buyer or to MediaCo",
+    "Consents and assignments. Closing. First distribution or MediaCo's first day",
+    "Closing by 31 March"
+   ],
+   [
+    "5. After closing",
+    "From April 2027",
+    "Return the rest of the cash",
+    "If sold: transition services and winding up the old company. If held: prove the smaller team, sweep cash monthly, return to market",
+    "Final distribution, or a sale by mid-2028"
+   ]
+  ]
+ },
+ "15.2": {
+  "title": "Each workstream has an owner, a first deliverable and a finish.",
+  "sub": null,
+  "head": [
+   "#",
+   "Workstream",
+   "Accountable owner",
+   "Works with",
+   "First deliverable",
+   "Finished when"
+  ],
+  "rows": [
+   [
+    "1",
+    "Lender group and legal",
+    "Comvest, as agent",
+    "Restructuring counsel; the other lenders",
+    "Decline letter and reservation of rights, by 20 November",
+    "The handover or sale has closed"
+   ],
+   [
+    "2",
+    "Cash and reporting",
+    "The company's finance lead",
+    "Lenders' adviser; independent director",
+    "Bank statements and a 13-week forecast reconciled to them",
+    "Cash is swept or distributed under the new structure"
+   ],
+   [
+    "3",
+    "Search and partner revenue",
+    "Media general manager",
+    "SEO lead; lenders' adviser",
+    "Monday click read against 176K, with revenue per click out",
+    "2027 partner terms are signed and assignable"
+   ],
+   [
+    "4",
+    "Sleep Media sale track",
+    "Sell-side adviser",
+    "Company; counsel; lenders' adviser",
+    "Buyer list agreed, by 4 December",
+    "A sale closes, or the record supports the credit bid"
+   ],
+   [
+    "5",
+    "Sleep Care exit",
+    "Independent director",
+    "Sell-side adviser; healthcare counsel",
+    "Spending cap in the 13-week budget, from 1 December",
+    "A buyer has signed, or the wind-down is funded"
+   ],
+   [
+    "6",
+    "Separation and MediaCo",
+    "Chief technology officer",
+    "Restructuring counsel; Media general manager",
+    "Registrar, DNS and admin inventory, by 27 November",
+    "Sleep Media's assets and contracts sit in MediaCo or with a buyer"
+   ],
+   [
+    "7",
+    "People and operating plan",
+    "Media general manager",
+    "Comvest; lenders' adviser",
+    "Quoted retention for about ten staff, by 27 November",
+    "The roster and budget are quoted; the stage 0 checks report"
+   ],
+   [
+    "8",
+    "Tax and structure",
+    "Tax counsel",
+    "Restructuring counsel; company",
+    "Memo on the asset route and the equity route, mid-December",
+    "The chosen structure is in the signed documents"
+   ],
+   [
+    "9",
+    "Governance and reporting",
+    "Comvest",
+    "Independent director; lenders' adviser",
+    "Independent director or restructuring officer in place, by 4 December",
+    "The gate paper is decided and the closing is reported"
+   ]
+  ]
+ },
+ "15.3": {
+  "title": "The workstreams run side by side to a March close.",
+  "sub": "Master timetable by week, 16 November 2026 to 31 March 2027. A square is work under way. A diamond is a dated milestone.",
+  "head": [
+   "Step",
+   "Owner",
+   "16 Nov",
+   "23 Nov",
+   "30 Nov",
+   "7 Dec",
+   "14 Dec",
+   "21 Dec",
+   "28 Dec",
+   "4 Jan",
+   "11 Jan",
+   "18 Jan",
+   "25 Jan",
+   "1 Feb",
+   "8 Feb",
+   "15 Feb",
+   "22 Feb",
+   "1 Mar",
+   "8 Mar",
+   "15 Mar",
+   "22 Mar",
+   "29 Mar"
+  ],
+  "rows": [
+   [
+    "1 Lender group and legal",
+    "Comvest; restructuring counsel",
+    "◆",
+    "■",
+    "◆",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆"
+   ],
+   [
+    "2 Cash and reporting",
+    "Company finance; lenders' adviser",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ],
+   [
+    "3 Search and partner revenue",
+    "Media general manager; lenders' adviser",
+    "■",
+    "◆",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ],
+   [
+    "4 Sleep Media sale track",
+    "Sell-side adviser",
+    "",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ],
+   [
+    "5 Sleep Care exit",
+    "Independent director; healthcare counsel",
+    "",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ],
+   [
+    "6 Separation and MediaCo",
+    "Chief technology officer; counsel",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    "",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ],
+   [
+    "7 People and operating plan",
+    "Media general manager; Comvest",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ],
+   [
+    "8 Tax and structure",
+    "Tax counsel",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "9 Governance and reporting",
+    "Comvest; independent director",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ]
+  ]
+ },
+ "15.4": {
+  "title": "Ten of the first steps start this week.",
+  "sub": "16 November to 18 December 2026, by week.",
+  "head": [
+   "Step",
+   "Owner",
+   "16 Nov",
+   "23 Nov",
+   "30 Nov",
+   "7 Dec",
+   "14 Dec"
+  ],
+  "rows": [
+   [
+    "Decline and reserve rights",
+    "Comvest",
+    "◆",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Instruct three counsel",
+    "Comvest",
+    "■",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Engage the other lenders",
+    "Comvest",
+    "■",
+    "■",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Information requests",
+    "Company",
+    "■",
+    "■",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Two term sheets drafted",
+    "Restructuring counsel",
+    "■",
+    "◆",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Consent matrix, default calendar",
+    "Restructuring counsel",
+    "■",
+    "◆",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Retention for ten staff",
+    "Company; Comvest",
+    "■",
+    "◆",
+    "■",
+    "",
+    ""
+   ],
+   [
+    "Domains and access inventory",
+    "Chief technology officer",
+    "■",
+    "■",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Forbearance signed",
+    "Lenders; company; Vistria",
+    "",
+    "■",
+    "◆",
+    "",
+    ""
+   ],
+   [
+    "Independent director",
+    "Lenders; company",
+    "■",
+    "■",
+    "◆",
+    "",
+    ""
+   ],
+   [
+    "Sleep Care spending cap",
+    "Company; independent director",
+    "",
+    "■",
+    "◆",
+    "",
+    ""
+   ],
+   [
+    "Sell-side adviser",
+    "Company; lenders",
+    "",
+    "■",
+    "◆",
+    "",
+    ""
+   ],
+   [
+    "Click reads",
+    "Lenders' adviser",
+    "",
+    "■",
+    "◆",
+    "◆",
+    "■"
+   ],
+   [
+    "Data room and pack",
+    "Sell-side adviser; company",
+    "",
+    "",
+    "■",
+    "◆",
+    ""
+   ],
+   [
+    "Partner talks",
+    "Media general manager",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ],
+   [
+    "Budget, contracts, tax memos",
+    "Company; counsel",
+    "",
+    "",
+    "■",
+    "■",
+    "◆"
+   ],
+   [
+    "Handover term sheet",
+    "Comvest; Vistria",
+    "",
+    "■",
+    "■",
+    "■",
+    "◆"
+   ],
+   [
+    "Contested route papers",
+    "Restructuring counsel",
+    "",
+    "",
+    "■",
+    "■",
+    "◆"
+   ]
+  ]
+ },
+ "15.5": {
+  "title": "The sale path closes about nineteen weeks from today.",
+  "sub": "Path A: sale of Sleep Media closing by 31 March 2027. By week, with April to June as one column.",
+  "head": [
+   "Step",
+   "Owner",
+   "23 Nov",
+   "30 Nov",
+   "7 Dec",
+   "14 Dec",
+   "21 Dec",
+   "28 Dec",
+   "4 Jan",
+   "11 Jan",
+   "18 Jan",
+   "25 Jan",
+   "1 Feb",
+   "8 Feb",
+   "15 Feb",
+   "22 Feb",
+   "1 Mar",
+   "8 Mar",
+   "15 Mar",
+   "22 Mar",
+   "29 Mar",
+   "Apr to Jun"
+  ],
+  "rows": [
+   [
+    "Prepare the process",
+    "Sell-side adviser",
+    "■",
+    "◆",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Approach buyers",
+    "Sell-side adviser",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Meetings and data room",
+    "Company; adviser",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Written indications",
+    "Buyers",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "The gate",
+    "Comvest and the lenders",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Confirmatory diligence",
+    "One or two buyers",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Sale agreement",
+    "Counsel; adviser",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Consents and assignments",
+    "Counsel; company",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    ""
+   ],
+   [
+    "Closing and distribution",
+    "Lenders; buyer",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "◆",
+    ""
+   ],
+   [
+    "Transition services",
+    "Company; buyer",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■"
+   ],
+   [
+    "Wind up the old company",
+    "Independent director",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■"
+   ]
+  ]
+ },
+ "15.6": {
+  "title": "A hold runs for about nineteen months before a sale.",
+  "sub": "Path B: hold in MediaCo. By month, December 2026 to June 2028. The sale date is the one the model uses.",
+  "head": [
+   "Step",
+   "Owner",
+   "Dec 26",
+   "Jan 27",
+   "Feb 27",
+   "Mar 27",
+   "Apr 27",
+   "May 27",
+   "Jun 27",
+   "Jul 27",
+   "Aug 27",
+   "Sep 27",
+   "Oct 27",
+   "Nov 27",
+   "Dec 27",
+   "Jan 28",
+   "Feb 28",
+   "Mar 28",
+   "Apr 28",
+   "May 28",
+   "Jun 28"
+  ],
+  "rows": [
+   [
+    "Stage 0: hold and build",
+    "Company; lenders' adviser",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Handover documents",
+    "Lenders; counsel",
+    "",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "MediaCo loan to 2030",
+    "Lenders",
+    "",
+    "",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Stage 1: prove",
+    "MediaCo general manager",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Monthly sweep",
+    "MediaCo board",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ],
+   [
+    "Stage 2: extend",
+    "MediaCo general manager",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Hold review",
+    "MediaCo board",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Old loan matures",
+    "—",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Stage 3: settle at six",
+    "MediaCo board",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Return to market",
+    "Sell-side adviser",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    ""
+   ],
+   [
+    "Sale closes",
+    "Lenders; buyer",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "◆"
+   ]
+  ]
+ },
+ "15.7": {
+  "title": "The Sleep Care process runs for about three months.",
+  "sub": "By week, 23 November 2026 to 30 April 2027.",
+  "head": [
+   "Step",
+   "Owner",
+   "23 Nov",
+   "30 Nov",
+   "7 Dec",
+   "14 Dec",
+   "21 Dec",
+   "28 Dec",
+   "4 Jan",
+   "11 Jan",
+   "18 Jan",
+   "25 Jan",
+   "1 Feb",
+   "8 Feb",
+   "15 Feb",
+   "22 Feb",
+   "1 Mar",
+   "8 Mar",
+   "15 Mar",
+   "22 Mar",
+   "29 Mar",
+   "5 Apr",
+   "12 Apr",
+   "19 Apr",
+   "26 Apr"
+  ],
+  "rows": [
+   [
+    "Spending cap",
+    "Company; independent director",
+    "■",
+    "◆",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Healthcare counsel",
+    "Healthcare counsel",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Two packages prepared",
+    "Sell-side adviser",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Approach buyers",
+    "Sell-side adviser",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Indications",
+    "Buyers",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Swap offered to Vistria",
+    "Comvest; Vistria",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Negotiate and sign",
+    "Independent director",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Sale-maintenance team",
+    "Company",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Transfer or wind-down",
+    "Independent director",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ],
+   [
+    "Claims keep flowing",
+    "Company",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■"
+   ]
+  ]
+ },
+ "15.8": {
+  "title": "The contested route can still close by the end of April.",
+  "sub": "Fallback: no handover term sheet by 18 December. By week, 1 December 2026 to 31 May 2027. Dates after December are illustrative.",
+  "head": [
+   "Step",
+   "Owner",
+   "30 Nov",
+   "7 Dec",
+   "14 Dec",
+   "21 Dec",
+   "28 Dec",
+   "4 Jan",
+   "11 Jan",
+   "18 Jan",
+   "25 Jan",
+   "1 Feb",
+   "8 Feb",
+   "15 Feb",
+   "22 Feb",
+   "1 Mar",
+   "8 Mar",
+   "15 Mar",
+   "22 Mar",
+   "29 Mar",
+   "5 Apr",
+   "12 Apr",
+   "19 Apr",
+   "26 Apr",
+   "3 May",
+   "10 May",
+   "17 May",
+   "24 May",
+   "31 May"
+  ],
+  "rows": [
+   [
+    "Prepare in parallel",
+    "Restructuring counsel",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Event of default",
+    "—",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Board change",
+    "Agent; required lenders",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Sale tracks continue",
+    "Independent directors",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Sale of collateral",
+    "Agent; counsel",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "◆",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Court sale, last resort",
+    "Counsel",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    "■",
+    ""
+   ]
+  ]
+ },
+ "15.9": {
+  "title": "Each decision has a date, a decision-maker and the evidence it rests on.",
+  "sub": null,
+  "head": [
+   "Date",
+   "Decision",
+   "Who decides",
+   "Evidence on the table",
+   "If the answer is no"
+  ],
+  "rows": [
+   [
+    "20 Nov 2026",
+    "Decline the request and instruct counsel",
+    "Comvest",
+    "The request of 19 October; the default calendar",
+    "—"
+   ],
+   [
+    "Before 30 Nov",
+    "Sign the forbearance",
+    "Required lenders; the company; Vistria",
+    "Consent matrix; 13-week budget",
+    "The first unpaid cash interest becomes a default. Prepare tools 2 and 3"
+   ],
+   [
+    "18 Dec",
+    "Proceed by agreement or by the contested route",
+    "Comvest",
+    "A signed handover term sheet, or none",
+    "Deliver the direction letter on the first event of default"
+   ],
+   [
+    "31 Dec",
+    "Name the case for 2027",
+    "Comvest, with the lenders' adviser",
+    "Clicks after the update; partner terms as signed",
+    "Low case if the floor lapses. Severe if clicks fall below 176K"
+   ],
+   [
+    "About 15 Jan 2027",
+    "Hold or sell Sleep Media",
+    "Comvest and the lender group",
+    "The case; the best net bid; weekly cash; counsel's matrix",
+    "The rule in section 7.1"
+   ],
+   [
+    "29 Jan",
+    "Extend the forbearance to closing",
+    "Required lenders",
+    "Handover or sale documents in progress",
+    "Tools 2 and 3"
+   ],
+   [
+    "28 Feb",
+    "Sign the Sleep Care deal or wind down",
+    "Independent director",
+    "Net bids; the funded hand-off budget",
+    "A funded wind-down, with patients first"
+   ],
+   [
+    "31 Mar",
+    "Close",
+    "Lenders, with a buyer or MediaCo",
+    "Consents and assignments",
+    "Extend under the forbearance"
+   ],
+   [
+    "30 Sep 2027",
+    "If held: return to market or wait",
+    "MediaCo board",
+    "Two clean quarters as a stand-alone company",
+    "A dated reason to wait"
+   ]
+  ]
+ },
+ "15.10": {
+  "title": "The plan spends about $3.7M to March, mostly by the end of January.",
+  "sub": "Transition spending by workstream, $M, December 2026 to March 2027. All of it is met from the business's own cash.",
+  "head": [
+   "Month",
+   "Sleep Care, net (workstream 5)",
+   "Shared cost until people leave (7)",
+   "Severance and retention (7)",
+   "Legal and control (1 and 8)",
+   "Separation (6)",
+   "Total"
+  ],
+  "rows": [
+   [
+    "December 2026",
+    "0.65",
+    "0.35",
+    "0.35",
+    "0.30",
+    "—",
+    "1.65"
+   ],
+   [
+    "January 2027",
+    "0.35",
+    "0.20",
+    "0.35",
+    "0.20",
+    "0.10",
+    "1.20"
+   ],
+   [
+    "February",
+    "0.15",
+    "0.10",
+    "0.15",
+    "0.10",
+    "0.10",
+    "0.60"
+   ],
+   [
+    "March",
+    "0.05",
+    "—",
+    "—",
+    "0.05",
+    "0.10",
+    "0.20"
+   ],
+   [
+    "**Total**",
+    "**1.20**",
+    "**0.65**",
+    "**0.85**",
+    "**0.65**",
+    "**0.30**",
+    "**3.65**"
+   ]
+  ]
+ },
+ "15.11": {
   "title": "Every step has a date, an owner and a gate.",
   "sub": null,
   "head": [
@@ -2675,6 +5034,12 @@
     "Instruct restructuring, healthcare and tax counsel",
     "Comvest",
     "Engagements signed"
+   ],
+   [
+    "By 20 Nov",
+    "Name an owner for each of the nine workstreams",
+    "Comvest",
+    "Owners named, each with a cover"
    ],
    [
     "About 24 Nov",
@@ -2708,7 +5073,7 @@
    ],
    [
     "From 1 Dec",
-    "Stage 0 of the operating plan in section 10.5: the roster and the holder of each access are recorded, and report-only AI checks are built. No change to Sleep Media's team",
+    "Stage 0 of the operating plan in section 11.5: the roster and the holder of each access are recorded, and report-only AI checks are built. No change to Sleep Media's team",
     "Company, lenders' adviser",
     "Roster and access register; first reports from the link and offer checks"
    ],
@@ -2752,7 +5117,7 @@
     "About 15 Jan 2027",
     "Written indications for Sleep Media and Sleep Care. The gate: hold or sell",
     "Comvest",
-    "The rule in section 6 applied to the evidence"
+    "The rule in section 7 applied to the evidence"
    ],
    [
     "19 Jan",
@@ -2820,11 +5185,9 @@
     "MediaCo board",
     "Two clean month-end closes; no rise in corrections or partner disputes"
    ]
-  ],
-  "source": "Source: company update of 19 October 2026; public registry records; Google Search Status; CreditSwan analysis. Basis: Record and Estimate.",
-  "sec": "14"
+  ]
  },
- "14.2": {
+ "15.12": {
   "title": "Each gate has a response if it is missed.",
   "sub": null,
   "head": [
@@ -2846,7 +5209,7 @@
    [
     "Weekly clicks at or above 176K",
     "A new step-down",
-    "Start the sale review at once and re-cut the budget to the last rung of the ladder in section 10.5"
+    "Start the sale review at once and re-cut the budget to the last rung of the ladder in section 11.5"
    ],
    [
     "2027 partner terms signed by 31 December",
@@ -2856,7 +5219,7 @@
    [
     "13-week forecast clear of the $2.0M reserve",
     "A cash miss",
-    "Use the six ways to add room in section 13, then decision 12"
+    "Use the six ways to add room in section 14, then decision 12"
    ],
    [
     "A bid for Sleep Care by mid-January",
@@ -2868,11 +5231,9 @@
     "Buyers are discounting",
     "Hold in MediaCo with its own loan, and review on 30 September 2027"
    ]
-  ],
-  "source": "Source: CreditSwan analysis. Basis: Estimate.",
-  "sec": "14"
+  ]
  },
- "15.1": {
+ "16.1": {
   "title": "Each risk has a size, an early sign and a response.",
   "sub": null,
   "head": [
@@ -2979,7 +5340,7 @@
     "AI-drafted pages are judged scaled or unoriginal by Google, or a testing or review claim cannot be supported",
     "A demotion on the scale of risk 1, and regulatory exposure on an unsupported claim",
     "Corrections after publication rising; a \"tested\" claim with no stored evidence",
-    "The ten controls in section 10.4; agents write only from the site's own data; no claim is published without a recorded approval"
+    "The ten controls in section 11.4; agents write only from the site's own data; no claim is published without a recorded approval"
    ],
    [
     "15",
@@ -2987,12 +5348,24 @@
     "Rank, partner terms and control of the domains at risk; a buyer discounts a business that rests on one person",
     "A role with no named cover; credentials held by one person",
     "Six people and not one; named cover and runbooks; a shared vault with access for the lenders' designee; key-person cover"
+   ],
+   [
+    "16",
+    "A rival takes the main mattress terms. NapLab led the company's mattress index at the last reading",
+    "Each $1M of 2027 search revenue is about $1.9M to Comvest",
+    "Best-of clicks falling while total clicks hold; the main mattress term below 3rd for two weeks",
+    "Publish the test evidence on the pages that earn; keep the lab; hold yield through the partner terms"
+   ],
+   [
+    "17",
+    "Online rivals cut the cash price of the home test further before Sleep Care is sold",
+    "Each month at a reduced loss costs $0.4M to $0.6M, and a buyer pays less for a shrinking book",
+    "A rival price below $99; acquisition cost back above the $155 budget",
+    "Keep the spending cap; do not chase volume with discounts; sell now"
    ]
-  ],
-  "source": "Source: recovery model; CreditSwan analysis. Basis: Model and Estimate.",
-  "sec": "15"
+  ]
  },
- "16.1": {
+ "17.1": {
   "title": "Each open item has an owner, a date and a decision it governs.",
   "sub": null,
   "head": [
@@ -3239,7 +5612,7 @@
     "Products tested, pages changed and pages reviewed each month",
     "Company",
     "Mid-Dec",
-    "The human work in Table 10.3"
+    "The human work in Table 11.3"
    ],
    [
     "35",
@@ -3254,12 +5627,45 @@
     "Company",
     "After the gate, if held",
     "The tooling and outside-services lines of the six-person budget"
+   ],
+   [
+    "37",
+    "The company's mattress ranking index by site, weekly through 2026. The latest reading seen is December 2025",
+    "Company",
+    "8 Dec",
+    "Where Sleep Foundation stands against NapLab and the Pillar4 sites after the update"
+   ],
+   [
+    "38",
+    "Share of search and presence in AI answers for each rival, from a paid tracker, after the update",
+    "Lenders' adviser",
+    "Mid-Dec",
+    "The competitive read in the information pack, and the case named at the gate"
+   ],
+   [
+    "39",
+    "Rival prices for the home test, weekly, with Sleep Care's cash conversion beside them",
+    "Company",
+    "Now, then weekly",
+    "The spending cap, and what a buyer will pay"
+   ],
+   [
+    "40",
+    "The price and terms of Lofta's sale to ReDream, if obtainable, and the appetite of ReDream and AdaptHealth",
+    "Sale adviser",
+    "Mid-Jan",
+    "The value range for Sleep Care"
+   ],
+   [
+    "41",
+    "A named owner and a cover for each of the nine workstreams",
+    "Comvest",
+    "20 Nov",
+    "Who answers for each step in section 15"
    ]
-  ],
-  "source": "Source: CreditSwan analysis. Basis: Estimate.",
-  "sec": "16"
+  ]
  },
- "17.1": {
+ "18.1": {
   "title": "Each assumption has a basis and a test that would change it.",
   "sub": null,
   "head": [
@@ -3478,10 +5884,24 @@
     "Estimate, from the operating review",
     "Low",
     "The quotes in item 36; the 90-day pilot"
+   ],
+   [
+    "N-27",
+    "The competitive sets and outside measures",
+    "Search visits from one tracker built on Ahrefs data, read 17 November 2026: about 2.0M a month for sleepfoundation.org on its comparison list and 1.3M on the site's own page. Shares of AI answers from RankSpot and one index. Rival prices from sellers' pages. The company's mattress index for December 2025, read from a chart",
+    "Public, third-party estimates, and record",
+    "Low",
+    "Search Console for the site itself; a paid tracker for rivals (item 38); the company's index for 2026 (item 37)"
+   ],
+   [
+    "N-28",
+    "The execution timetable",
+    "A handover by agreement in 4 to 8 weeks from a term sheet; indications by 15 January; signing in February; closing by 31 March; a board change in days to two weeks after a default; a sale of collateral in 6 to 12 weeks",
+    "Estimate",
+    "Low",
+    "Counsel's calendar (items 1 to 4); the sale adviser's process letter"
    ]
-  ],
-  "source": "Source: CreditSwan analysis. Basis: as shown in each row.",
-  "sec": "17"
+  ]
  },
  "A.1": {
   "title": "One set of rules applies to every case and date.",
@@ -3525,7 +5945,7 @@
    [
     "Sleep Media's cost",
     "$5.2M in 2027, rising 3% a year",
-    "Estimate, section 10"
+    "Estimate, section 11"
    ],
    [
     "Tax and hardware",
@@ -3535,7 +5955,7 @@
    [
     "Transition cost, December to March",
     "$1.2M Sleep Care; $0.65M shared; $0.85M severance and retention; $0.65M legal; $0.30M separation",
-    "Estimate, Table 13.1"
+    "Estimate, Table 14.1"
    ],
    [
     "Sweep",
@@ -3557,9 +5977,7 @@
     "None",
     "Stated position"
    ]
-  ],
-  "source": null,
-  "sec": "A"
+  ]
  },
  "A.2": {
   "title": "The cases differ in search revenue, and the Severe case in every line.",
@@ -3610,9 +6028,7 @@
     "Nil",
     "2.5 times"
    ]
-  ],
-  "source": "Source: recovery model. Basis: Model and Estimate. Search revenue in the Low case is 60% of the 2026 forecast of $13.75M, which Table 5.4 expresses as a click level and a yield. The independent rebuild reached the same figure as clicks at 75% and yield at 80% of the forecast. The Severe case is 38.5% of the forecast.",
-  "sec": "A"
+  ]
  },
  "A.3": {
   "title": "The holiday quarter carries about 30% of the year's revenue.",
@@ -3646,9 +6062,7 @@
     "10.5%",
     "10.1%"
    ]
-  ],
-  "source": "Source: long-range plan, Sleep Media monthly revenue for 2026, actual to August. Basis: Record.",
-  "sec": "A"
+  ]
  },
  "A.4": {
   "title": "EBITDA falls each year on every case.",
@@ -3744,9 +6158,7 @@
     "5.7",
     "5.9"
    ]
-  ],
-  "source": "Source: recovery model. Basis: Model.",
-  "sec": "A"
+  ]
  },
  "A.5": {
   "title": "Each value is built from forward EBITDA, cash on hand and cash swept.",
@@ -3921,9 +6333,7 @@
     "2.64",
     "1.56"
    ]
-  ],
-  "source": "Source: recovery model. Basis: Model. Cash to lenders at closing is enterprise value, less selling cost, plus cash on hand, less the reserve. Present value discounts each sweep from its month and the closing cash from the closing date.",
-  "sec": "A"
+  ]
  },
  "A.6": {
   "title": "The model matches an independent rebuild to within 1%.",
@@ -3965,9 +6375,7 @@
     "2.28, 2.21, 2.47, 2.50",
     "Nil"
    ]
-  ],
-  "source": "Source: recovery model; a second analysis of the same source documents, run independently on 16 November 2026. Basis: Model.",
-  "sec": "A"
+  ]
  },
  "A.7": {
   "title": "The smaller team is laid over the same model as a phased saving and a one-off cost.",
@@ -3981,7 +6389,7 @@
    [
     "Saving at the full rate",
     "$0.74M a year in 2027 dollars: the $5.20M budget less $4.46M for a core of six",
-    "Estimate, Table 10.4"
+    "Estimate, Table 11.4"
    ],
    [
     "Phasing of the saving",
@@ -4010,7 +6418,7 @@
    ],
    [
     "Run-off revenue",
-    "2027 as the Severe case, then the rates of decline in Table 10.8",
+    "2027 as the Severe case, then the rates of decline in Table 11.8",
     "Illustration"
    ],
    [
@@ -4018,9 +6426,7 @@
     "The month that returns most to the lenders. Remaining cash less the $0.75M reserve is paid out, and nothing is counted for the site or the domains",
     "Estimate"
    ]
-  ],
-  "source": "Source: recovery model; CreditSwan operating review of 17 November 2026. Basis: Model and Estimate. On the Central case with full credit, forward EBITDA at June 2028 is $6.50M against $5.71M, enterprise value is $22.7M against $20.0M, and cash swept before closing is $6.72M against $6.97M. None of these inputs is in Tables A.1 to A.6, and no case uses them.",
-  "sec": "appendix A"
+  ]
  },
  "B.1": {
   "title": "Each option has a reason for its place in the plan.",
@@ -4042,7 +6448,7 @@
     "The same, with a managed sale of Sleep Media in the first quarter",
     "The early exit",
     "Not valued on that basis",
-    "Live. The sale track in section 11"
+    "Live. The sale track in section 12"
    ],
    [
     "The same, with a $7M take-out of Vistria Credit's strip",
@@ -4102,7 +6508,7 @@
     "Merge MediaCo with another publisher",
     "Cash and a minority stake",
     "Not valued",
-    "A sale structure, in section 11"
+    "A sale structure, in section 12"
    ],
    [
     "Leave Vistria in place with a warrant for the lenders",
@@ -4114,7 +6520,7 @@
     "Run MediaCo with AI and one employee",
     "A one-person company, with or without outside specialists",
     "Not valued",
-    "Set aside as an operating plan. A core of six is the floor (section 10.3). One or two people are the run-off in the Severe case (Table 10.8)"
+    "Set aside as an operating plan. A core of six is the floor (section 11.3). One or two people are the run-off in the Severe case (Table 11.8)"
    ],
    [
     "Hand the operation to another publisher",
@@ -4122,9 +6528,7 @@
     "Not valued",
     "Possible, and closer to a sale with deferred payment. Not costed. Google's site reputation policy and the licence agreements need counsel first"
    ]
-  ],
-  "source": "Source: earlier CreditSwan harvest model for the third column; recovery model; CreditSwan analysis. Basis: Model and Estimate. The third column uses a different method from this plan and is shown for reference. Table 12.5 bridges the two.",
-  "sec": "B"
+  ]
  },
  "C.1": {
   "title": "Earnings, capital and the plan are best covered, and operations least.",
@@ -4162,8 +6566,8 @@
     "4 Market and channels",
     "4",
     "—",
-    "Share against rival sites is not measured",
-    "Share-of-search data after the update"
+    "Share against rival sites rests on outside estimates and a 2025 company index (section 6)",
+    "The company's index for 2026 and a paid tracker after the update"
    ],
    [
     "5 Units and footprint",
@@ -4228,9 +6632,7 @@
     "",
     ""
    ]
-  ],
-  "source": "Source: CreditSwan assessment template; a second analysis of the same source documents, run independently on 16 November 2026. Basis: Estimate. Three further aspects apply to Sleep Care as a consumer service: payer mix and resupply retention are partly supported, and practitioner dependence lacks evidence.",
-  "sec": "C"
+  ]
  },
  "D.1": {
   "title": "Each checked statement has a result and a treatment.",
@@ -4342,13 +6744,13 @@
     "17",
     "The funding bridge holds, with an April low of $0.76M",
     "Right in part: it reproduces, but timing is too favourable",
-    "Rebuilt in section 13 on the company's collection schedule"
+    "Rebuilt in section 14 on the company's collection schedule"
    ],
    [
     "18",
     "Cost and time of each legal route",
     "Right in part: estimates. Vice Media's final bid was about $350M",
-    "Corrected in Table 7.7. For counsel"
+    "Corrected in Table 8.7. For counsel"
    ],
    [
     "19",
@@ -4360,7 +6762,7 @@
     "20",
     "About 15 people can run MediaCo for $5.0M to $5.6M",
     "Right in part: plausible and unproven",
-    "$5.2M working budget, to be quoted. The operating review of 17 November supports a step to six people by early 2028 (section 10.3)"
+    "$5.2M working budget, to be quoted. The operating review of 17 November supports a step to six people by early 2028 (section 11.3)"
    ],
    [
     "21",
@@ -4374,9 +6776,7 @@
     "Not verified: no single ledger tied it to cost, tax and maturity",
     "Replaced by the recovery model"
    ]
-  ],
-  "source": "Source: a second analysis of the same source documents, run independently on 16 November 2026; recovery model. Basis: Record and Estimate.",
-  "sec": "D"
+  ]
  },
  "E.1": {
   "title": "Agents take the high-volume work in every function, and a person keeps one decision in each.",
@@ -4472,9 +6872,7 @@
     "Very little at this size",
     "Yes"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026. Basis: Estimate.",
-  "sec": "appendix E"
+  ]
  },
  "E.2": {
   "title": "Each agent has a trigger, an output, a human gate and a known way of failing.",
@@ -4578,9 +6976,7 @@
     "The general manager and the partnership manager negotiate",
     "None, while people still negotiate"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026. Basis: Estimate.",
-  "sec": "appendix E"
+  ]
  },
  "E.3": {
   "title": "Each limit on a one-person company rests on a rule or a record.",
@@ -4639,11 +7035,9 @@
    [
     "Audience data",
     "Washington's My Health My Data Act covers information, including inferences, that identifies a consumer's health status. It requires opt-in consent to collect and to share and a written contract with each processor, and it gives consumers a right to sue",
-    "For counsel, before quiz, profile or email data is passed to any AI vendor (section 16, item 29)"
+    "For counsel, before quiz, profile or email data is passed to any AI vendor (section 17, item 29)"
    ]
-  ],
-  "source": "Source: the sources listed under the operating review in section 19. Basis: Public and For counsel. The reading of each rule is CreditSwan's and needs counsel.",
-  "sec": "appendix E"
+  ]
  },
  "E.4": {
   "title": "One operator's week comes to 62 hours before leave, illness or the holiday quarter.",
@@ -4693,9 +7087,7 @@
     "**Total**",
     "**62**"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026. Basis: Estimate. If the operator also approved every content change, about 380 a month at 15 minutes each, that would add four to five hours a day. The holiday quarter carries about 30% of the year's revenue (Table A.3).",
-  "sec": "appendix E"
+  ]
  },
  "E.5": {
   "title": "Seven purchases come first, because most of the stack is already in place.",
@@ -4741,9 +7133,7 @@
     "An accounting firm",
     "Chosen for its experience of lender reporting and not for its software"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026. Basis: Estimate. All of this should fit inside the $0.20M a year for agents and added tooling in section 10.4. The agent platform is priced on usage and the affiliate tool by quote, so that line needs a quote before it is relied on (section 16, item 36).",
-  "sec": "appendix E"
+  ]
  },
  "E.6": {
   "title": "Each layer has established options, and startups suit only work that is not critical.",
@@ -4840,8 +7230,6 @@
     "—",
     "None is set up for comparative editorial reviews. No vendor removes the testers"
    ]
-  ],
-  "source": "Source: CreditSwan operating review of 17 November 2026; vendor pages read on 16 and 17 November 2026. Basis: Public. No vendor was contacted, no quote was obtained, and nothing here is a recommendation to buy. The working paper lists each vendor with its link, its price where one was shown and whether its page was opened. A startup on a critical path needs an exit plan.",
-  "sec": "appendix E"
+  ]
  }
 }

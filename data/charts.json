@@ -647,7 +647,7 @@
    ],
    "yFormat": "@m1"
   },
-  "tbl": "6.1"
+  "tbl": "7.2"
  },
  "indiff_ev": {
   "kind": "hbars",
@@ -671,7 +671,7 @@
    ],
    "xFormat": "@m1"
   },
-  "tbl": "6.1"
+  "tbl": "7.2"
  },
  "indiff_mult": {
   "kind": "dumbbell",
@@ -701,7 +701,7 @@
    "xFormat": "@x1",
    "xMax": 4
   },
-  "tbl": "6.1"
+  "tbl": "7.2"
  },
  "gate_gantt": {
   "kind": "gantt",
@@ -773,7 +773,7 @@
    ],
    "today": 0
   },
-  "tbl": "6.2"
+  "tbl": "7.3"
  },
  "tool_cost": {
   "kind": "dumbbell",
@@ -803,7 +803,7 @@
    "xFormat": "@m1",
    "xMax": 6
   },
-  "tbl": "7.1"
+  "tbl": "8.1"
  },
  "tool_time": {
   "kind": "hbars",
@@ -829,7 +829,7 @@
    ],
    "xFormat": "@wk"
   },
-  "tbl": "7.1"
+  "tbl": "8.1"
  },
  "shares": {
   "kind": "hbars",
@@ -887,7 +887,7 @@
    ],
    "yFormat": "@m1"
   },
-  "tbl": "7.6"
+  "tbl": "8.6"
  },
  "lincoln": {
   "kind": "bars",
@@ -909,7 +909,7 @@
    ],
    "yFormat": "@b1"
   },
-  "tbl": "7.7"
+  "tbl": "8.7"
  },
  "route_time": {
   "kind": "dumbbell",
@@ -933,7 +933,7 @@
    "xFormat": "@wk",
    "xMax": 12
   },
-  "tbl": "7.3"
+  "tbl": "8.3"
  },
  "cac": {
   "kind": "dumbbell",
@@ -957,7 +957,7 @@
    "xFormat": "@usd0",
    "xMax": 600
   },
-  "tbl": "8.1"
+  "tbl": "9.1"
  },
  "patients": {
   "kind": "bars",
@@ -981,7 +981,7 @@
    ],
    "yFormat": "@n0"
   },
-  "tbl": "8.1"
+  "tbl": "9.1"
  },
  "cohorts": {
   "kind": "hbars",
@@ -1008,7 +1008,7 @@
    "xFormat": "@n2",
    "xMax": 1.5
   },
-  "tbl": "8.1"
+  "tbl": "9.1"
  },
  "care_pl": {
   "kind": "waterfall",
@@ -1094,7 +1094,7 @@
    "xFormat": "@m2",
    "xMax": 1
   },
-  "tbl": "9.1"
+  "tbl": "10.1"
  },
  "registry": {
   "kind": "gantt",
@@ -1147,7 +1147,7 @@
    ],
    "today": 6
   },
-  "tbl": "9.3"
+  "tbl": "10.3"
  },
  "budget": {
   "kind": "hbars",
@@ -1177,7 +1177,7 @@
    ],
    "xFormat": "@m2"
   },
-  "tbl": "10.1"
+  "tbl": "11.1"
  },
  "team": {
   "kind": "hbars",
@@ -1249,7 +1249,7 @@
    ],
    "xFormat": "@m1"
   },
-  "tbl": "10.2"
+  "tbl": "11.2"
  },
  "process": {
   "kind": "dumbbell",
@@ -1276,7 +1276,7 @@
    "xFormat": "@m0",
    "xMax": 40
   },
-  "tbl": "11.2"
+  "tbl": "12.2"
  },
  "referral": {
   "kind": "hbars",
@@ -1324,7 +1324,7 @@
    ],
    "xFormat": "@m1"
   },
-  "tbl": "12.1"
+  "tbl": "13.1"
  },
  "val_date": {
   "kind": "line",
@@ -1373,7 +1373,7 @@
    "yFormat": "@m1",
    "yMax": 20
   },
-  "tbl": "12.1"
+  "tbl": "13.1"
  },
  "mult_heat": {
   "kind": "heat",
@@ -1417,7 +1417,7 @@
    ],
    "format": "@m1"
   },
-  "tbl": "12.2"
+  "tbl": "13.2"
  },
  "weighted": {
   "kind": "hbars",
@@ -1441,7 +1441,7 @@
    ],
    "xFormat": "@m1"
   },
-  "tbl": "12.3"
+  "tbl": "13.3"
  },
  "sens": {
   "kind": "hbars",
@@ -1473,7 +1473,7 @@
    ],
    "xFormat": "@m2"
   },
-  "tbl": "12.4"
+  "tbl": "13.4"
  },
  "bridge": {
   "kind": "waterfall",
@@ -1524,7 +1524,7 @@
    ],
    "yFormat": "@m1"
   },
-  "tbl": "12.5"
+  "tbl": "13.5"
  },
  "marks": {
   "kind": "hbars",
@@ -1548,7 +1548,7 @@
    ],
    "xFormat": "@m1"
   },
-  "tbl": "12.6"
+  "tbl": "13.6"
  },
  "cash_line": {
   "kind": "line",
@@ -1603,7 +1603,7 @@
    "yMax": 4,
    "area": true
   },
-  "tbl": "13.1"
+  "tbl": "14.1"
  },
  "stress": {
   "kind": "hbars",
@@ -1638,7 +1638,7 @@
    "xFormat": "@m2",
    "xMax": 2.5
   },
-  "tbl": "13.2"
+  "tbl": "14.2"
  },
  "trans": {
   "kind": "stacked",
@@ -1700,7 +1700,7 @@
    ],
    "yFormat": "@m2"
   },
-  "tbl": "13.1"
+  "tbl": "14.1"
  },
  "sweep": {
   "kind": "bars",
@@ -1728,7 +1728,7 @@
    ],
    "yFormat": "@m2"
   },
-  "tbl": "13.1"
+  "tbl": "14.1"
  },
  "receipts": {
   "kind": "bars",
@@ -1766,7 +1766,7 @@
    ],
    "yFormat": "@m2"
   },
-  "tbl": "13.1"
+  "tbl": "14.1"
  },
  "season": {
   "kind": "bars",
@@ -1918,105 +1918,6 @@
   },
   "tbl": "A.4"
  },
- "roadmap": {
-  "kind": "gantt",
-  "title": "The plan runs about nineteen weeks to a March close.",
-  "sub": "Main steps from 16 November 2026 to 31 March 2027. The claret line is 16 November.",
-  "o": {
-   "rows": [
-    {
-     "label": "Core update",
-     "start": 0,
-     "end": 8,
-     "kind": "secondary",
-     "note": "Began 10 November; due to complete about 24 November"
-    },
-    {
-     "label": "Decline, counsel",
-     "start": 0,
-     "end": 4,
-     "note": "By 20 November"
-    },
-    {
-     "label": "Forbearance",
-     "start": 14,
-     "end": 74,
-     "note": "Signed before 30 November; runs to 29 January"
-    },
-    {
-     "label": "Term sheet",
-     "start": 14,
-     "end": 32,
-     "kind": "secondary",
-     "note": "Vistria signs by 18 December"
-    },
-    {
-     "label": "Partner terms",
-     "start": 0,
-     "end": 45,
-     "kind": "secondary",
-     "note": "2027 terms signed before 31 December"
-    },
-    {
-     "label": "Sale tracks",
-     "start": 15,
-     "end": 60,
-     "note": "Open 1 December; indications about 15 January"
-    },
-    {
-     "label": "The gate",
-     "start": 59,
-     "end": 61,
-     "kind": "caution",
-     "note": "About 15 January 2027: hold or sell"
-    },
-    {
-     "label": "Signing, closing",
-     "start": 77,
-     "end": 135,
-     "note": "February to March; target close 31 March"
-    },
-    {
-     "label": "Liquidity tests",
-     "start": 0,
-     "end": 104,
-     "kind": "secondary",
-     "note": "Monthly to 28 February"
-    },
-    {
-     "label": "Earnings test",
-     "start": 131,
-     "end": 135,
-     "kind": "caution",
-     "note": "31 March 2027"
-    }
-   ],
-   "range": [
-    0,
-    135
-   ],
-   "ticks": [
-    {
-     "at": 15,
-     "label": "1 Dec"
-    },
-    {
-     "at": 46,
-     "label": "1 Jan"
-    },
-    {
-     "at": 77,
-     "label": "1 Feb"
-    },
-    {
-     "at": 105,
-     "label": "1 Mar"
-    }
-   ],
-   "today": 0
-  },
-  "tbl": "14.1"
- },
  "first2w": {
   "kind": "gantt",
   "title": "The first gates all fall within two weeks.",
@@ -2090,7 +1991,7 @@
    ],
    "today": 0
   },
-  "tbl": "14.1"
+  "tbl": "15.11"
  },
  "risks": {
   "kind": "hbars",
@@ -2118,7 +2019,7 @@
    ],
    "xFormat": "@m1"
   },
-  "tbl": "15.1"
+  "tbl": "16.1"
  },
  "options": {
   "kind": "hbars",
@@ -2165,8 +2066,8 @@
     {
      "name": "Findings",
      "values": [
-      5,
-      3
+      6,
+      4
      ]
     }
    ],
@@ -2191,7 +2092,7 @@
      "name": "Decisions",
      "values": [
       6,
-      2,
+      3,
       2,
       2,
       1
@@ -2219,7 +2120,7 @@
     {
      "name": "Steps",
      "values": [
-      6,
+      7,
       8,
       3,
       4,
@@ -2230,7 +2131,7 @@
    ],
    "xFormat": "@n0"
   },
-  "tbl": "14.1"
+  "tbl": "15.11"
  },
  "coverage": {
   "kind": "stacked",
@@ -2464,19 +2365,19 @@
     {
      "name": "Open items",
      "values": [
-      11,
-      3,
+      12,
+      4,
+      2,
+      17,
       1,
-      16,
-      1,
-      3,
+      4,
       1
      ]
     }
    ],
    "xFormat": "@n0"
   },
-  "tbl": "16.1"
+  "tbl": "17.1"
  },
  "items_owner": {
   "kind": "hbars",
@@ -2497,20 +2398,20 @@
     {
      "name": "Open items",
      "values": [
-      19,
+      21,
       8,
       3,
       2,
       1,
-      1,
-      1,
-      1
+      2,
+      2,
+      2
      ]
     }
    ],
    "xFormat": "@n0"
   },
-  "tbl": "16.1"
+  "tbl": "17.1"
  },
  "op_fte": {
   "kind": "dumbbell",
@@ -2558,7 +2459,7 @@
   },
   "title": "The human work left after AI needs several people, whoever employs them.",
   "sub": "Full-time equivalents of human work that remain after AI, by kind of work, low and high estimate. The total is about 6 to 9.",
-  "tbl": "10.3"
+  "tbl": "11.3"
  },
  "op_models": {
   "kind": "hbars",
@@ -2590,7 +2491,7 @@
   },
   "title": "No model that keeps the testing and review costs less than about $4.0M.",
   "sub": "Cost a year by staffing model, $M, in 2027 dollars. The run-off and the strict model end the testing and the review.",
-  "tbl": "10.4"
+  "tbl": "11.4"
  },
  "op_bridge": {
   "kind": "waterfall",
@@ -2631,7 +2532,7 @@
   },
   "title": "About half of the payroll saving is spent again on outside firms and tools.",
   "sub": "From the day-one budget to the six-person budget, $M a year in 2027 dollars.",
-  "tbl": "10.4"
+  "tbl": "11.4"
  },
  "op_stages": {
   "kind": "gantt",
@@ -2700,7 +2601,7 @@
   },
   "title": "No role goes before its workflow is proved on a small set of pages.",
   "sub": "Four stages from 16 November 2026 to early 2028, on a handover in March 2027. The claret line is 16 November.",
-  "tbl": "10.6"
+  "tbl": "11.6"
  },
  "op_ladder": {
   "kind": "hbars",
@@ -2726,7 +2627,7 @@
   },
   "title": "The team and its cost step down as revenue falls.",
   "sub": "Cost a year by rung of Sleep Media revenue, $M, at the middle of each range.",
-  "tbl": "10.7"
+  "tbl": "11.7"
  },
  "op_runoff": {
   "kind": "hbars",
@@ -2756,7 +2657,7 @@
   },
   "title": "A sale at 2.5 times beats a run-off on most rates of decline.",
   "sub": "Severe case: value to the lender pool by route, $M, present value at 16 November 2026. The sale is at 2.5 times, and the run-off rows differ in how fast revenue falls after 2027.",
-  "tbl": "10.8"
+  "tbl": "11.8"
  },
  "op_value": {
   "kind": "bars",
@@ -2796,7 +2697,7 @@
   },
   "title": "A March sale still leads a hold on each case, even with the smaller team.",
   "sub": "Comvest's value for Sleep Media by case, $M, present value at 16 November 2026. A hold closes in June 2028 at 3.5 times.",
-  "tbl": "10.9"
+  "tbl": "11.9"
  },
  "op_week": {
   "kind": "hbars",
@@ -2868,7 +2769,7 @@
   },
   "title": "A small fall in revenue cancels the saving from each model that keeps the work.",
   "sub": "Further fall in 2027 revenue that cancels each model's saving, %, on High-case and Low-case revenue.",
-  "tbl": "10.4"
+  "tbl": "11.4"
  },
  "op_worth": {
   "kind": "hbars",
@@ -2939,7 +2840,7 @@
   },
   "title": "A company with a single employee still relies on several outside people.",
   "sub": "Employees and outside full-time equivalents by staffing model. Outside figures are the middle of each range.",
-  "tbl": "10.4"
+  "tbl": "11.4"
  },
  "op_revcases": {
   "kind": "line",
@@ -2999,5 +2900,3137 @@
   "title": "On the Central and Low cases revenue reaches the next rung within a few years.",
   "sub": "Sleep Media revenue by case, $M, 2027 to 2031. The rungs of the staffing ladder sit at $14M, $11M and $8M.",
   "tbl": "A.4"
+ },
+ "cm_visits": {
+  "kind": "hbars",
+  "title": "Sleep Foundation is the largest site in its field by search visits.",
+  "sub": "Estimated organic search visits a month from one tracker's comparison list, read 17 November 2026. The tracker's own page for sleepfoundation.org shows 1.3M.",
+  "o": {
+   "labels": [
+    "Sleep Foundation",
+    "Mattress Firm",
+    "NapLab",
+    "Mattress Clarity",
+    "Casper",
+    "Sleepopolis",
+    "Mattress Nerd",
+    "Sleep Advisor"
+   ],
+   "series": [
+    {
+     "name": "Search visits a month",
+     "values": [
+      2000,
+      868,
+      599,
+      403,
+      368,
+      358,
+      346,
+      55
+     ]
+    }
+   ],
+   "xFormat": "@vk",
+   "xMax": 2400
+  },
+  "tbl": "6.1"
+ },
+ "cm_index": {
+  "kind": "hbars",
+  "title": "A tester-led rival led the mattress rankings at the last reading.",
+  "sub": "The company's mattress ranking index by site, $K, December 2025, about. Read from a chart in the board deck.",
+  "o": {
+   "labels": [
+    "NapLab",
+    "Sleep Foundation",
+    "Mattress Nerd",
+    "Sleepopolis",
+    "Wirecutter",
+    "Forbes"
+   ],
+   "series": [
+    {
+     "name": "Ranking index",
+     "values": [
+      850,
+      500,
+      500,
+      150,
+      150,
+      30
+     ]
+    }
+   ],
+   "xFormat": "@k0"
+  },
+  "tbl": "6.2"
+ },
+ "cm_types": {
+  "kind": "hbars",
+  "title": "Specialist review sites hold most of the mattress rankings.",
+  "sub": "The company's mattress ranking index by kind of site, $M, December 2025, about. Read from a chart in the board deck.",
+  "o": {
+   "labels": [
+    "Specialist review sites",
+    "Forums",
+    "General media"
+   ],
+   "series": [
+    {
+     "name": "Ranking index",
+     "values": [
+      2.5,
+      0.85,
+      0.3
+     ]
+    }
+   ],
+   "xFormat": "@m2"
+  },
+  "tbl": "6.2"
+ },
+ "cm_ai": {
+  "kind": "hbars",
+  "title": "Sleep Foundation is named in more AI answers on mattresses than its rivals.",
+  "sub": "Share of AI answers on mattresses that name each site, %, October 2026, about. Read 4 November; the index no longer publishes it by site.",
+  "o": {
+   "labels": [
+    "Sleep Foundation",
+    "Mattress Clarity",
+    "Mattress Nerd",
+    "Sleepopolis"
+   ],
+   "series": [
+    {
+     "name": "Share of answers",
+     "values": [
+      90,
+      60,
+      49,
+      44
+     ]
+    }
+   ],
+   "xFormat": "@pct0",
+   "xMax": 100
+  },
+  "tbl": "6.3"
+ },
+ "cm_engine": {
+  "kind": "bars",
+  "title": "ChatGPT cites Sleep Foundation often, and Google's AI answers rarely do.",
+  "sub": "Share of AI answers to buying questions that cite each source, %, 1 September to 17 November 2026.",
+  "o": {
+   "labels": [
+    "ChatGPT",
+    "Google AI Overviews",
+    "Google AI Mode"
+   ],
+   "series": [
+    {
+     "name": "Sleep Foundation",
+     "values": [
+      3.9,
+      0.5,
+      0.3
+     ]
+    },
+    {
+     "name": "YouTube",
+     "values": [
+      0.8,
+      21.9,
+      9.2
+     ]
+    },
+    {
+     "name": "Reddit",
+     "values": [
+      2.2,
+      15.0,
+      8.2
+     ]
+    }
+   ],
+   "yFormat": "@pct1"
+  },
+  "tbl": "6.3"
+ },
+ "cm_links": {
+  "kind": "hbars",
+  "title": "Sleep Foundation has about ten times the links of its nearest specialist rival.",
+  "sub": "Websites that link to each site, thousands, November 2026. The 2021 underwriting counted 52.5K against 4.5K.",
+  "o": {
+   "labels": [
+    "Sleep Foundation",
+    "Sleepopolis"
+   ],
+   "series": [
+    {
+     "name": "Linking websites",
+     "values": [
+      81.6,
+      7.8
+     ]
+    }
+   ],
+   "xFormat": "@kc1"
+  },
+  "tbl": "6.3"
+ },
+ "cm_matrix": {
+  "kind": "heat",
+  "title": "Sleep Foundation scores highest on trust and lower on proof of testing.",
+  "sub": "CreditSwan's scores on a five-point scale, where 5 is strongest. A blank cell is not scored. AI is presence in AI answers, and Neutral is independence from sellers.",
+  "o": {
+   "rows": [
+    "Sleep Foundation",
+    "NapLab",
+    "Pillar4 sites",
+    "Large publishers",
+    "Health publishers",
+    "Retailers, brands"
+   ],
+   "cols": [
+    "Links",
+    "Rankings",
+    "Testing",
+    "Medical",
+    "AI",
+    "Readers",
+    "Neutral"
+   ],
+   "values": [
+    [
+     5,
+     3,
+     4,
+     5,
+     5,
+     4,
+     3
+    ],
+    [
+     2,
+     5,
+     5,
+     1,
+     null,
+     2,
+     4
+    ],
+    [
+     3,
+     3,
+     3,
+     2,
+     3,
+     null,
+     2
+    ],
+    [
+     5,
+     2,
+     3,
+     2,
+     3,
+     5,
+     4
+    ],
+    [
+     5,
+     1,
+     1,
+     5,
+     4,
+     4,
+     4
+    ],
+    [
+     3,
+     3,
+     1,
+     1,
+     4,
+     4,
+     1
+    ]
+   ],
+   "format": "@n0",
+   "min": 1,
+   "max": 5
+  },
+  "tbl": "6.4"
+ },
+ "cm_position": {
+  "kind": "position",
+  "title": "Sleep Foundation and NapLab draw the most visits for each page.",
+  "sub": "Estimated search visits a month against visits for each ranking page, from one tracker, read 17 November 2026.",
+  "o": {
+   "points": [
+    {
+     "label": "Sleep Foundation",
+     "x": 2000,
+     "y": 1250,
+     "self": true
+    },
+    {
+     "label": "NapLab",
+     "x": 599,
+     "y": 693
+    },
+    {
+     "label": "Mattress Clarity",
+     "x": 403,
+     "y": 288
+    },
+    {
+     "label": "Sleepopolis",
+     "x": 358,
+     "y": 199
+    },
+    {
+     "label": "Mattress Nerd",
+     "x": 346,
+     "y": 426
+    },
+    {
+     "label": "Sleep Advisor",
+     "x": 55,
+     "y": 55
+    }
+   ],
+   "xLabel": "Search visits a month",
+   "yLabel": "Visits for each ranking page",
+   "xFormat": "@vk",
+   "yFormat": "@n0"
+  },
+  "tbl": "6.1"
+ },
+ "cc_price": {
+  "kind": "dumbbell",
+  "title": "Sleep Care charges the most for a home test among the online sellers read.",
+  "sub": "Cash price of a one-night home sleep apnea test, list price against the lowest price charged, 17 November 2026. The first three sell the WatchPAT One, and Sleeplay sells the other two devices.",
+  "o": {
+   "labels": [
+    "Sleep Care",
+    "Sleeplay",
+    "Lofta",
+    "NightOwl device",
+    "Wesper device"
+   ],
+   "from": [
+    349,
+    249,
+    249,
+    189,
+    199
+   ],
+   "to": [
+    189,
+    139,
+    99,
+    99,
+    99
+   ],
+   "fromName": "List price shown",
+   "toName": "Lowest price charged",
+   "xFormat": "@usd0",
+   "xMax": 400
+  },
+  "tbl": "6.6"
+ },
+ "cc_position": {
+  "kind": "position",
+  "title": "Sleep Care charges the most and shows the highest rating.",
+  "sub": "Lowest cash price charged for a home test against the rating each seller shows, 17 November 2026. The review counts differ widely.",
+  "o": {
+   "points": [
+    {
+     "label": "Sleep Care",
+     "x": 189,
+     "y": 4.9,
+     "self": true
+    },
+    {
+     "label": "Lofta",
+     "x": 99,
+     "y": 4.5
+    },
+    {
+     "label": "Sleeplay, WatchPAT",
+     "x": 139,
+     "y": 4.5
+    },
+    {
+     "label": "Sleeplay, Wesper",
+     "x": 99,
+     "y": 4.3
+    }
+   ],
+   "xLabel": "Lowest cash price",
+   "yLabel": "Rating shown by the seller",
+   "xFormat": "@usd0",
+   "yFormat": "@r1"
+  },
+  "tbl": "6.6"
+ },
+ "cc_funding": {
+  "kind": "hbars",
+  "title": "Rival clinics have raised fresh capital, and Sleep Care has none to draw on.",
+  "sub": "Latest funding round of each insured virtual clinic, $M, 2025 and 2026, against new money available to Sleep Care.",
+  "o": {
+   "labels": [
+    "BetterNight",
+    "Dreem Health (Sunrise)",
+    "Ognomy",
+    "Sleep Care"
+   ],
+   "series": [
+    {
+     "name": "Raised",
+     "values": [
+      33,
+      29,
+      20,
+      0
+     ]
+    }
+   ],
+   "xFormat": "@m0"
+  },
+  "tbl": "6.5"
+ },
+ "cc_matrix": {
+  "kind": "heat",
+  "title": "Sleep Care is strongest on finding patients and clinical care, and weakest on funding.",
+  "sub": "CreditSwan's scores on a five-point scale, where 5 is strongest. A blank cell is not scored. Price is the cash price, and Finding is the cost of finding a patient.",
+  "o": {
+   "rows": [
+    "Sleep Care",
+    "ReDream Brands",
+    "Virtual clinics",
+    "Equipment firms",
+    "ResMed"
+   ],
+   "cols": [
+    "Scale",
+    "Price",
+    "Insurance",
+    "Clinical",
+    "Funding",
+    "Resupply",
+    "Finding"
+   ],
+   "values": [
+    [
+     2,
+     2,
+     2,
+     4,
+     1,
+     2,
+     4
+    ],
+    [
+     5,
+     5,
+     1,
+     2,
+     4,
+     4,
+     4
+    ],
+    [
+     3,
+     null,
+     5,
+     5,
+     4,
+     2,
+     null
+    ],
+    [
+     5,
+     null,
+     5,
+     2,
+     3,
+     5,
+     2
+    ],
+    [
+     5,
+     4,
+     null,
+     2,
+     5,
+     5,
+     null
+    ]
+   ],
+   "format": "@n0",
+   "min": 1,
+   "max": 5
+  },
+  "tbl": "6.8"
+ },
+ "cc_mgmt": {
+  "kind": "stacked",
+  "title": "Management credits Sleep Care with all nine capabilities.",
+  "sub": "Capabilities marked full and part for each group, of nine, on management's own matrix of 19 October 2026. The label is full and part together.",
+  "o": {
+   "labels": [
+    "Sleep Care",
+    "ReDream",
+    "Online retailers",
+    "Other platforms",
+    "Clinical platforms",
+    "Suppliers"
+   ],
+   "series": [
+    {
+     "name": "Full",
+     "values": [
+      9,
+      5,
+      2,
+      3,
+      4,
+      3
+     ]
+    },
+    {
+     "name": "Part",
+     "values": [
+      0,
+      2,
+      1,
+      5,
+      4,
+      5
+     ]
+    }
+   ],
+   "yFormat": "@n0",
+   "yMax": 12
+  },
+  "tbl": "6.7",
+  "totals": [
+   "9",
+   "7",
+   "3",
+   "8",
+   "8",
+   "8"
+  ]
+ },
+ "xp_master": {
+  "kind": "gantt",
+  "title": "The workstreams run side by side to a March close.",
+  "sub": "Nine workstreams by week, 16 November 2026 to 31 March 2027. Dashed lines are the six gates, and the claret line is 16 November.",
+  "o": {
+   "rows": [
+    {
+     "label": "1 Lender group and legal",
+     "bars": [
+      {
+       "s": 0,
+       "e": 14,
+       "k": "s",
+       "note": "Decline, counsel, consent matrix, forbearance signed"
+      },
+      {
+       "s": 14,
+       "e": 74,
+       "k": "p",
+       "note": "Forbearance in force; handover term sheet by 18 December"
+      },
+      {
+       "s": 74,
+       "e": 135,
+       "k": "p",
+       "note": "Forbearance extended to closing; documents signed in February"
+      }
+     ],
+     "marks": [
+      {
+       "at": 4,
+       "label": "Decline sent",
+       "when": "20 Nov"
+      },
+      {
+       "at": 14,
+       "label": "Forbearance signed",
+       "when": "30 Nov"
+      },
+      {
+       "at": 32,
+       "label": "Term sheet signed",
+       "when": "18 Dec"
+      },
+      {
+       "at": 135,
+       "label": "Close",
+       "when": "31 Mar"
+      }
+     ],
+     "short": "1 Lenders, legal",
+     "owner": "Comvest; restructuring counsel"
+    },
+    {
+     "label": "2 Cash and reporting",
+     "bars": [
+      {
+       "s": 0,
+       "e": 14,
+       "k": "s",
+       "note": "Bank statements verified; controlled account opened"
+      },
+      {
+       "s": 14,
+       "e": 135,
+       "k": "p",
+       "note": "Weekly 13-week cash, reconciled to the bank"
+      }
+     ],
+     "marks": [
+      {
+       "at": 104,
+       "label": "Last liquidity test",
+       "when": "28 Feb"
+      }
+     ],
+     "short": "2 Cash",
+     "owner": "Company finance; lenders' adviser"
+    },
+    {
+     "label": "3 Search and partner revenue",
+     "bars": [
+      {
+       "s": 0,
+       "e": 45,
+       "k": "p",
+       "note": "Click reads after the update; 2027 terms with 3Z and two more partners"
+      },
+      {
+       "s": 45,
+       "e": 135,
+       "k": "s",
+       "note": "Weekly clicks against 176K, with revenue per click out"
+      }
+     ],
+     "marks": [
+      {
+       "at": 8,
+       "label": "Update due to complete",
+       "when": "24 Nov"
+      },
+      {
+       "at": 22,
+       "label": "First clean week",
+       "when": "8 Dec"
+      },
+      {
+       "at": 45,
+       "label": "Partner terms signed",
+       "when": "31 Dec"
+      }
+     ],
+     "short": "3 Search, partners",
+     "owner": "Media general manager; lenders' adviser"
+    },
+    {
+     "label": "4 Sleep Media sale track",
+     "bars": [
+      {
+       "s": 7,
+       "e": 25,
+       "k": "s",
+       "note": "Adviser engaged; buyer list, pack and data room"
+      },
+      {
+       "s": 21,
+       "e": 60,
+       "k": "p",
+       "note": "Buyers approached; written indications"
+      },
+      {
+       "s": 63,
+       "e": 135,
+       "k": "p",
+       "note": "If sold: diligence, signing in February, closing in March"
+      }
+     ],
+     "marks": [
+      {
+       "at": 18,
+       "label": "Adviser engaged",
+       "when": "4 Dec"
+      },
+      {
+       "at": 60,
+       "label": "Indications",
+       "when": "15 Jan"
+      }
+     ],
+     "short": "4 Media sale",
+     "owner": "Sell-side adviser"
+    },
+    {
+     "label": "5 Sleep Care exit",
+     "bars": [
+      {
+       "s": 7,
+       "e": 15,
+       "k": "s",
+       "note": "Spending cap set in the 13-week budget"
+      },
+      {
+       "s": 15,
+       "e": 60,
+       "k": "p",
+       "note": "Two packages offered; indications"
+      },
+      {
+       "s": 63,
+       "e": 104,
+       "k": "p",
+       "note": "Signed deal, or a decision to wind down"
+      },
+      {
+       "s": 105,
+       "e": 135,
+       "k": "s",
+       "note": "Transfer of staff, orders and patient duties"
+      }
+     ],
+     "marks": [
+      {
+       "at": 15,
+       "label": "Cap takes effect",
+       "when": "1 Dec"
+      },
+      {
+       "at": 104,
+       "label": "Sign or wind down",
+       "when": "28 Feb"
+      }
+     ],
+     "short": "5 Sleep Care",
+     "owner": "Independent director; healthcare counsel"
+    },
+    {
+     "label": "6 Separation and MediaCo",
+     "bars": [
+      {
+       "s": 0,
+       "e": 28,
+       "k": "p",
+       "note": "Ring-fence: account, registrar, DNS, data wall, separate books"
+      },
+      {
+       "s": 14,
+       "e": 32,
+       "k": "s",
+       "note": "Contract assignment review"
+      },
+      {
+       "s": 63,
+       "e": 135,
+       "k": "p",
+       "note": "Legal separation into MediaCo, or to a buyer"
+      }
+     ],
+     "marks": [
+      {
+       "at": 35,
+       "label": "sleepapnea.org renewed",
+       "when": "21 Dec"
+      },
+      {
+       "at": 64,
+       "label": "thesleepdoctor.com renewed",
+       "when": "19 Jan"
+      }
+     ],
+     "short": "6 Separation",
+     "owner": "Chief technology officer; counsel"
+    },
+    {
+     "label": "7 People and operating plan",
+     "bars": [
+      {
+       "s": 0,
+       "e": 18,
+       "k": "p",
+       "note": "Retention quoted, approved and signed"
+      },
+      {
+       "s": 15,
+       "e": 32,
+       "k": "s",
+       "note": "Quoted MediaCo budget and named roster"
+      },
+      {
+       "s": 15,
+       "e": 135,
+       "k": "s",
+       "note": "Report-only AI checks built; no change to the team"
+      }
+     ],
+     "marks": [
+      {
+       "at": 11,
+       "label": "Retention approved",
+       "when": "27 Nov"
+      }
+     ],
+     "short": "7 People",
+     "owner": "Media general manager; Comvest"
+    },
+    {
+     "label": "8 Tax and structure",
+     "bars": [
+      {
+       "s": 4,
+       "e": 32,
+       "k": "p",
+       "note": "Entity status, remaining basis, asset or equity route"
+      },
+      {
+       "s": 32,
+       "e": 60,
+       "k": "s",
+       "note": "Cancelled-debt income; state and sales tax"
+      },
+      {
+       "s": 63,
+       "e": 102,
+       "k": "s",
+       "note": "Structure written into the documents"
+      }
+     ],
+     "marks": [
+      {
+       "at": 32,
+       "label": "Route memo",
+       "when": "18 Dec"
+      }
+     ],
+     "short": "8 Tax",
+     "owner": "Tax counsel"
+    },
+    {
+     "label": "9 Governance and reporting",
+     "bars": [
+      {
+       "s": 4,
+       "e": 18,
+       "k": "p",
+       "note": "Independent director or restructuring officer in place"
+      },
+      {
+       "s": 11,
+       "e": 135,
+       "k": "s",
+       "note": "Friday one-page update to the lenders"
+      },
+      {
+       "s": 53,
+       "e": 60,
+       "k": "c",
+       "note": "Gate paper: the rule applied to the evidence"
+      }
+     ],
+     "marks": [
+      {
+       "at": 60,
+       "label": "Gate decision",
+       "when": "15 Jan"
+      }
+     ],
+     "short": "9 Governance",
+     "owner": "Comvest; independent director"
+    }
+   ],
+   "range": [
+    0,
+    135
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    },
+    {
+     "at": 46,
+     "label": "1 Jan"
+    },
+    {
+     "at": 77,
+     "label": "1 Feb"
+    },
+    {
+     "at": 105,
+     "label": "1 Mar"
+    }
+   ],
+   "gates": [
+    {
+     "at": 14,
+     "label": "30 Nov",
+     "note": "Forbearance signed; in-kind interest period ends"
+    },
+    {
+     "at": 32,
+     "label": "18 Dec",
+     "note": "Handover term sheet signed"
+    },
+    {
+     "at": 45,
+     "label": "31 Dec",
+     "note": "2027 partner terms signed; click floor expires"
+    },
+    {
+     "at": 60,
+     "label": "15 Jan",
+     "note": "The gate: hold or sell"
+    },
+    {
+     "at": 104,
+     "label": "28 Feb",
+     "note": "Sleep Care signed or wound down; last liquidity test"
+    },
+    {
+     "at": 135,
+     "label": "31 Mar",
+     "note": "Target close; earnings test"
+    }
+   ],
+   "today": 0
+  },
+  "tbl": "15.3"
+ },
+ "xp_first30": {
+  "kind": "gantt",
+  "title": "Ten of the first steps start this week.",
+  "sub": "The eighteen steps of the first 30 days, 16 November to 18 December 2026.",
+  "o": {
+   "rows": [
+    {
+     "label": "Decline and reserve rights",
+     "bars": [
+      {
+       "s": 0,
+       "e": 4,
+       "k": "p",
+       "note": "Letter sent by 20 November"
+      }
+     ],
+     "marks": [
+      {
+       "at": 4,
+       "label": "Sent",
+       "when": "20 Nov"
+      }
+     ],
+     "short": "Decline, reserve rights",
+     "owner": "Comvest"
+    },
+    {
+     "label": "Instruct three counsel",
+     "bars": [
+      {
+       "s": 0,
+       "e": 4,
+       "k": "p",
+       "note": "Restructuring, healthcare and tax; engagements signed by 20 November"
+      }
+     ],
+     "marks": [],
+     "owner": "Comvest"
+    },
+    {
+     "label": "Engage the other lenders",
+     "bars": [
+      {
+       "s": 0,
+       "e": 11,
+       "k": "p",
+       "note": "Cliffwater and Pantheon briefed in week one; Vistria Credit as counsel advises"
+      }
+     ],
+     "marks": [],
+     "owner": "Comvest"
+    },
+    {
+     "label": "Information requests",
+     "bars": [
+      {
+       "s": 1,
+       "e": 11,
+       "k": "s",
+       "note": "Bank statements, lender register, weekly cash by segment and partner, insurance position"
+      }
+     ],
+     "marks": [],
+     "owner": "Company"
+    },
+    {
+     "label": "Two term sheets drafted",
+     "bars": [
+      {
+       "s": 1,
+       "e": 8,
+       "k": "p",
+       "note": "Forbearance and handover, sent to Vistria on the same day"
+      }
+     ],
+     "marks": [
+      {
+       "at": 8,
+       "label": "To Vistria",
+       "when": "24 Nov"
+      }
+     ],
+     "owner": "Restructuring counsel"
+    },
+    {
+     "label": "Consent matrix, default calendar",
+     "bars": [
+      {
+       "s": 4,
+       "e": 11,
+       "k": "p",
+       "note": "From the executed documents; delivered 27 November"
+      }
+     ],
+     "marks": [
+      {
+       "at": 11,
+       "label": "Delivered",
+       "when": "27 Nov"
+      }
+     ],
+     "short": "Consent matrix, calendar",
+     "owner": "Restructuring counsel"
+    },
+    {
+     "label": "Retention for ten staff",
+     "bars": [
+      {
+       "s": 1,
+       "e": 11,
+       "k": "p",
+       "note": "Quoted, then approved by 27 November"
+      },
+      {
+       "s": 11,
+       "e": 18,
+       "k": "s",
+       "note": "Signed before any announcement"
+      }
+     ],
+     "marks": [
+      {
+       "at": 11,
+       "label": "Approved",
+       "when": "27 Nov"
+      }
+     ],
+     "owner": "Company; Comvest"
+    },
+    {
+     "label": "Domains and access inventory",
+     "bars": [
+      {
+       "s": 1,
+       "e": 11,
+       "k": "s",
+       "note": "Registrar, DNS and admin consoles listed; sleepfoundation.org renewal confirmed"
+      }
+     ],
+     "marks": [],
+     "short": "Domains and access list",
+     "owner": "Chief technology officer"
+    },
+    {
+     "label": "Forbearance signed",
+     "bars": [
+      {
+       "s": 7,
+       "e": 14,
+       "k": "p",
+       "note": "Negotiated and signed before 30 November; controlled account opened"
+      }
+     ],
+     "marks": [
+      {
+       "at": 14,
+       "label": "Signed",
+       "when": "30 Nov"
+      }
+     ],
+     "owner": "Lenders; company; Vistria"
+    },
+    {
+     "label": "Independent director",
+     "bars": [
+      {
+       "s": 4,
+       "e": 18,
+       "k": "p",
+       "note": "Candidate agreed; authority over cash, budget and both sale tracks"
+      }
+     ],
+     "marks": [
+      {
+       "at": 18,
+       "label": "In place",
+       "when": "4 Dec"
+      }
+     ],
+     "owner": "Lenders; company"
+    },
+    {
+     "label": "Sleep Care spending cap",
+     "bars": [
+      {
+       "s": 7,
+       "e": 15,
+       "k": "p",
+       "note": "Written into the 13-week budget; effective 1 December"
+      }
+     ],
+     "marks": [
+      {
+       "at": 15,
+       "label": "In effect",
+       "when": "1 Dec"
+      }
+     ],
+     "owner": "Company; independent director"
+    },
+    {
+     "label": "Sell-side adviser",
+     "bars": [
+      {
+       "s": 7,
+       "e": 18,
+       "k": "p",
+       "note": "Chosen and engaged; buyer lists agreed"
+      }
+     ],
+     "marks": [
+      {
+       "at": 18,
+       "label": "Engaged",
+       "when": "4 Dec"
+      }
+     ],
+     "owner": "Company; lenders"
+    },
+    {
+     "label": "Click reads",
+     "bars": [
+      {
+       "s": 8,
+       "e": 22,
+       "k": "c",
+       "note": "Update due to complete about 24 November; first read 1 December; first clean week about 8 December"
+      },
+      {
+       "s": 22,
+       "e": 32,
+       "k": "s",
+       "note": "Confirmed weekly through December"
+      }
+     ],
+     "marks": [
+      {
+       "at": 15,
+       "label": "First read",
+       "when": "1 Dec"
+      },
+      {
+       "at": 22,
+       "label": "Clean week",
+       "when": "8 Dec"
+      }
+     ],
+     "owner": "Lenders' adviser"
+    },
+    {
+     "label": "Data room and pack",
+     "bars": [
+      {
+       "s": 14,
+       "e": 25,
+       "k": "p",
+       "note": "Stand-alone accounts, Search Console access, partner terms, test-lab data"
+      }
+     ],
+     "marks": [
+      {
+       "at": 25,
+       "label": "Open",
+       "when": "11 Dec"
+      }
+     ],
+     "owner": "Sell-side adviser; company"
+    },
+    {
+     "label": "Partner talks",
+     "bars": [
+      {
+       "s": 0,
+       "e": 32,
+       "k": "p",
+       "note": "3Z and the next two partners; terms due before 31 December"
+      }
+     ],
+     "marks": [],
+     "owner": "Media general manager"
+    },
+    {
+     "label": "Budget, contracts, tax memos",
+     "bars": [
+      {
+       "s": 15,
+       "e": 32,
+       "k": "p",
+       "note": "Quoted MediaCo budget; assignment review; tax and healthcare memos"
+      }
+     ],
+     "marks": [
+      {
+       "at": 32,
+       "label": "Delivered",
+       "when": "18 Dec"
+      }
+     ],
+     "short": "Budget, contracts, tax",
+     "owner": "Company; counsel"
+    },
+    {
+     "label": "Handover term sheet",
+     "bars": [
+      {
+       "s": 8,
+       "e": 32,
+       "k": "p",
+       "note": "Negotiated and signed by 18 December"
+      }
+     ],
+     "marks": [
+      {
+       "at": 32,
+       "label": "Signed",
+       "when": "18 Dec"
+      }
+     ],
+     "owner": "Comvest; Vistria"
+    },
+    {
+     "label": "Contested route papers",
+     "bars": [
+      {
+       "s": 15,
+       "e": 32,
+       "k": "c",
+       "note": "Direction letter and notices ready, in case no term sheet is signed"
+      }
+     ],
+     "marks": [
+      {
+       "at": 32,
+       "label": "Ready",
+       "when": "18 Dec"
+      }
+     ],
+     "owner": "Restructuring counsel"
+    }
+   ],
+   "range": [
+    0,
+    32
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    }
+   ],
+   "gates": [
+    {
+     "at": 14,
+     "label": "30 Nov",
+     "note": "Forbearance signed; in-kind interest period ends"
+    },
+    {
+     "at": 32,
+     "label": "18 Dec",
+     "note": "Handover term sheet signed"
+    }
+   ],
+   "today": 0
+  },
+  "tbl": "15.4"
+ },
+ "xp_sale": {
+  "kind": "gantt",
+  "title": "The sale path closes about nineteen weeks from today.",
+  "sub": "Path A: a sale of Sleep Media closing by 31 March 2027, with the work that follows to the end of June.",
+  "o": {
+   "rows": [
+    {
+     "label": "Prepare the process",
+     "bars": [
+      {
+       "s": 7,
+       "e": 25,
+       "k": "s",
+       "note": "Adviser engaged 4 December; buyer list, information pack, data room"
+      }
+     ],
+     "marks": [
+      {
+       "at": 18,
+       "label": "Adviser engaged",
+       "when": "4 Dec"
+      }
+     ],
+     "owner": "Sell-side adviser"
+    },
+    {
+     "label": "Approach buyers",
+     "bars": [
+      {
+       "s": 21,
+       "e": 38,
+       "k": "p",
+       "note": "A short list, in confidence, under non-disclosure agreements"
+      }
+     ],
+     "marks": [],
+     "owner": "Sell-side adviser"
+    },
+    {
+     "label": "Meetings and data room",
+     "bars": [
+      {
+       "s": 28,
+       "e": 59,
+       "k": "p",
+       "note": "Management meetings; the December click line and signed partner terms added as they arrive"
+      }
+     ],
+     "marks": [],
+     "owner": "Company; adviser"
+    },
+    {
+     "label": "Written indications",
+     "bars": [
+      {
+       "s": 56,
+       "e": 60,
+       "k": "c",
+       "note": "Non-binding, with scope, liabilities assumed, structure and conditions"
+      }
+     ],
+     "marks": [
+      {
+       "at": 60,
+       "label": "Indications",
+       "when": "15 Jan"
+      }
+     ],
+     "owner": "Buyers"
+    },
+    {
+     "label": "The gate",
+     "bars": [
+      {
+       "s": 60,
+       "e": 63,
+       "k": "c",
+       "note": "Sell if the best net bid is at or above about three times forward EBITDA"
+      }
+     ],
+     "marks": [
+      {
+       "at": 60,
+       "label": "Decision",
+       "when": "15 Jan"
+      }
+     ],
+     "owner": "Comvest and the lenders"
+    },
+    {
+     "label": "Confirmatory diligence",
+     "bars": [
+      {
+       "s": 63,
+       "e": 88,
+       "k": "p",
+       "note": "Accounts, title, contracts, people, search data"
+      }
+     ],
+     "marks": [],
+     "owner": "One or two buyers"
+    },
+    {
+     "label": "Sale agreement",
+     "bars": [
+      {
+       "s": 70,
+       "e": 102,
+       "k": "p",
+       "note": "Price, any earn-out on 2027 search revenue, transition services"
+      }
+     ],
+     "marks": [
+      {
+       "at": 102,
+       "label": "Signed",
+       "when": "26 Feb"
+      }
+     ],
+     "owner": "Counsel; adviser"
+    },
+    {
+     "label": "Consents and assignments",
+     "bars": [
+      {
+       "s": 77,
+       "e": 130,
+       "k": "p",
+       "note": "Partner and expert agreements assigned; liens released; lender consents"
+      }
+     ],
+     "marks": [],
+     "owner": "Counsel; company"
+    },
+    {
+     "label": "Closing and distribution",
+     "bars": [
+      {
+       "s": 119,
+       "e": 135,
+       "k": "p",
+       "note": "Target close by 31 March; cash to the lenders less the reserve"
+      }
+     ],
+     "marks": [
+      {
+       "at": 135,
+       "label": "Close",
+       "when": "31 Mar"
+      }
+     ],
+     "owner": "Lenders; buyer"
+    },
+    {
+     "label": "Transition services",
+     "bars": [
+      {
+       "s": 136,
+       "e": 226,
+       "k": "s",
+       "note": "Accounts, mail and finance run for the buyer until it takes them over"
+      }
+     ],
+     "marks": [],
+     "owner": "Company; buyer"
+    },
+    {
+     "label": "Wind up the old company",
+     "bars": [
+      {
+       "s": 136,
+       "e": 226,
+       "k": "s",
+       "note": "Sleep Care completed; claims settled; the reserve released when clear"
+      }
+     ],
+     "marks": [],
+     "owner": "Independent director"
+    }
+   ],
+   "range": [
+    7,
+    226
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    },
+    {
+     "at": 46,
+     "label": "1 Jan"
+    },
+    {
+     "at": 77,
+     "label": "1 Feb"
+    },
+    {
+     "at": 105,
+     "label": "1 Mar"
+    },
+    {
+     "at": 136,
+     "label": "1 Apr"
+    },
+    {
+     "at": 166,
+     "label": "1 May"
+    },
+    {
+     "at": 197,
+     "label": "1 Jun"
+    }
+   ],
+   "gates": [
+    {
+     "at": 14,
+     "label": "30 Nov",
+     "note": "Forbearance signed; in-kind interest period ends"
+    },
+    {
+     "at": 32,
+     "label": "18 Dec",
+     "note": "Handover term sheet signed"
+    },
+    {
+     "at": 45,
+     "label": "31 Dec",
+     "note": "2027 partner terms signed; click floor expires"
+    },
+    {
+     "at": 60,
+     "label": "15 Jan",
+     "note": "The gate: hold or sell"
+    },
+    {
+     "at": 104,
+     "label": "28 Feb",
+     "note": "Sleep Care signed or wound down; last liquidity test"
+    },
+    {
+     "at": 135,
+     "label": "31 Mar",
+     "note": "Target close; earnings test"
+    }
+   ]
+  },
+  "tbl": "15.5"
+ },
+ "xp_hold": {
+  "kind": "gantt",
+  "title": "A hold runs for about nineteen months before a sale.",
+  "sub": "Path B: a hold in MediaCo, December 2026 to June 2028. The sale date is the one the model uses.",
+  "o": {
+   "rows": [
+    {
+     "label": "Stage 0: hold and build",
+     "bars": [
+      {
+       "s": 15,
+       "e": 135,
+       "k": "s",
+       "note": "No change to the team; roster and access recorded; report-only AI checks built"
+      }
+     ],
+     "marks": [],
+     "owner": "Company; lenders' adviser"
+    },
+    {
+     "label": "Handover documents",
+     "bars": [
+      {
+       "s": 63,
+       "e": 135,
+       "k": "p",
+       "note": "Credit bid sized to the indications; assets and contracts into MediaCo"
+      }
+     ],
+     "marks": [
+      {
+       "at": 135,
+       "label": "MediaCo day one",
+       "when": "31 Mar 2027"
+      }
+     ],
+     "owner": "Lenders; counsel"
+    },
+    {
+     "label": "MediaCo loan to 2030",
+     "bars": [
+      {
+       "s": 77,
+       "e": 135,
+       "k": "p",
+       "note": "A new loan sized to the business, with a cash sweep"
+      }
+     ],
+     "marks": [],
+     "owner": "Lenders"
+    },
+    {
+     "label": "Stage 1: prove",
+     "bars": [
+      {
+       "s": 136,
+       "e": 226,
+       "k": "p",
+       "note": "AI refresh workflow piloted on about 50 pages against a matched control"
+      }
+     ],
+     "marks": [
+      {
+       "at": 226,
+       "label": "Pilot gate",
+       "when": "30 Jun 2027"
+      }
+     ],
+     "owner": "MediaCo general manager"
+    },
+    {
+     "label": "Monthly sweep",
+     "bars": [
+      {
+       "s": 166,
+       "e": 592,
+       "k": "p",
+       "note": "Cash above $3.0M swept to the lenders each month"
+      }
+     ],
+     "marks": [
+      {
+       "at": 196,
+       "label": "First sweep",
+       "when": "31 May 2027"
+      }
+     ],
+     "owner": "MediaCo board"
+    },
+    {
+     "label": "Stage 2: extend",
+     "bars": [
+      {
+       "s": 227,
+       "e": 410,
+       "k": "p",
+       "note": "Proved workflows rolled across the site; finance, security and video move outside"
+      }
+     ],
+     "marks": [],
+     "owner": "MediaCo general manager"
+    },
+    {
+     "label": "Hold review",
+     "bars": [
+      {
+       "s": 289,
+       "e": 318,
+       "k": "c",
+       "note": "After two clean quarters: return to market, or a dated reason to wait"
+      }
+     ],
+     "marks": [
+      {
+       "at": 318,
+       "label": "Review",
+       "when": "30 Sep 2027"
+      }
+     ],
+     "owner": "MediaCo board"
+    },
+    {
+     "label": "Old loan matures",
+     "bars": [
+      {
+       "s": 380,
+       "e": 410,
+       "k": "c",
+       "note": "Maturity of the existing loan; MediaCo's own loan runs to 2030"
+      }
+     ],
+     "marks": [
+      {
+       "at": 410,
+       "label": "Maturity",
+       "when": "31 Dec 2027"
+      }
+     ],
+     "owner": "—"
+    },
+    {
+     "label": "Stage 3: settle at six",
+     "bars": [
+      {
+       "s": 411,
+       "e": 501,
+       "k": "p",
+       "note": "Team reduces to the core of six, by attrition and agreed exits"
+      }
+     ],
+     "marks": [
+      {
+       "at": 501,
+       "label": "Core of six",
+       "when": "31 Mar 2028"
+      }
+     ],
+     "owner": "MediaCo board"
+    },
+    {
+     "label": "Return to market",
+     "bars": [
+      {
+       "s": 411,
+       "e": 562,
+       "k": "p",
+       "note": "Buyer list kept warm; process run on a clean stand-alone record"
+      }
+     ],
+     "marks": [],
+     "owner": "Sell-side adviser"
+    },
+    {
+     "label": "Sale closes",
+     "bars": [
+      {
+       "s": 563,
+       "e": 592,
+       "k": "p",
+       "note": "The date the model uses for a hold"
+      }
+     ],
+     "marks": [
+      {
+       "at": 592,
+       "label": "Close",
+       "when": "30 Jun 2028"
+      }
+     ],
+     "owner": "Lenders; buyer"
+    }
+   ],
+   "range": [
+    15,
+    592
+   ],
+   "ticks": [
+    {
+     "at": 46,
+     "label": "Jan 27"
+    },
+    {
+     "at": 136,
+     "label": "Apr 27"
+    },
+    {
+     "at": 227,
+     "label": "Jul 27"
+    },
+    {
+     "at": 319,
+     "label": "Oct 27"
+    },
+    {
+     "at": 411,
+     "label": "Jan 28"
+    },
+    {
+     "at": 502,
+     "label": "Apr 28"
+    }
+   ]
+  },
+  "tbl": "15.6"
+ },
+ "xp_care": {
+  "kind": "gantt",
+  "title": "The Sleep Care process runs for about three months.",
+  "sub": "Sleep Care exit, 23 November 2026 to 30 April 2027.",
+  "o": {
+   "rows": [
+    {
+     "label": "Spending cap",
+     "bars": [
+      {
+       "s": 7,
+       "e": 15,
+       "k": "s",
+       "note": "Marketing only where it returns its cost; no new inventory, hiring or leases"
+      },
+      {
+       "s": 15,
+       "e": 104,
+       "k": "p",
+       "note": "Cap in force"
+      }
+     ],
+     "marks": [
+      {
+       "at": 15,
+       "label": "In effect",
+       "when": "1 Dec"
+      }
+     ],
+     "owner": "Company; independent director"
+    },
+    {
+     "label": "Healthcare counsel",
+     "bars": [
+      {
+       "s": 4,
+       "e": 32,
+       "k": "p",
+       "note": "Enrolment date, the ownership rule, payor and licence terms"
+      }
+     ],
+     "marks": [
+      {
+       "at": 32,
+       "label": "Memo",
+       "when": "18 Dec"
+      }
+     ],
+     "owner": "Healthcare counsel"
+    },
+    {
+     "label": "Two packages prepared",
+     "bars": [
+      {
+       "s": 7,
+       "e": 18,
+       "k": "s",
+       "note": "Cash-pay book, store and inventory; the insured platform at parent level"
+      }
+     ],
+     "marks": [],
+     "owner": "Sell-side adviser"
+    },
+    {
+     "label": "Approach buyers",
+     "bars": [
+      {
+       "s": 15,
+       "e": 53,
+       "k": "p",
+       "note": "ReDream first for the cash book; AdaptHealth and the insured clinics for the platform; Vistria and management"
+      }
+     ],
+     "marks": [],
+     "owner": "Sell-side adviser"
+    },
+    {
+     "label": "Indications",
+     "bars": [
+      {
+       "s": 56,
+       "e": 60,
+       "k": "c",
+       "note": "Judged on cash, staff taken, orders and patient duties assumed"
+      }
+     ],
+     "marks": [
+      {
+       "at": 60,
+       "label": "Indications",
+       "when": "15 Jan"
+      }
+     ],
+     "owner": "Buyers"
+    },
+    {
+     "label": "Swap offered to Vistria",
+     "bars": [
+      {
+       "s": 60,
+       "e": 81,
+       "k": "s",
+       "note": "Vistria Credit's strip for the Sleep Care entity; a management bid tested"
+      }
+     ],
+     "marks": [],
+     "owner": "Comvest; Vistria"
+    },
+    {
+     "label": "Negotiate and sign",
+     "bars": [
+      {
+       "s": 63,
+       "e": 104,
+       "k": "p",
+       "note": "A signed deal, or a decision to wind down, by 28 February"
+      }
+     ],
+     "marks": [
+      {
+       "at": 104,
+       "label": "Sign or wind down",
+       "when": "28 Feb"
+      }
+     ],
+     "owner": "Independent director"
+    },
+    {
+     "label": "Sale-maintenance team",
+     "bars": [
+      {
+       "s": 77,
+       "e": 135,
+       "k": "s",
+       "note": "A quoted team of 10 to 12 keeps patients served for 45 to 60 days if no buyer has signed"
+      }
+     ],
+     "marks": [],
+     "owner": "Company"
+    },
+    {
+     "label": "Transfer or wind-down",
+     "bars": [
+      {
+       "s": 105,
+       "e": 165,
+       "k": "p",
+       "note": "Staff, open orders, patient duties and records move; or a funded wind-down, patients first"
+      }
+     ],
+     "marks": [],
+     "owner": "Independent director"
+    },
+    {
+     "label": "Claims keep flowing",
+     "bars": [
+      {
+       "s": 15,
+       "e": 165,
+       "k": "s",
+       "note": "A Medicare claim at least every six months while the enrolment must be kept"
+      }
+     ],
+     "marks": [],
+     "owner": "Company"
+    }
+   ],
+   "range": [
+    7,
+    165
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    },
+    {
+     "at": 46,
+     "label": "1 Jan"
+    },
+    {
+     "at": 77,
+     "label": "1 Feb"
+    },
+    {
+     "at": 105,
+     "label": "1 Mar"
+    },
+    {
+     "at": 136,
+     "label": "1 Apr"
+    }
+   ],
+   "gates": [
+    {
+     "at": 14,
+     "label": "30 Nov",
+     "note": "Forbearance signed; in-kind interest period ends"
+    },
+    {
+     "at": 32,
+     "label": "18 Dec",
+     "note": "Handover term sheet signed"
+    },
+    {
+     "at": 45,
+     "label": "31 Dec",
+     "note": "2027 partner terms signed; click floor expires"
+    },
+    {
+     "at": 60,
+     "label": "15 Jan",
+     "note": "The gate: hold or sell"
+    },
+    {
+     "at": 104,
+     "label": "28 Feb",
+     "note": "Sleep Care signed or wound down; last liquidity test"
+    },
+    {
+     "at": 135,
+     "label": "31 Mar",
+     "note": "Target close; earnings test"
+    }
+   ]
+  },
+  "tbl": "15.7"
+ },
+ "xp_contest": {
+  "kind": "gantt",
+  "title": "The contested route can still close by the end of April.",
+  "sub": "Fallback if no handover term sheet is signed by 18 December. 1 December 2026 to 31 May 2027. Dates after December are illustrative.",
+  "o": {
+   "rows": [
+    {
+     "label": "Prepare in parallel",
+     "bars": [
+      {
+       "s": 15,
+       "e": 32,
+       "k": "s",
+       "note": "Direction letter, notices and independent directors identified"
+      }
+     ],
+     "marks": [
+      {
+       "at": 32,
+       "label": "No term sheet",
+       "when": "18 Dec"
+      }
+     ],
+     "owner": "Restructuring counsel"
+    },
+    {
+     "label": "Event of default",
+     "bars": [
+      {
+       "s": 45,
+       "e": 74,
+       "k": "c",
+       "note": "First unpaid cash interest or a liquidity breach; the date is for counsel"
+      }
+     ],
+     "marks": [],
+     "owner": "—"
+    },
+    {
+     "label": "Board change",
+     "bars": [
+      {
+       "s": 49,
+       "e": 63,
+       "k": "p",
+       "note": "The pledged equity is voted and independent directors appointed; days to two weeks"
+      }
+     ],
+     "marks": [
+      {
+       "at": 63,
+       "label": "New board",
+       "when": "18 Jan"
+      }
+     ],
+     "owner": "Agent; required lenders"
+    },
+    {
+     "label": "Sale tracks continue",
+     "bars": [
+      {
+       "s": 63,
+       "e": 102,
+       "k": "p",
+       "note": "The new board runs both sale tracks and can sign the handover"
+      }
+     ],
+     "marks": [],
+     "owner": "Independent directors"
+    },
+    {
+     "label": "Sale of collateral",
+     "bars": [
+      {
+       "s": 77,
+       "e": 165,
+       "k": "p",
+       "note": "If Vistria contests: a public sale with a credit bid, 6 to 12 weeks"
+      }
+     ],
+     "marks": [
+      {
+       "at": 165,
+       "label": "Close",
+       "when": "30 Apr"
+      }
+     ],
+     "owner": "Agent; counsel"
+    },
+    {
+     "label": "Court sale, last resort",
+     "bars": [
+      {
+       "s": 77,
+       "e": 196,
+       "k": "c",
+       "note": "Chapter 11 with a credit bid, 2 to 6 months; needs financing no party has offered"
+      }
+     ],
+     "marks": [],
+     "owner": "Counsel"
+    }
+   ],
+   "range": [
+    15,
+    196
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    },
+    {
+     "at": 46,
+     "label": "1 Jan"
+    },
+    {
+     "at": 77,
+     "label": "1 Feb"
+    },
+    {
+     "at": 105,
+     "label": "1 Mar"
+    },
+    {
+     "at": 136,
+     "label": "1 Apr"
+    },
+    {
+     "at": 166,
+     "label": "1 May"
+    }
+   ],
+   "gates": [
+    {
+     "at": 32,
+     "label": "18 Dec",
+     "note": "Handover term sheet signed"
+    },
+    {
+     "at": 45,
+     "label": "31 Dec",
+     "note": "2027 partner terms signed; click floor expires"
+    },
+    {
+     "at": 60,
+     "label": "15 Jan",
+     "note": "The gate: hold or sell"
+    },
+    {
+     "at": 104,
+     "label": "28 Feb",
+     "note": "Sleep Care signed or wound down; last liquidity test"
+    },
+    {
+     "at": 135,
+     "label": "31 Mar",
+     "note": "Target close; earnings test"
+    }
+   ]
+  },
+  "tbl": "15.8"
+ },
+ "xp_spend": {
+  "kind": "stacked",
+  "title": "The plan spends about $3.7M to March, mostly by the end of January.",
+  "sub": "Transition spending by month and kind, $M, December 2026 to March 2027. All of it is met from the business's own cash.",
+  "o": {
+   "labels": [
+    "Dec 2026",
+    "Jan 2027",
+    "Feb",
+    "Mar"
+   ],
+   "series": [
+    {
+     "name": "Sleep Care, net",
+     "values": [
+      0.65,
+      0.35,
+      0.15,
+      0.05
+     ]
+    },
+    {
+     "name": "Shared cost",
+     "values": [
+      0.35,
+      0.2,
+      0.1,
+      0
+     ]
+    },
+    {
+     "name": "Severance and retention",
+     "values": [
+      0.35,
+      0.35,
+      0.15,
+      0
+     ]
+    },
+    {
+     "name": "Legal and control",
+     "values": [
+      0.3,
+      0.2,
+      0.1,
+      0.05
+     ]
+    },
+    {
+     "name": "Separation",
+     "values": [
+      0,
+      0.1,
+      0.1,
+      0.1
+     ]
+    }
+   ],
+   "yFormat": "@m2",
+   "yMax": 2
+  },
+  "tbl": "15.10",
+  "totals": [
+   "$1.65M",
+   "$1.20M",
+   "$0.60M",
+   "$0.20M"
+  ]
+ },
+ "xp_owner": {
+  "kind": "hbars",
+  "title": "The company carries the largest share of the first eighteen steps.",
+  "sub": "Steps of the first 30 days by the party that leads each one.",
+  "o": {
+   "labels": [
+    "The company",
+    "Comvest",
+    "Restructuring counsel",
+    "The lender group",
+    "Lenders' adviser",
+    "Sell-side adviser"
+   ],
+   "series": [
+    {
+     "name": "Steps led",
+     "values": [
+      7,
+      4,
+      3,
+      2,
+      1,
+      1
+     ]
+    }
+   ],
+   "xFormat": "@n0"
+  },
+  "tbl": "15.4"
+ },
+ "st_cash": {
+  "kind": "stacked",
+  "title": "A hold returns about a quarter of its cash before the sale.",
+  "sub": "Cash to all the senior lenders on each path and case, $M, before discounting. A sale closes in March 2027 and a hold in June 2028.",
+  "o": {
+   "labels": [
+    "High, sell",
+    "High, hold",
+    "Central, sell",
+    "Central, hold",
+    "Low, sell",
+    "Low, hold"
+   ],
+   "series": [
+    {
+     "name": "Cash at closing",
+     "values": [
+      33.19,
+      26.66,
+      26.59,
+      21.25,
+      20.79,
+      16.48
+     ]
+    },
+    {
+     "name": "Swept before closing",
+     "values": [
+      0,
+      9.33,
+      0,
+      6.97,
+      0,
+      4.9
+     ]
+    }
+   ],
+   "yFormat": "@m0",
+   "yMax": 40
+  },
+  "tbl": "A.5",
+  "totals": [
+   "$33.2M",
+   "$36.0M",
+   "$26.6M",
+   "$28.2M",
+   "$20.8M",
+   "$21.4M"
+  ]
+ },
+ "st_timeline": {
+  "kind": "gantt",
+  "title": "Path A returns the cash about fifteen months before Path B.",
+  "sub": "The two paths from 16 November 2026 to June 2028. Path B's sale date is the one the model uses.",
+  "o": {
+   "rows": [
+    {
+     "label": "Steps shared by both",
+     "bars": [
+      {
+       "s": 0,
+       "e": 60,
+       "k": "p",
+       "note": "Decline, forbear, ring-fence, cap Sleep Care, open both sale tracks"
+      }
+     ],
+     "marks": [
+      {
+       "at": 60,
+       "label": "The gate",
+       "when": "15 Jan 2027"
+      }
+     ]
+    },
+    {
+     "label": "Path A: sell in March",
+     "bars": [
+      {
+       "s": 60,
+       "e": 135,
+       "k": "p",
+       "note": "Diligence, signing in February, closing by 31 March 2027"
+      }
+     ],
+     "marks": [
+      {
+       "at": 135,
+       "label": "Sale closes",
+       "when": "31 Mar 2027"
+      }
+     ]
+    },
+    {
+     "label": "Path B: hold, sell later",
+     "bars": [
+      {
+       "s": 60,
+       "e": 135,
+       "k": "s",
+       "note": "Handover into MediaCo by a credit bid"
+      },
+      {
+       "s": 136,
+       "e": 592,
+       "k": "p",
+       "note": "Hold in MediaCo: monthly sweeps from May 2027, a review on 30 September 2027"
+      }
+     ],
+     "marks": [
+      {
+       "at": 196,
+       "label": "First sweep",
+       "when": "31 May 2027"
+      },
+      {
+       "at": 318,
+       "label": "Hold review",
+       "when": "30 Sep 2027"
+      },
+      {
+       "at": 592,
+       "label": "Sale closes",
+       "when": "30 Jun 2028"
+      }
+     ]
+    }
+   ],
+   "range": [
+    0,
+    592
+   ],
+   "ticks": [
+    {
+     "at": 46,
+     "label": "Jan 27"
+    },
+    {
+     "at": 136,
+     "label": "Apr 27"
+    },
+    {
+     "at": 227,
+     "label": "Jul 27"
+    },
+    {
+     "at": 319,
+     "label": "Oct 27"
+    },
+    {
+     "at": 411,
+     "label": "Jan 28"
+    },
+    {
+     "at": 502,
+     "label": "Apr 28"
+    }
+   ],
+   "today": 0
+  },
+  "tbl": "7.1"
+ },
+ "co_forb": {
+  "kind": "gantt",
+  "title": "The forbearance, once extended to closing, spans each test on the calendar.",
+  "sub": "The forbearance against the borrower's dated tests, 16 November 2026 to 31 March 2027. The claret line is 16 November.",
+  "o": {
+   "rows": [
+    {
+     "label": "Forbearance",
+     "bars": [
+      {
+       "s": 14,
+       "e": 74,
+       "k": "p",
+       "note": "Signed before 30 November; in force to 29 January"
+      },
+      {
+       "s": 74,
+       "e": 135,
+       "k": "s",
+       "note": "Extended to closing once a handover or a sale is signed"
+      }
+     ],
+     "marks": [
+      {
+       "at": 14,
+       "label": "Signed",
+       "when": "30 Nov"
+      },
+      {
+       "at": 74,
+       "label": "Extended to closing",
+       "when": "29 Jan"
+      }
+     ]
+    },
+    {
+     "label": "In-kind interest ends",
+     "bars": [
+      {
+       "s": 11,
+       "e": 14,
+       "k": "c",
+       "note": "From 1 December interest accrues in cash, at about $0.9M a month"
+      }
+     ],
+     "marks": [
+      {
+       "at": 14,
+       "label": "In-kind period ends",
+       "when": "30 Nov"
+      }
+     ]
+    },
+    {
+     "label": "First cash interest due",
+     "bars": [
+      {
+       "s": 42,
+       "e": 53,
+       "k": "c",
+       "note": "The date depends on the interest period in force and may be as early as the end of December. For counsel"
+      }
+     ],
+     "marks": []
+    },
+    {
+     "label": "Liquidity tests",
+     "bars": [
+      {
+       "s": 14,
+       "e": 104,
+       "k": "c",
+       "note": "A $2.0M minimum, tested monthly to 28 February 2027"
+      }
+     ],
+     "marks": [
+      {
+       "at": 45,
+       "label": "Test",
+       "when": "31 Dec"
+      },
+      {
+       "at": 76,
+       "label": "Test",
+       "when": "31 Jan"
+      },
+      {
+       "at": 104,
+       "label": "Last test",
+       "when": "28 Feb"
+      }
+     ]
+    },
+    {
+     "label": "Click floor expires",
+     "bars": [
+      {
+       "s": 42,
+       "e": 45,
+       "k": "c",
+       "note": "The 3Z floor on 15 pages ends; 2027 terms are due before it"
+      }
+     ],
+     "marks": [
+      {
+       "at": 45,
+       "label": "Floor expires",
+       "when": "31 Dec"
+      }
+     ]
+    },
+    {
+     "label": "Earnings test",
+     "bars": [
+      {
+       "s": 132,
+       "e": 135,
+       "k": "c",
+       "note": "A $2.0M minimum for the twelve months to 31 March 2027"
+      }
+     ],
+     "marks": [
+      {
+       "at": 135,
+       "label": "Earnings test",
+       "when": "31 Mar"
+      }
+     ]
+    }
+   ],
+   "range": [
+    0,
+    135
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    },
+    {
+     "at": 46,
+     "label": "1 Jan"
+    },
+    {
+     "at": 77,
+     "label": "1 Feb"
+    },
+    {
+     "at": 105,
+     "label": "1 Mar"
+    }
+   ],
+   "today": 0
+  },
+  "tbl": "8.2"
+ },
+ "co_consents": {
+  "kind": "hbars",
+  "title": "More steps may need every lender than need the required lenders alone.",
+  "sub": "Steps in the plan by the kind of consent each may require. The grouping is CreditSwan's reading and is for counsel to confirm.",
+  "o": {
+   "labels": [
+    "May need every lender",
+    "Required lenders",
+    "Other approval",
+    "Any affected lender"
+   ],
+   "series": [
+    {
+     "name": "Steps",
+     "values": [
+      4,
+      3,
+      2,
+      1
+     ]
+    }
+   ],
+   "xFormat": "@n0",
+   "xMax": 5
+  },
+  "tbl": "8.4"
+ },
+ "ov_cm_ai": {
+  "kind": "hbars",
+  "title": "Sleep Foundation is named in more AI answers on mattresses than its rivals.",
+  "sub": "Share of AI answers on mattresses that name each site, %, October 2026, about. Read 4 November; the index no longer publishes it by site.",
+  "o": {
+   "labels": [
+    "Sleep Foundation",
+    "Mattress Clarity",
+    "Mattress Nerd",
+    "Sleepopolis"
+   ],
+   "series": [
+    {
+     "name": "Share of answers",
+     "values": [
+      90,
+      60,
+      49,
+      44
+     ]
+    }
+   ],
+   "xFormat": "@pct0",
+   "xMax": 100
+  },
+  "tbl": "6.3"
+ },
+ "ov_cm_index": {
+  "kind": "hbars",
+  "title": "A tester-led rival led the mattress rankings at the last reading.",
+  "sub": "The company's mattress ranking index by site, $K, December 2025, about. Read from a chart in the board deck.",
+  "o": {
+   "labels": [
+    "NapLab",
+    "Sleep Foundation",
+    "Mattress Nerd",
+    "Sleepopolis",
+    "Wirecutter",
+    "Forbes"
+   ],
+   "series": [
+    {
+     "name": "Ranking index",
+     "values": [
+      850,
+      500,
+      500,
+      150,
+      150,
+      30
+     ]
+    }
+   ],
+   "xFormat": "@k0"
+  },
+  "tbl": "6.2"
+ },
+ "ov_cc_price": {
+  "kind": "dumbbell",
+  "title": "Sleep Care charges the most for a home test among the online sellers read.",
+  "sub": "Cash price of a one-night home sleep apnea test, list price against the lowest price charged, 17 November 2026. The first three sell the WatchPAT One, and Sleeplay sells the other two devices.",
+  "o": {
+   "labels": [
+    "Sleep Care",
+    "Sleeplay",
+    "Lofta",
+    "NightOwl device",
+    "Wesper device"
+   ],
+   "from": [
+    349,
+    249,
+    249,
+    189,
+    199
+   ],
+   "to": [
+    189,
+    139,
+    99,
+    99,
+    99
+   ],
+   "fromName": "List price shown",
+   "toName": "Lowest price charged",
+   "xFormat": "@usd0",
+   "xMax": 400
+  },
+  "tbl": "6.6"
+ },
+ "ov_master": {
+  "kind": "gantt",
+  "title": "The workstreams run side by side to a March close.",
+  "sub": "Nine workstreams by week, 16 November 2026 to 31 March 2027. Dashed lines are the six gates, and the claret line is 16 November.",
+  "o": {
+   "rows": [
+    {
+     "label": "1 Lender group and legal",
+     "bars": [
+      {
+       "s": 0,
+       "e": 14,
+       "k": "s",
+       "note": "Decline, counsel, consent matrix, forbearance signed"
+      },
+      {
+       "s": 14,
+       "e": 74,
+       "k": "p",
+       "note": "Forbearance in force; handover term sheet by 18 December"
+      },
+      {
+       "s": 74,
+       "e": 135,
+       "k": "p",
+       "note": "Forbearance extended to closing; documents signed in February"
+      }
+     ],
+     "marks": [
+      {
+       "at": 4,
+       "label": "Decline sent",
+       "when": "20 Nov"
+      },
+      {
+       "at": 14,
+       "label": "Forbearance signed",
+       "when": "30 Nov"
+      },
+      {
+       "at": 32,
+       "label": "Term sheet signed",
+       "when": "18 Dec"
+      },
+      {
+       "at": 135,
+       "label": "Close",
+       "when": "31 Mar"
+      }
+     ],
+     "short": "1 Lenders, legal",
+     "owner": "Comvest; restructuring counsel"
+    },
+    {
+     "label": "2 Cash and reporting",
+     "bars": [
+      {
+       "s": 0,
+       "e": 14,
+       "k": "s",
+       "note": "Bank statements verified; controlled account opened"
+      },
+      {
+       "s": 14,
+       "e": 135,
+       "k": "p",
+       "note": "Weekly 13-week cash, reconciled to the bank"
+      }
+     ],
+     "marks": [
+      {
+       "at": 104,
+       "label": "Last liquidity test",
+       "when": "28 Feb"
+      }
+     ],
+     "short": "2 Cash",
+     "owner": "Company finance; lenders' adviser"
+    },
+    {
+     "label": "3 Search and partner revenue",
+     "bars": [
+      {
+       "s": 0,
+       "e": 45,
+       "k": "p",
+       "note": "Click reads after the update; 2027 terms with 3Z and two more partners"
+      },
+      {
+       "s": 45,
+       "e": 135,
+       "k": "s",
+       "note": "Weekly clicks against 176K, with revenue per click out"
+      }
+     ],
+     "marks": [
+      {
+       "at": 8,
+       "label": "Update due to complete",
+       "when": "24 Nov"
+      },
+      {
+       "at": 22,
+       "label": "First clean week",
+       "when": "8 Dec"
+      },
+      {
+       "at": 45,
+       "label": "Partner terms signed",
+       "when": "31 Dec"
+      }
+     ],
+     "short": "3 Search, partners",
+     "owner": "Media general manager; lenders' adviser"
+    },
+    {
+     "label": "4 Sleep Media sale track",
+     "bars": [
+      {
+       "s": 7,
+       "e": 25,
+       "k": "s",
+       "note": "Adviser engaged; buyer list, pack and data room"
+      },
+      {
+       "s": 21,
+       "e": 60,
+       "k": "p",
+       "note": "Buyers approached; written indications"
+      },
+      {
+       "s": 63,
+       "e": 135,
+       "k": "p",
+       "note": "If sold: diligence, signing in February, closing in March"
+      }
+     ],
+     "marks": [
+      {
+       "at": 18,
+       "label": "Adviser engaged",
+       "when": "4 Dec"
+      },
+      {
+       "at": 60,
+       "label": "Indications",
+       "when": "15 Jan"
+      }
+     ],
+     "short": "4 Media sale",
+     "owner": "Sell-side adviser"
+    },
+    {
+     "label": "5 Sleep Care exit",
+     "bars": [
+      {
+       "s": 7,
+       "e": 15,
+       "k": "s",
+       "note": "Spending cap set in the 13-week budget"
+      },
+      {
+       "s": 15,
+       "e": 60,
+       "k": "p",
+       "note": "Two packages offered; indications"
+      },
+      {
+       "s": 63,
+       "e": 104,
+       "k": "p",
+       "note": "Signed deal, or a decision to wind down"
+      },
+      {
+       "s": 105,
+       "e": 135,
+       "k": "s",
+       "note": "Transfer of staff, orders and patient duties"
+      }
+     ],
+     "marks": [
+      {
+       "at": 15,
+       "label": "Cap takes effect",
+       "when": "1 Dec"
+      },
+      {
+       "at": 104,
+       "label": "Sign or wind down",
+       "when": "28 Feb"
+      }
+     ],
+     "short": "5 Sleep Care",
+     "owner": "Independent director; healthcare counsel"
+    },
+    {
+     "label": "6 Separation and MediaCo",
+     "bars": [
+      {
+       "s": 0,
+       "e": 28,
+       "k": "p",
+       "note": "Ring-fence: account, registrar, DNS, data wall, separate books"
+      },
+      {
+       "s": 14,
+       "e": 32,
+       "k": "s",
+       "note": "Contract assignment review"
+      },
+      {
+       "s": 63,
+       "e": 135,
+       "k": "p",
+       "note": "Legal separation into MediaCo, or to a buyer"
+      }
+     ],
+     "marks": [
+      {
+       "at": 35,
+       "label": "sleepapnea.org renewed",
+       "when": "21 Dec"
+      },
+      {
+       "at": 64,
+       "label": "thesleepdoctor.com renewed",
+       "when": "19 Jan"
+      }
+     ],
+     "short": "6 Separation",
+     "owner": "Chief technology officer; counsel"
+    },
+    {
+     "label": "7 People and operating plan",
+     "bars": [
+      {
+       "s": 0,
+       "e": 18,
+       "k": "p",
+       "note": "Retention quoted, approved and signed"
+      },
+      {
+       "s": 15,
+       "e": 32,
+       "k": "s",
+       "note": "Quoted MediaCo budget and named roster"
+      },
+      {
+       "s": 15,
+       "e": 135,
+       "k": "s",
+       "note": "Report-only AI checks built; no change to the team"
+      }
+     ],
+     "marks": [
+      {
+       "at": 11,
+       "label": "Retention approved",
+       "when": "27 Nov"
+      }
+     ],
+     "short": "7 People",
+     "owner": "Media general manager; Comvest"
+    },
+    {
+     "label": "8 Tax and structure",
+     "bars": [
+      {
+       "s": 4,
+       "e": 32,
+       "k": "p",
+       "note": "Entity status, remaining basis, asset or equity route"
+      },
+      {
+       "s": 32,
+       "e": 60,
+       "k": "s",
+       "note": "Cancelled-debt income; state and sales tax"
+      },
+      {
+       "s": 63,
+       "e": 102,
+       "k": "s",
+       "note": "Structure written into the documents"
+      }
+     ],
+     "marks": [
+      {
+       "at": 32,
+       "label": "Route memo",
+       "when": "18 Dec"
+      }
+     ],
+     "short": "8 Tax",
+     "owner": "Tax counsel"
+    },
+    {
+     "label": "9 Governance and reporting",
+     "bars": [
+      {
+       "s": 4,
+       "e": 18,
+       "k": "p",
+       "note": "Independent director or restructuring officer in place"
+      },
+      {
+       "s": 11,
+       "e": 135,
+       "k": "s",
+       "note": "Friday one-page update to the lenders"
+      },
+      {
+       "s": 53,
+       "e": 60,
+       "k": "c",
+       "note": "Gate paper: the rule applied to the evidence"
+      }
+     ],
+     "marks": [
+      {
+       "at": 60,
+       "label": "Gate decision",
+       "when": "15 Jan"
+      }
+     ],
+     "short": "9 Governance",
+     "owner": "Comvest; independent director"
+    }
+   ],
+   "range": [
+    0,
+    135
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    },
+    {
+     "at": 46,
+     "label": "1 Jan"
+    },
+    {
+     "at": 77,
+     "label": "1 Feb"
+    },
+    {
+     "at": 105,
+     "label": "1 Mar"
+    }
+   ],
+   "gates": [
+    {
+     "at": 14,
+     "label": "30 Nov",
+     "note": "Forbearance signed; in-kind interest period ends"
+    },
+    {
+     "at": 32,
+     "label": "18 Dec",
+     "note": "Handover term sheet signed"
+    },
+    {
+     "at": 45,
+     "label": "31 Dec",
+     "note": "2027 partner terms signed; click floor expires"
+    },
+    {
+     "at": 60,
+     "label": "15 Jan",
+     "note": "The gate: hold or sell"
+    },
+    {
+     "at": 104,
+     "label": "28 Feb",
+     "note": "Sleep Care signed or wound down; last liquidity test"
+    },
+    {
+     "at": 135,
+     "label": "31 Mar",
+     "note": "Target close; earnings test"
+    }
+   ],
+   "today": 0
+  },
+  "tbl": "15.3"
+ },
+ "ov_spend": {
+  "kind": "stacked",
+  "title": "The plan spends about $3.7M to March, mostly by the end of January.",
+  "sub": "Transition spending by month and kind, $M, December 2026 to March 2027. All of it is met from the business's own cash.",
+  "o": {
+   "labels": [
+    "Dec 2026",
+    "Jan 2027",
+    "Feb",
+    "Mar"
+   ],
+   "series": [
+    {
+     "name": "Sleep Care, net",
+     "values": [
+      0.65,
+      0.35,
+      0.15,
+      0.05
+     ]
+    },
+    {
+     "name": "Shared cost",
+     "values": [
+      0.35,
+      0.2,
+      0.1,
+      0
+     ]
+    },
+    {
+     "name": "Severance and retention",
+     "values": [
+      0.35,
+      0.35,
+      0.15,
+      0
+     ]
+    },
+    {
+     "name": "Legal and control",
+     "values": [
+      0.3,
+      0.2,
+      0.1,
+      0.05
+     ]
+    },
+    {
+     "name": "Separation",
+     "values": [
+      0,
+      0.1,
+      0.1,
+      0.1
+     ]
+    }
+   ],
+   "yFormat": "@m2",
+   "yMax": 2
+  },
+  "tbl": "15.10",
+  "totals": [
+   "$1.65M",
+   "$1.20M",
+   "$0.60M",
+   "$0.20M"
+  ]
  }
 }
