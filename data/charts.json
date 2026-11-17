@@ -1,0 +1,3003 @@
+{
+ "seg_bridge": {
+  "kind": "waterfall",
+  "title": "Sleep Care and the shared layer turn Sleep Media's profit into a loss.",
+  "sub": "EBITDA by segment, $M, 2026 forecast. Sleep Media is shown before shared cost, at the lower of the plan's two figures.",
+  "o": {
+   "steps": [
+    {
+     "label": "Sleep Media",
+     "value": 13.1,
+     "total": true
+    },
+    {
+     "label": "Sleep Care",
+     "value": -9.8
+    },
+    {
+     "label": "Shared cost",
+     "value": -7.4
+    },
+    {
+     "label": "Company",
+     "value": -4.2,
+     "total": true
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": "3.1"
+ },
+ "standalone": {
+  "kind": "hbars",
+  "title": "Trailing stand-alone earnings sit below both last year and this year's forecast.",
+  "sub": "Sleep Media stand-alone EBITDA at $2.6M of corporate cost, $M.",
+  "o": {
+   "labels": [
+    "2025 actual",
+    "12 months to Aug 2026",
+    "2026 forecast"
+   ],
+   "series": [
+    {
+     "name": "Stand-alone EBITDA",
+     "values": [
+      10.8,
+      8.7,
+      10.7
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "3.2"
+ },
+ "care_loss": {
+  "kind": "line",
+  "title": "Sleep Care's monthly loss has grown in most months of the year.",
+  "sub": "Sleep Care EBITDA loss, $K a month, 2026. Actual to August, plan from September.",
+  "o": {
+   "labels": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+   ],
+   "series": [
+    {
+     "name": "Monthly loss",
+     "values": [
+      515,
+      535,
+      669,
+      666,
+      684,
+      710,
+      936,
+      892,
+      1213,
+      1104,
+      1005,
+      898
+     ]
+    }
+   ],
+   "yFormat": "@k0",
+   "area": true,
+   "yMax": 1400
+  },
+  "tbl": "3.3"
+ },
+ "clock_gantt": {
+  "kind": "gantt",
+  "title": "Cash interest starts in December, and the earnings test follows in March.",
+  "sub": "Default calendar from 16 November 2026 to 31 March 2027. The claret line is 16 November.",
+  "o": {
+   "rows": [
+    {
+     "label": "In-kind interest",
+     "start": 0,
+     "end": 14,
+     "kind": "secondary",
+     "note": "Ends 30 November 2026"
+    },
+    {
+     "label": "Cash interest",
+     "start": 15,
+     "end": 135,
+     "kind": "caution",
+     "note": "From 1 December, about $0.9M a month on $103.1M"
+    },
+    {
+     "label": "Liquidity test",
+     "start": 0,
+     "end": 104,
+     "note": "$2.0M minimum, tested monthly to 28 February 2027"
+    },
+    {
+     "label": "3Z click floor",
+     "start": 0,
+     "end": 45,
+     "kind": "secondary",
+     "note": "Expires 31 December 2026; 2027 terms unsigned"
+    },
+    {
+     "label": "Earnings test",
+     "start": 131,
+     "end": 135,
+     "kind": "caution",
+     "note": "31 March 2027: $2.0M minimum EBITDA"
+    }
+   ],
+   "range": [
+    0,
+    135
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    },
+    {
+     "at": 46,
+     "label": "1 Jan"
+    },
+    {
+     "at": 77,
+     "label": "1 Feb"
+    },
+    {
+     "at": 105,
+     "label": "1 Mar"
+    }
+   ],
+   "today": 0
+  },
+  "tbl": "4.3"
+ },
+ "debt_stack": {
+  "kind": "hbars",
+  "title": "Comvest and Falcon hold the two largest balances in the debt.",
+  "sub": "Debt by holder, $M, September 2026. Senior shares are the April 2024 allocation.",
+  "o": {
+   "labels": [
+    "Comvest, senior",
+    "Vistria Credit, senior",
+    "Cliffwater, senior",
+    "Pantheon, senior",
+    "Falcon, subordinated",
+    "Other debt"
+   ],
+   "series": [
+    {
+     "name": "Balance",
+     "values": [
+      59.2,
+      26.9,
+      9.3,
+      5.1,
+      85.9,
+      3.3
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "4.1"
+ },
+ "clicks": {
+  "kind": "line",
+  "title": "Weekly clicks have fallen for six weeks and remain above the trigger.",
+  "sub": "Google clicks on sleepfoundation.org by week beginning Monday, thousands. The sale-review trigger is 176K a week.",
+  "o": {
+   "labels": [
+    "5 Oct",
+    "12 Oct",
+    "19 Oct",
+    "26 Oct",
+    "2 Nov",
+    "9 Nov"
+   ],
+   "series": [
+    {
+     "name": "All pages",
+     "values": [
+      235.6,
+      217.1,
+      214.3,
+      211.0,
+      202.6,
+      197.2
+     ]
+    },
+    {
+     "name": "Sale-review trigger",
+     "values": [
+      176,
+      176,
+      176,
+      176,
+      176,
+      176
+     ]
+    }
+   ],
+   "yFormat": "@kc",
+   "yMax": 240
+  },
+  "tbl": "5.1"
+ },
+ "bestof": {
+  "kind": "line",
+  "title": "Clicks on the best-of pages have been flat for four weeks.",
+  "sub": "Google clicks on pages with /best- in the address, thousands a week.",
+  "o": {
+   "labels": [
+    "19 Oct",
+    "26 Oct",
+    "2 Nov",
+    "9 Nov"
+   ],
+   "series": [
+    {
+     "name": "Best-of pages",
+     "values": [
+      41.4,
+      40.6,
+      41.6,
+      42.0
+     ]
+    }
+   ],
+   "yFormat": "@kc1",
+   "yMax": 50
+  },
+  "tbl": "5.1"
+ },
+ "cases_search": {
+  "kind": "hbars",
+  "title": "The Severe case earns less than half the High case's search revenue.",
+  "sub": "Search revenue, 2027, $M, by case.",
+  "o": {
+   "labels": [
+    "High",
+    "Central",
+    "Low",
+    "Severe"
+   ],
+   "series": [
+    {
+     "name": "Search revenue, 2027",
+     "values": [
+      11.7,
+      9.9,
+      8.3,
+      5.3
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "5.4"
+ },
+ "rank_heat": {
+  "kind": "heat",
+  "title": "The broad mattress terms have gained rank, and the specialist terms have lost it.",
+  "sub": "Average position on Google for sleepfoundation.org by query, autumn 2026 against a year earlier. A lower number is a higher rank. The year-earlier positions for the first two terms are approximate.",
+  "o": {
+   "rows": [
+    "best mattress",
+    "best pillows",
+    "best mattress topper",
+    "best CPAP machine",
+    "mattress for back pain",
+    "mattress for side sleepers"
+   ],
+   "cols": [
+    "2025",
+    "2026"
+   ],
+   "values": [
+    [
+     10,
+     3
+    ],
+    [
+     10,
+     3
+    ],
+    [
+     5,
+     3
+    ],
+    [
+     1,
+     7
+    ],
+    [
+     3,
+     9
+    ],
+    [
+     3,
+     8
+    ]
+   ],
+   "format": "@rank"
+  },
+  "tbl": "5.3"
+ },
+ "positioning": {
+  "kind": "position",
+  "title": "Sleep Media's revenue fell further than the larger publishers' did.",
+  "sub": "Change in Google traffic against change in revenue, 2026 on 2025, %. Periods and revenue lines differ by publisher and are named in the source line.",
+  "o": {
+   "points": [
+    {
+     "label": "Sleep Media",
+     "x": -39,
+     "y": -18,
+     "self": true
+    },
+    {
+     "label": "Ziff Davis",
+     "x": -37,
+     "y": -5
+    },
+    {
+     "label": "People Inc.",
+     "x": -22,
+     "y": -6
+    }
+   ],
+   "xLabel": "Google traffic",
+   "yLabel": "Revenue",
+   "xFormat": "@pcts",
+   "yFormat": "@pcts"
+  },
+  "tbl": null
+ },
+ "jan_aug": {
+  "kind": "bars",
+  "title": "Revenue and contribution both fell in the first eight months.",
+  "sub": "Sleep Media, $M, January to August, 2026 against 2025.",
+  "o": {
+   "labels": [
+    "Revenue",
+    "Contribution"
+   ],
+   "series": [
+    {
+     "name": "January to August 2025",
+     "values": [
+      12.0,
+      9.7
+     ]
+    },
+    {
+     "name": "January to August 2026",
+     "values": [
+      9.8,
+      7.6
+     ]
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": "3.2"
+ },
+ "rev_sources": {
+  "kind": "hbars",
+  "title": "One site earns most of Sleep Media's revenue.",
+  "sub": "Sleep Media revenue by source, $M, 2026 forecast of $16.3M.",
+  "o": {
+   "labels": [
+    "sleepfoundation.org",
+    "sleepdoctor.com editorial",
+    "Advertising and other",
+    "Other domains"
+   ],
+   "series": [
+    {
+     "name": "Revenue",
+     "values": [
+      13.7,
+      1.3,
+      1.1,
+      0.2
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": null
+ },
+ "yield": {
+  "kind": "hbars",
+  "title": "Revenue per click has risen through the year, helped by the click floor.",
+  "sub": "Revenue per click out to merchants, $. Actual to August 2026. September to December is the plan, and the last row is the weighted average for 2026, about.",
+  "o": {
+   "labels": [
+    "First half, low",
+    "First half, high",
+    "July",
+    "August",
+    "Sep to Dec, plan",
+    "2026 weighted"
+   ],
+   "series": [
+    {
+     "name": "Revenue per click out",
+     "values": [
+      5.0,
+      5.8,
+      6.05,
+      7.02,
+      8.3,
+      6.5
+     ]
+    }
+   ],
+   "xFormat": "@usd2"
+  },
+  "tbl": null
+ },
+ "covenant": {
+  "kind": "bars",
+  "title": "The earnings test rises each quarter through next year.",
+  "sub": "Minimum twelve-month EBITDA under today's terms, $M. The plan's two covenant sheets show −$3.0M and −$11.2M at March 2027.",
+  "o": {
+   "labels": [
+    "Mar 2027",
+    "Jun 2027",
+    "Sep 2027",
+    "Dec 2027"
+   ],
+   "series": [
+    {
+     "name": "Minimum EBITDA",
+     "values": [
+      2.0,
+      3.5,
+      7.0,
+      7.5
+     ]
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": "4.3"
+ },
+ "claim": {
+  "kind": "bars",
+  "title": "The senior claim would keep growing under management's request.",
+  "sub": "Senior claim, $M, with interest paid in kind. December 2027 and December 2029 are on the request of 19 October, about.",
+  "o": {
+   "labels": [
+    "Dec 2026",
+    "Dec 2027",
+    "Dec 2029"
+   ],
+   "series": [
+    {
+     "name": "Senior claim",
+     "values": [
+      103.1,
+      114.5,
+      139.7
+     ]
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": "4.2"
+ },
+ "pub_traffic": {
+  "kind": "hbars",
+  "title": "Listed publishers lost Google traffic of the same order.",
+  "sub": "Fall in Google traffic, %, Q3 2026 on a year earlier. Ziff Davis is organic referrals, about; People Inc. is Google search traffic.",
+  "o": {
+   "labels": [
+    "sleepfoundation.org",
+    "Ziff Davis",
+    "People Inc."
+   ],
+   "series": [
+    {
+     "name": "Fall in Google traffic",
+     "values": [
+      39,
+      37,
+      22
+     ]
+    }
+   ],
+   "xFormat": "@pct0"
+  },
+  "tbl": "5.2"
+ },
+ "people": {
+  "kind": "hbars",
+  "title": "Sleep Media's own team is the smallest of the three groups.",
+  "sub": "People, November 2026. 83 in all.",
+  "o": {
+   "labels": [
+    "Sleep Care",
+    "Shared",
+    "Sleep Media"
+   ],
+   "series": [
+    {
+     "name": "People",
+     "values": [
+      59,
+      16,
+      8
+     ]
+    }
+   ],
+   "xFormat": "@n0"
+  },
+  "tbl": "3.1"
+ },
+ "ai_ref": {
+  "kind": "bars",
+  "title": "AI referral revenue rose about fivefold over the summer.",
+  "sub": "AI referral revenue, $K a month, 2026.",
+  "o": {
+   "labels": [
+    "June",
+    "August"
+   ],
+   "series": [
+    {
+     "name": "AI referral revenue",
+     "values": [
+      13,
+      66
+     ]
+    }
+   ],
+   "yFormat": "@k0"
+  },
+  "tbl": null
+ },
+ "oct_clicks": {
+  "kind": "bars",
+  "title": "October clicks were about half of last year's.",
+  "sub": "Google clicks on sleepfoundation.org, thousands, October.",
+  "o": {
+   "labels": [
+    "October 2025",
+    "October 2026"
+   ],
+   "series": [
+    {
+     "name": "Clicks",
+     "values": [
+      1874,
+      975
+     ]
+    }
+   ],
+   "yFormat": "@kc"
+  },
+  "tbl": null
+ },
+ "liquidity": {
+  "kind": "bars",
+  "title": "Average monthly liquidity has fallen by about two thirds.",
+  "sub": "Average monthly liquidity, $M.",
+  "o": {
+   "labels": [
+    "October 2024",
+    "September 2026"
+   ],
+   "series": [
+    {
+     "name": "Average monthly liquidity",
+     "values": [
+      10.1,
+      3.2
+     ]
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": null
+ },
+ "sale_hold": {
+  "kind": "bars",
+  "title": "A March sale is worth more to Comvest than a hold on each case.",
+  "sub": "Comvest's value, $M, present value at 16 November 2026. Sales at 3.5 times forward EBITDA, and 2.5 times in the Severe case.",
+  "o": {
+   "labels": [
+    "High",
+    "Central",
+    "Low",
+    "Severe"
+   ],
+   "series": [
+    {
+     "name": "March 2027 sale",
+     "values": [
+      18.5,
+      14.9,
+      11.6,
+      3.4
+     ]
+    },
+    {
+     "name": "Hold to June 2028",
+     "values": [
+      17.3,
+      13.5,
+      10.2,
+      1.6
+     ]
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": "6.1"
+ },
+ "indiff_ev": {
+  "kind": "hbars",
+  "title": "The bid that beats a hold depends on the case.",
+  "sub": "Enterprise value in March 2027 at which a sale equals a hold, $M, if a later buyer pays 3.5 times. On the Severe case any serious bid beats the hold.",
+  "o": {
+   "labels": [
+    "High",
+    "Central",
+    "Low"
+   ],
+   "series": [
+    {
+     "name": "Enterprise value that beats the hold",
+     "values": [
+      30.4,
+      23.5,
+      17.4
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "6.1"
+ },
+ "indiff_mult": {
+  "kind": "dumbbell",
+  "title": "The point of indifference falls if a later buyer would pay less.",
+  "sub": "March 2027 multiple of forward EBITDA at which a sale equals a hold, by case.",
+  "o": {
+   "labels": [
+    "High",
+    "Central",
+    "Low",
+    "Severe"
+   ],
+   "from": [
+    2.6,
+    2.5,
+    2.4,
+    0.7
+   ],
+   "to": [
+    3.2,
+    3.2,
+    3.0,
+    0.8
+   ],
+   "fromName": "Later buyer pays 2.5 times",
+   "toName": "Later buyer pays 3.5 times",
+   "xFormat": "@x1",
+   "xMax": 4
+  },
+  "tbl": "6.1"
+ },
+ "gate_gantt": {
+  "kind": "gantt",
+  "title": "The evidence for the gate arrives between December and mid-January.",
+  "sub": "When each piece of evidence falls due, 16 November 2026 to 15 January 2027.",
+  "o": {
+   "rows": [
+    {
+     "label": "Click read",
+     "start": 15,
+     "end": 45,
+     "note": "First read about 1 December; confirmed through December"
+    },
+    {
+     "label": "Partner terms",
+     "start": 0,
+     "end": 45,
+     "kind": "secondary",
+     "note": "Signed before 31 December"
+    },
+    {
+     "label": "Weekly cash",
+     "start": 9,
+     "end": 60,
+     "note": "Weekly from late November"
+    },
+    {
+     "label": "Buyer indications",
+     "start": 15,
+     "end": 60,
+     "note": "Tracks open 1 December; written indications mid-January"
+    },
+    {
+     "label": "Authority, tax",
+     "start": 4,
+     "end": 60,
+     "kind": "secondary",
+     "note": "Counsel, by mid-January"
+    },
+    {
+     "label": "The gate",
+     "start": 59,
+     "end": 61,
+     "kind": "caution",
+     "note": "On or about 15 January 2027"
+    }
+   ],
+   "range": [
+    0,
+    62
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    },
+    {
+     "at": 32,
+     "label": "18 Dec"
+    },
+    {
+     "at": 46,
+     "label": "1 Jan"
+    },
+    {
+     "at": 60,
+     "label": "15 Jan"
+    }
+   ],
+   "today": 0
+  },
+  "tbl": "6.2"
+ },
+ "tool_cost": {
+  "kind": "dumbbell",
+  "title": "A handover costs a fraction of a court sale.",
+  "sub": "Estimated cost of each tool, $M, low to high.",
+  "o": {
+   "labels": [
+    "Consensual handover",
+    "Board change",
+    "Collateral sale",
+    "Chapter 11 court sale"
+   ],
+   "from": [
+    0.5,
+    0.2,
+    1.0,
+    3.0
+   ],
+   "to": [
+    1.0,
+    0.5,
+    1.5,
+    6.0
+   ],
+   "fromName": "Low estimate",
+   "toName": "High estimate",
+   "xFormat": "@m1",
+   "xMax": 6
+  },
+  "tbl": "7.1"
+ },
+ "tool_time": {
+  "kind": "hbars",
+  "title": "A board change is the fastest tool, and a court sale the slowest.",
+  "sub": "Longest estimated time for each tool, weeks. Six months is shown as 26 weeks. The board change runs from a default, and the handover from a term sheet.",
+  "o": {
+   "labels": [
+    "Board change",
+    "Consensual handover",
+    "Collateral sale",
+    "Chapter 11 court sale"
+   ],
+   "series": [
+    {
+     "name": "Longest estimate",
+     "values": [
+      2,
+      8,
+      12,
+      26
+     ]
+    }
+   ],
+   "xFormat": "@wk"
+  },
+  "tbl": "7.1"
+ },
+ "shares": {
+  "kind": "hbars",
+  "title": "Comvest holds the majority of the senior loan.",
+  "sub": "Share of the senior term loan, %, April 2024 allocation, the latest seen.",
+  "o": {
+   "labels": [
+    "Comvest",
+    "Vistria Credit",
+    "Cliffwater",
+    "Pantheon"
+   ],
+   "series": [
+    {
+     "name": "Share of the senior loan",
+     "values": [
+      58.9,
+      26.8,
+      9.3,
+      5.1
+     ]
+    }
+   ],
+   "xFormat": "@pct1"
+  },
+  "tbl": "4.1"
+ },
+ "strip": {
+  "kind": "bars",
+  "title": "A take-out pays where the strip's share exceeds the price.",
+  "sub": "Vistria Credit's 26.8% of lender cash at a March close against a $7M take-out, $M.",
+  "o": {
+   "labels": [
+    "High",
+    "Central",
+    "Low"
+   ],
+   "series": [
+    {
+     "name": "Vistria Credit's share of lender cash",
+     "values": [
+      8.9,
+      7.1,
+      5.6
+     ]
+    },
+    {
+     "name": "A $7M take-out",
+     "values": [
+      7,
+      7,
+      7
+     ]
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": "7.6"
+ },
+ "lincoln": {
+  "kind": "bars",
+  "title": "Lender takeovers have multiplied in US private credit.",
+  "sub": "Lender takeovers counted by Lincoln International, $B. The 2025 figure is over $24B.",
+  "o": {
+   "labels": [
+    "2023",
+    "2025"
+   ],
+   "series": [
+    {
+     "name": "Lender takeovers",
+     "values": [
+      2.7,
+      24
+     ]
+    }
+   ],
+   "yFormat": "@b1"
+  },
+  "tbl": "7.7"
+ },
+ "route_time": {
+  "kind": "dumbbell",
+  "title": "The equity route is quicker, and the asset route leaves more behind.",
+  "sub": "Estimated weeks to complete each handover structure.",
+  "o": {
+   "labels": [
+    "Asset route",
+    "Equity route"
+   ],
+   "from": [
+    6,
+    4
+   ],
+   "to": [
+    10,
+    8
+   ],
+   "fromName": "Shortest",
+   "toName": "Longest",
+   "xFormat": "@wk",
+   "xMax": 12
+  },
+  "tbl": "7.3"
+ },
+ "cac": {
+  "kind": "dumbbell",
+  "title": "Acquisition cost has fallen by more than half since September.",
+  "sub": "Sleep Care acquisition cost per new patient, $. The budget is $155 blended.",
+  "o": {
+   "labels": [
+    "Blended",
+    "Paid channels"
+   ],
+   "from": [
+    343,
+    565
+   ],
+   "to": [
+    122,
+    236
+   ],
+   "fromName": "Week of 20 September",
+   "toName": "Week of 8 November",
+   "xFormat": "@usd0",
+   "xMax": 600
+  },
+  "tbl": "8.1"
+ },
+ "patients": {
+  "kind": "bars",
+  "title": "Weekly new patients have risen by about half since late September.",
+  "sub": "New patients a week, 2026. The count mixes cash orders, scheduled consultations, and insurance forms at an assumed 28% conversion.",
+  "o": {
+   "labels": [
+    "Week of 20 Sep",
+    "Week of 1 Nov",
+    "Week of 8 Nov"
+   ],
+   "series": [
+    {
+     "name": "New patients",
+     "values": [
+      499,
+      756,
+      729
+     ]
+    }
+   ],
+   "yFormat": "@n0"
+  },
+  "tbl": "8.1"
+ },
+ "cohorts": {
+  "kind": "hbars",
+  "title": "No cohort has yet repaid its acquisition cost.",
+  "sub": "First-order profit per dollar of acquisition cost by cohort, as observed on 15 November 2026. A ratio of 1.00 repays the cost, and the budget was 1.48. Cohorts are at different ages.",
+  "o": {
+   "labels": [
+    "June, 137 days",
+    "July, 106 days",
+    "August, 75 days",
+    "September, 45 days"
+   ],
+   "series": [
+    {
+     "name": "Profit per dollar of acquisition cost",
+     "values": [
+      0.85,
+      0.63,
+      0.55,
+      0.3
+     ]
+    }
+   ],
+   "xFormat": "@n2",
+   "xMax": 1.5
+  },
+  "tbl": "8.1"
+ },
+ "care_pl": {
+  "kind": "waterfall",
+  "title": "Marketing and payroll together cost more than Sleep Care's gross profit.",
+  "sub": "Sleep Care, $M, 2026 on the long-range plan.",
+  "o": {
+   "steps": [
+    {
+     "label": "Revenue",
+     "value": 20.3,
+     "total": true
+    },
+    {
+     "label": "Cost of goods",
+     "value": -10.7
+    },
+    {
+     "label": "Payroll",
+     "value": -7.2
+    },
+    {
+     "label": "Marketing",
+     "value": -8.8
+    },
+    {
+     "label": "Other",
+     "value": -3.4
+    },
+    {
+     "label": "EBITDA",
+     "value": -9.8,
+     "total": true
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": null
+ },
+ "severance": {
+  "kind": "bars",
+  "title": "The bridge carries a fraction of the earlier severance estimate.",
+  "sub": "Severance, $M. The earlier estimate is for all leavers, about.",
+  "o": {
+   "labels": [
+    "Earlier estimate",
+    "Funding bridge"
+   ],
+   "series": [
+    {
+     "name": "Severance",
+     "values": [
+      2.3,
+      0.45
+     ]
+    }
+   ],
+   "yFormat": "@m2"
+  },
+  "tbl": null
+ },
+ "sep_cost": {
+  "kind": "dumbbell",
+  "title": "Each step of separation costs more than the one before.",
+  "sub": "Estimated one-off cost of each step, $M, low to high. Technical separation also costs $0.3M to $0.6M a year.",
+  "o": {
+   "labels": [
+    "Ring-fence",
+    "Legal separation",
+    "Technical separation"
+   ],
+   "from": [
+    0.15,
+    0.3,
+    0.45
+   ],
+   "to": [
+    0.3,
+    0.6,
+    0.9
+   ],
+   "fromName": "Low estimate",
+   "toName": "High estimate",
+   "xFormat": "@m2",
+   "xMax": 1
+  },
+  "tbl": "9.1"
+ },
+ "registry": {
+  "kind": "gantt",
+  "title": "Three registrations fall due by mid-January.",
+  "sub": "Time from 10 November 2026 to each registry expiry, as read on that date. The claret line is 16 November. sleepdoctor.com runs to 19 January 2028 and is not shown.",
+  "o": {
+   "rows": [
+    {
+     "label": "sleepfoundation.org",
+     "start": 0,
+     "end": 1,
+     "kind": "caution",
+     "note": "Registry expiry 11 November 2026: confirm the renewal has gone through"
+    },
+    {
+     "label": "sleepapnea.org",
+     "start": 0,
+     "end": 41,
+     "note": "Registry expiry 21 December 2026"
+    },
+    {
+     "label": "thesleepdoctor.com",
+     "start": 0,
+     "end": 70,
+     "kind": "secondary",
+     "note": "Registry expiry 19 January 2027"
+    }
+   ],
+   "range": [
+    0,
+    75
+   ],
+   "ticks": [
+    {
+     "at": 0,
+     "label": "10 Nov"
+    },
+    {
+     "at": 21,
+     "label": "1 Dec"
+    },
+    {
+     "at": 41,
+     "label": "21 Dec"
+    },
+    {
+     "at": 70,
+     "label": "19 Jan"
+    }
+   ],
+   "today": 6
+  },
+  "tbl": "9.3"
+ },
+ "budget": {
+  "kind": "hbars",
+  "title": "Cash payroll is about half of MediaCo's budget.",
+  "sub": "MediaCo cash budget for 2027 by block, $M. Total $5.20M.",
+  "o": {
+   "labels": [
+    "Cash payroll and benefits",
+    "Clinical and editorial",
+    "Platform and tools",
+    "Professional services",
+    "Contingency",
+    "General"
+   ],
+   "series": [
+    {
+     "name": "2027 cash",
+     "values": [
+      2.63,
+      0.65,
+      0.62,
+      0.57,
+      0.58,
+      0.15
+     ]
+    }
+   ],
+   "xFormat": "@m2"
+  },
+  "tbl": "10.1"
+ },
+ "team": {
+  "kind": "hbars",
+  "title": "Search and content is the largest group in MediaCo's team.",
+  "sub": "Roles in the working roster of about 15 people. One or two roles can be part-time.",
+  "o": {
+   "labels": [
+    "Search and content",
+    "Engineers",
+    "Partnership managers",
+    "Finance",
+    "Video",
+    "General manager",
+    "Analyst",
+    "Lifecycle marketer"
+   ],
+   "series": [
+    {
+     "name": "Roles",
+     "values": [
+      5,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+     ]
+    }
+   ],
+   "xFormat": "@n0"
+  },
+  "tbl": null
+ },
+ "levers": {
+  "kind": "hbars",
+  "title": "No growth lever is counted until it is contracted.",
+  "sub": "Earlier risk-weighted value of each lever, $M. None is in the funding base or the value cases.",
+  "o": {
+   "labels": [
+    "Lean corporate cost",
+    "Click floors, hybrid terms",
+    "AI-referral rebuild",
+    "Pharma and endemic ads",
+    "Rebuilt lost-rank pages",
+    "AI and data licensing",
+    "Email",
+    "YouTube and podcast",
+    "Magazine and seal",
+    "Domain sales"
+   ],
+   "series": [
+    {
+     "name": "Earlier risk-weighted value",
+     "values": [
+      2.4,
+      2.2,
+      1.9,
+      1.7,
+      1.4,
+      1.3,
+      1.0,
+      0.6,
+      0.6,
+      0.3
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "10.2"
+ },
+ "process": {
+  "kind": "dumbbell",
+  "title": "A strategic process is worth far more than a distressed one.",
+  "sub": "Enterprise value of Sleep Media on the Central case by kind of process, $M, on forward EBITDA at March 2027.",
+  "o": {
+   "labels": [
+    "Distressed",
+    "Managed, short list",
+    "Strategic, synergies"
+   ],
+   "from": [
+    15,
+    22,
+    30
+   ],
+   "to": [
+    19,
+    26,
+    33
+   ],
+   "fromName": "Low",
+   "toName": "High",
+   "xFormat": "@m0",
+   "xMax": 40
+  },
+  "tbl": "11.2"
+ },
+ "referral": {
+  "kind": "hbars",
+  "title": "A referral agreement could add contracted revenue to MediaCo.",
+  "sub": "Illustrative annual referral fees to MediaCo, $M: 1,000 to 2,000 qualified referrals a month at $40 to $60. The figure is in no value in this document.",
+  "o": {
+   "labels": [
+    "Low end",
+    "High end"
+   ],
+   "series": [
+    {
+     "name": "Annual referral fees",
+     "values": [
+      0.5,
+      1.4
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": null
+ },
+ "val_case": {
+  "kind": "hbars",
+  "title": "Comvest recovers most on the High case and little on the Severe case.",
+  "sub": "Comvest's value for a March 2027 sale of Sleep Media, $M, by case.",
+  "o": {
+   "labels": [
+    "High",
+    "Central",
+    "Low",
+    "Severe"
+   ],
+   "series": [
+    {
+     "name": "Comvest's value",
+     "values": [
+      18.5,
+      14.9,
+      11.6,
+      3.4
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "12.1"
+ },
+ "val_date": {
+  "kind": "line",
+  "title": "Value to Comvest falls with each later closing date.",
+  "sub": "Comvest's value by closing date and case, $M. Later sales include the cash swept before closing.",
+  "o": {
+   "labels": [
+    "March 2027",
+    "September 2027",
+    "June 2028"
+   ],
+   "series": [
+    {
+     "name": "High",
+     "values": [
+      18.5,
+      17.6,
+      17.3
+     ]
+    },
+    {
+     "name": "Central",
+     "values": [
+      14.9,
+      14.0,
+      13.5
+     ]
+    },
+    {
+     "name": "Low",
+     "values": [
+      11.6,
+      10.8,
+      10.2
+     ]
+    },
+    {
+     "name": "Severe",
+     "values": [
+      3.4,
+      2.5,
+      1.6
+     ]
+    }
+   ],
+   "yFormat": "@m1",
+   "yMax": 20
+  },
+  "tbl": "12.1"
+ },
+ "mult_heat": {
+  "kind": "heat",
+  "title": "Value rises with the multiple on every case.",
+  "sub": "Comvest's value for a March 2027 sale, $M, by case and sale multiple of forward EBITDA.",
+  "o": {
+   "rows": [
+    "High",
+    "Central",
+    "Low"
+   ],
+   "cols": [
+    "2.5x",
+    "3.0x",
+    "3.5x",
+    "4.0x",
+    "4.5x"
+   ],
+   "values": [
+    [
+     13.6,
+     16.1,
+     18.5,
+     21.0,
+     23.5
+    ],
+    [
+     10.9,
+     12.9,
+     14.9,
+     16.8,
+     18.8
+    ],
+    [
+     8.6,
+     10.1,
+     11.6,
+     13.1,
+     14.7
+    ]
+   ],
+   "format": "@m1"
+  },
+  "tbl": "12.2"
+ },
+ "weighted": {
+  "kind": "hbars",
+  "title": "On judgement weights a sale is worth close to the September mark.",
+  "sub": "Comvest's value for Sleep Media on judgement weights of 20%, 35%, 30% and 15%, $M, against the value implied by the September 2026 mark.",
+  "o": {
+   "labels": [
+    "March sale, weighted",
+    "Hold, weighted",
+    "September mark"
+   ],
+   "series": [
+    {
+     "name": "Comvest's value",
+     "values": [
+      12.9,
+      11.5,
+      13.7
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "12.3"
+ },
+ "sens": {
+  "kind": "hbars",
+  "title": "The multiple and search revenue move Comvest's value most.",
+  "sub": "Size of the change in Comvest's value on the Central case, $M. Timing, cost and tax reduce value, and the others can move it either way. The Sleep Care row is the top of a range that starts at nil.",
+  "o": {
+   "labels": [
+    "Sleep Care, up to",
+    "Multiple, each half turn",
+    "Search revenue, each $1M",
+    "Sale six months later",
+    "Cost base at $5.6M",
+    "Tax or liability, each $1M",
+    "Comvest share, each point"
+   ],
+   "series": [
+    {
+     "name": "Effect on Comvest",
+     "values": [
+      2.6,
+      2.0,
+      1.9,
+      0.9,
+      0.8,
+      0.6,
+      0.25
+     ]
+    }
+   ],
+   "xFormat": "@m2"
+  },
+  "tbl": "12.4"
+ },
+ "bridge": {
+  "kind": "waterfall",
+  "title": "Uncontracted levers explain most of the gap to a full harvest.",
+  "sub": "Comvest's value, $M, from a full five-year harvest with every lever to the cases in this plan.",
+  "o": {
+   "steps": [
+    {
+     "label": "Full harvest",
+     "value": 27.8,
+     "total": true
+    },
+    {
+     "label": "Levers",
+     "value": -7.7
+    },
+    {
+     "label": "Sleep Care",
+     "value": -2.6
+    },
+    {
+     "label": "March sale",
+     "value": 1.0
+    },
+    {
+     "label": "High",
+     "value": 18.5,
+     "total": true
+    },
+    {
+     "label": "Yield",
+     "value": -3.6
+    },
+    {
+     "label": "Central",
+     "value": 14.9,
+     "total": true
+    },
+    {
+     "label": "Floor",
+     "value": -3.3
+    },
+    {
+     "label": "Low",
+     "value": 11.6,
+     "total": true
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": "12.5"
+ },
+ "marks": {
+  "kind": "hbars",
+  "title": "The latest mark implies the lowest value of the three.",
+  "sub": "Value of Comvest's position implied by each holder's mark, $M, on 58.9% of the $103.1M December balance.",
+  "o": {
+   "labels": [
+    "22.5 cents, 30 Sep 2026",
+    "25.8 cents, 30 Jun 2026",
+    "28 cents, 30 Jun 2026"
+   ],
+   "series": [
+    {
+     "name": "Implied value",
+     "values": [
+      13.7,
+      15.7,
+      17.0
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "12.6"
+ },
+ "cash_line": {
+  "kind": "line",
+  "title": "Month-end cash stays above the reserve on the bridge as built.",
+  "sub": "Month-end cash, $M, Central case, December 2026 to September 2027, against the $2.0M reserve. Cash above $3.0M is swept.",
+  "o": {
+   "labels": [
+    "Dec",
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep"
+   ],
+   "series": [
+    {
+     "name": "Month-end cash",
+     "values": [
+      2.28,
+      2.21,
+      2.5,
+      2.63,
+      2.97,
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+     ]
+    },
+    {
+     "name": "Reserve",
+     "values": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+     ]
+    }
+   ],
+   "yFormat": "@m1",
+   "yMax": 4,
+   "area": true
+  },
+  "tbl": "13.1"
+ },
+ "stress": {
+  "kind": "hbars",
+  "title": "Every stress tested takes cash below the reserve.",
+  "sub": "Lowest month-end cash, $M, against a $2.0M reserve. The first row is the bridge as built. The last row is about $0.5M, in June.",
+  "o": {
+   "labels": [
+    "The bridge as built",
+    "Revenue 10% below plan",
+    "Revenue 20% below plan",
+    "Care cap a month late",
+    "Revenue 10% low, late cap",
+    "One month cash interest",
+    "Two months cash interest",
+    "Heavier one-off calendar"
+   ],
+   "series": [
+    {
+     "name": "Lowest month-end cash",
+     "values": [
+      2.21,
+      1.9,
+      1.59,
+      1.61,
+      1.3,
+      1.32,
+      0.43,
+      0.5
+     ]
+    }
+   ],
+   "xFormat": "@m2",
+   "xMax": 2.5
+  },
+  "tbl": "13.2"
+ },
+ "trans": {
+  "kind": "stacked",
+  "title": "Transition cost is heaviest in December and gone by April.",
+  "sub": "Transition cost by month and kind, $M, December 2026 to March 2027. $3.65M in all.",
+  "o": {
+   "labels": [
+    "Dec 2026",
+    "Jan 2027",
+    "Feb 2027",
+    "Mar 2027"
+   ],
+   "series": [
+    {
+     "name": "Sleep Care, net",
+     "values": [
+      0.65,
+      0.35,
+      0.15,
+      0.05
+     ]
+    },
+    {
+     "name": "Shared cost",
+     "values": [
+      0.35,
+      0.2,
+      0.1,
+      0
+     ]
+    },
+    {
+     "name": "Severance and retention",
+     "values": [
+      0.35,
+      0.35,
+      0.15,
+      0
+     ]
+    },
+    {
+     "name": "Legal and control",
+     "values": [
+      0.3,
+      0.2,
+      0.1,
+      0.05
+     ]
+    },
+    {
+     "name": "Separation",
+     "values": [
+      0,
+      0.1,
+      0.1,
+      0.1
+     ]
+    }
+   ],
+   "yFormat": "@m2"
+  },
+  "tbl": "13.1"
+ },
+ "sweep": {
+  "kind": "bars",
+  "title": "The sweep to the lenders begins in May.",
+  "sub": "Cash swept to the lenders by month, $M, 2027, Central case. $2.29M to September.",
+  "o": {
+   "labels": [
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep"
+   ],
+   "series": [
+    {
+     "name": "Swept to lenders",
+     "values": [
+      0.31,
+      0.43,
+      0.55,
+      0.41,
+      0.59
+     ]
+    }
+   ],
+   "yFormat": "@m2"
+  },
+  "tbl": "13.1"
+ },
+ "receipts": {
+  "kind": "bars",
+  "title": "Receipts are highest in December and January.",
+  "sub": "Sleep Media receipts by month, $M, Central case, December 2026 to September 2027.",
+  "o": {
+   "labels": [
+    "Dec",
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep"
+   ],
+   "series": [
+    {
+     "name": "Receipts",
+     "values": [
+      1.55,
+      1.61,
+      1.36,
+      0.8,
+      0.82,
+      0.81,
+      0.9,
+      1.02,
+      0.88,
+      1.07
+     ]
+    }
+   ],
+   "yFormat": "@m2"
+  },
+  "tbl": "13.1"
+ },
+ "season": {
+  "kind": "bars",
+  "title": "The last four months carry the largest share of the year's revenue.",
+  "sub": "Share of annual revenue by month, %, from the 2026 plan. Actual to August.",
+  "o": {
+   "labels": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+   ],
+   "series": [
+    {
+     "name": "Share of annual revenue",
+     "values": [
+      6.2,
+      6.7,
+      6.5,
+      6.7,
+      8.9,
+      6.7,
+      8.2,
+      10.0,
+      9.6,
+      9.8,
+      10.5,
+      10.1
+     ]
+    }
+   ],
+   "yFormat": "@pct1"
+  },
+  "tbl": "A.3"
+ },
+ "rev_cases": {
+  "kind": "line",
+  "title": "Revenue falls each year on every case.",
+  "sub": "Sleep Media revenue by case, $M.",
+  "o": {
+   "labels": [
+    "2027",
+    "2028",
+    "2029",
+    "2030",
+    "2031"
+   ],
+   "series": [
+    {
+     "name": "High",
+     "values": [
+      15.0,
+      13.4,
+      12.1,
+      11.0,
+      10.1
+     ]
+    },
+    {
+     "name": "Central",
+     "values": [
+      13.0,
+      11.7,
+      10.6,
+      9.7,
+      9.0
+     ]
+    },
+    {
+     "name": "Low",
+     "values": [
+      11.3,
+      10.2,
+      9.3,
+      8.5,
+      8.0
+     ]
+    },
+    {
+     "name": "Severe",
+     "values": [
+      7.5,
+      6.2,
+      5.2,
+      4.5,
+      3.9
+     ]
+    }
+   ],
+   "yFormat": "@m1",
+   "yMax": 16
+  },
+  "tbl": "A.4"
+ },
+ "ebitda_cases": {
+  "kind": "line",
+  "title": "Earnings fall each year as search revenue declines.",
+  "sub": "Sleep Media EBITDA by case, $M. The Severe case turns negative in 2029 and is in the table.",
+  "o": {
+   "labels": [
+    "2027",
+    "2028",
+    "2029",
+    "2030",
+    "2031"
+   ],
+   "series": [
+    {
+     "name": "High",
+     "values": [
+      9.8,
+      8.0,
+      6.6,
+      5.3,
+      4.3
+     ]
+    },
+    {
+     "name": "Central",
+     "values": [
+      7.8,
+      6.3,
+      5.1,
+      4.0,
+      3.1
+     ]
+    },
+    {
+     "name": "Low",
+     "values": [
+      6.1,
+      4.8,
+      3.8,
+      2.9,
+      2.1
+     ]
+    }
+   ],
+   "yFormat": "@m1",
+   "yMax": 10
+  },
+  "tbl": "A.4"
+ },
+ "roadmap": {
+  "kind": "gantt",
+  "title": "The plan runs about nineteen weeks to a March close.",
+  "sub": "Main steps from 16 November 2026 to 31 March 2027. The claret line is 16 November.",
+  "o": {
+   "rows": [
+    {
+     "label": "Core update",
+     "start": 0,
+     "end": 8,
+     "kind": "secondary",
+     "note": "Began 10 November; due to complete about 24 November"
+    },
+    {
+     "label": "Decline, counsel",
+     "start": 0,
+     "end": 4,
+     "note": "By 20 November"
+    },
+    {
+     "label": "Forbearance",
+     "start": 14,
+     "end": 74,
+     "note": "Signed before 30 November; runs to 29 January"
+    },
+    {
+     "label": "Term sheet",
+     "start": 14,
+     "end": 32,
+     "kind": "secondary",
+     "note": "Vistria signs by 18 December"
+    },
+    {
+     "label": "Partner terms",
+     "start": 0,
+     "end": 45,
+     "kind": "secondary",
+     "note": "2027 terms signed before 31 December"
+    },
+    {
+     "label": "Sale tracks",
+     "start": 15,
+     "end": 60,
+     "note": "Open 1 December; indications about 15 January"
+    },
+    {
+     "label": "The gate",
+     "start": 59,
+     "end": 61,
+     "kind": "caution",
+     "note": "About 15 January 2027: hold or sell"
+    },
+    {
+     "label": "Signing, closing",
+     "start": 77,
+     "end": 135,
+     "note": "February to March; target close 31 March"
+    },
+    {
+     "label": "Liquidity tests",
+     "start": 0,
+     "end": 104,
+     "kind": "secondary",
+     "note": "Monthly to 28 February"
+    },
+    {
+     "label": "Earnings test",
+     "start": 131,
+     "end": 135,
+     "kind": "caution",
+     "note": "31 March 2027"
+    }
+   ],
+   "range": [
+    0,
+    135
+   ],
+   "ticks": [
+    {
+     "at": 15,
+     "label": "1 Dec"
+    },
+    {
+     "at": 46,
+     "label": "1 Jan"
+    },
+    {
+     "at": 77,
+     "label": "1 Feb"
+    },
+    {
+     "at": 105,
+     "label": "1 Mar"
+    }
+   ],
+   "today": 0
+  },
+  "tbl": "14.1"
+ },
+ "first2w": {
+  "kind": "gantt",
+  "title": "The first gates all fall within two weeks.",
+  "sub": "Steps due between 16 and 30 November 2026.",
+  "o": {
+   "rows": [
+    {
+     "label": "Decline letter",
+     "start": 0,
+     "end": 4,
+     "note": "By 20 November"
+    },
+    {
+     "label": "Counsel instructed",
+     "start": 0,
+     "end": 4,
+     "note": "By 20 November"
+    },
+    {
+     "label": "Core update",
+     "start": 0,
+     "end": 8,
+     "kind": "secondary",
+     "note": "About 24 November"
+    },
+    {
+     "label": "Retention, matrix",
+     "start": 4,
+     "end": 11,
+     "note": "27 November"
+    },
+    {
+     "label": "Forbearance signed",
+     "start": 4,
+     "end": 14,
+     "note": "Before 30 November"
+    },
+    {
+     "label": "In-kind ends",
+     "start": 13,
+     "end": 14,
+     "kind": "caution",
+     "note": "30 November"
+    }
+   ],
+   "range": [
+    0,
+    15
+   ],
+   "ticks": [
+    {
+     "at": 0,
+     "label": "16 Nov"
+    },
+    {
+     "at": 4,
+     "label": "20 Nov"
+    },
+    {
+     "at": 8,
+     "label": "24 Nov"
+    },
+    {
+     "at": 11,
+     "label": "27 Nov"
+    },
+    {
+     "at": 14,
+     "label": "30 Nov"
+    }
+   ],
+   "today": 0
+  },
+  "tbl": "14.1"
+ },
+ "risks": {
+  "kind": "hbars",
+  "title": "The search risk is larger than every other risk to Comvest's value.",
+  "sub": "Size of the effect on Comvest's value, $M, for the risks the plan sizes, about. The Sleep Care row is the top of a $1.2M to $1.8M range.",
+  "o": {
+   "labels": [
+    "Core update cuts clicks",
+    "3Z floor lapses",
+    "No buyer for Sleep Care",
+    "Six months of delay",
+    "Tax leak, each $1M"
+   ],
+   "series": [
+    {
+     "name": "Effect on Comvest",
+     "values": [
+      11,
+      3.2,
+      1.8,
+      0.9,
+      0.6
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "15.1"
+ },
+ "options": {
+  "kind": "hbars",
+  "title": "On the harvest method most options sit within a narrow range.",
+  "sub": "Pool value of each option on a five-year harvest with every lever, $M. This is a different method from the plan's and is shown for reference.",
+  "o": {
+   "labels": [
+    "Fund Sleep Care behind gates",
+    "Take the whole equity",
+    "Handover, Sleep Care sold",
+    "With a $7M strip take-out",
+    "Grant the request",
+    "Vistria swaps strip",
+    "Sell the whole company"
+   ],
+   "series": [
+    {
+     "name": "Pool value",
+     "values": [
+      52.1,
+      47.5,
+      47.2,
+      47.2,
+      43.2,
+      42.8,
+      33.0
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "tbl": "B.1"
+ },
+ "findings_status": {
+  "kind": "hbars",
+  "title": "More findings hold than need watching.",
+  "sub": "The seven findings by status.",
+  "o": {
+   "labels": [
+    "Holds",
+    "Watch"
+   ],
+   "series": [
+    {
+     "name": "Findings",
+     "values": [
+      5,
+      3
+     ]
+    }
+   ],
+   "xFormat": "@n0"
+  },
+  "tbl": "2.1"
+ },
+ "decisions_due": {
+  "kind": "hbars",
+  "title": "Most of the decisions are needed before December.",
+  "sub": "Decisions asked of Comvest by when each is needed.",
+  "o": {
+   "labels": [
+    "Now",
+    "By 20 November",
+    "By 30 November",
+    "In December",
+    "By 15 January"
+   ],
+   "series": [
+    {
+     "name": "Decisions",
+     "values": [
+      6,
+      2,
+      2,
+      2,
+      1
+     ]
+    }
+   ],
+   "xFormat": "@n0"
+  },
+  "tbl": "1.2"
+ },
+ "steps_month": {
+  "kind": "hbars",
+  "title": "More than half the steps fall before the end of December.",
+  "sub": "Steps in the roadmap by month.",
+  "o": {
+   "labels": [
+    "November 2026",
+    "December 2026",
+    "January 2027",
+    "February to March",
+    "Later in 2027",
+    "2028"
+   ],
+   "series": [
+    {
+     "name": "Steps",
+     "values": [
+      6,
+      8,
+      3,
+      4,
+      4,
+      1
+     ]
+    }
+   ],
+   "xFormat": "@n0"
+  },
+  "tbl": "14.1"
+ },
+ "coverage": {
+  "kind": "stacked",
+  "title": "Earnings, capital and the plan are best covered, and operations least.",
+  "sub": "Aspects of the assessment template by function: partly supported and lacking evidence.",
+  "o": {
+   "labels": [
+    "Demand",
+    "Customers",
+    "Price",
+    "Market",
+    "Units",
+    "Operations",
+    "People",
+    "Supply",
+    "Earnings",
+    "Capital",
+    "Plan",
+    "Legal"
+   ],
+   "series": [
+    {
+     "name": "Partly supported",
+     "values": [
+      3,
+      3,
+      2,
+      4,
+      2,
+      2,
+      2,
+      3,
+      4,
+      4,
+      4,
+      2
+     ]
+    },
+    {
+     "name": "Lacking evidence",
+     "values": [
+      1,
+      1,
+      2,
+      0,
+      2,
+      2,
+      2,
+      1,
+      0,
+      0,
+      0,
+      2
+     ]
+    }
+   ],
+   "yFormat": "@n0",
+   "yMax": 4
+  },
+  "tbl": "C.1"
+ },
+ "checks": {
+  "kind": "hbars",
+  "title": "Most checked statements were right in part.",
+  "sub": "Twenty-two statements tested against the source records, by result.",
+  "o": {
+   "labels": [
+    "Confirmed",
+    "Right in part",
+    "Not verified"
+   ],
+   "series": [
+    {
+     "name": "Statements",
+     "values": [
+      2,
+      13,
+      7
+     ]
+    }
+   ],
+   "xFormat": "@n0"
+  },
+  "tbl": "D.1"
+ },
+ "bridge_a5": {
+  "kind": "waterfall",
+  "title": "On the Central case a March sale leaves Comvest about $14.9M.",
+  "sub": "From enterprise value to Comvest's value, $M, Central case, sale closing March 2027. Enterprise value is 3.5 times forward EBITDA of $7.43M. The discount and the other lenders' share are the differences between the table's columns.",
+  "o": {
+   "steps": [
+    {
+     "label": "Enterprise value",
+     "value": 26.02,
+     "total": true
+    },
+    {
+     "label": "Selling cost",
+     "value": -1.3
+    },
+    {
+     "label": "Cash on hand",
+     "value": 2.63
+    },
+    {
+     "label": "Reserve",
+     "value": -0.75
+    },
+    {
+     "label": "To lenders",
+     "value": 26.59,
+     "total": true
+    },
+    {
+     "label": "Discount",
+     "value": -1.34
+    },
+    {
+     "label": "Pool today",
+     "value": 25.25,
+     "total": true
+    },
+    {
+     "label": "Other lenders",
+     "value": -10.39
+    },
+    {
+     "label": "Comvest",
+     "value": 14.86,
+     "total": true
+    }
+   ],
+   "yFormat": "@m2"
+  },
+  "tbl": "A.5"
+ },
+ "case_rev": {
+  "kind": "stacked",
+  "title": "Search revenue is the line that separates the cases.",
+  "sub": "Sleep Media revenue in 2027 by source and case, $M.",
+  "o": {
+   "labels": [
+    "High",
+    "Central",
+    "Low",
+    "Severe"
+   ],
+   "series": [
+    {
+     "name": "Search revenue",
+     "values": [
+      11.69,
+      9.85,
+      8.25,
+      5.29
+     ]
+    },
+    {
+     "name": "AI referral revenue",
+     "values": [
+      0.9,
+      0.9,
+      0.9,
+      0.45
+     ]
+    },
+    {
+     "name": "Other revenue",
+     "values": [
+      2.4,
+      2.25,
+      2.1,
+      1.8
+     ]
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "tbl": "A.2"
+ },
+ "rebuild": {
+  "kind": "bars",
+  "title": "The model and the independent rebuild give nearly the same values.",
+  "sub": "Pool, present value, $M, on the Low case's inputs.",
+  "o": {
+   "labels": [
+    "March 2027 sale",
+    "September 2027 sale",
+    "June 2028 sale",
+    "Harvest to 2031"
+   ],
+   "series": [
+    {
+     "name": "This model",
+     "values": [
+      19.74,
+      18.29,
+      17.36,
+      15.91
+     ]
+    },
+    {
+     "name": "Independent rebuild",
+     "values": [
+      19.78,
+      18.33,
+      17.36,
+      15.91
+     ]
+    }
+   ],
+   "yFormat": "@m2"
+  },
+  "tbl": "A.6"
+ },
+ "items_due": {
+  "kind": "hbars",
+  "title": "Most open items fall due by mid-December.",
+  "sub": "The 32 open diligence items by when each is needed.",
+  "o": {
+   "labels": [
+    "By 27 November",
+    "Now, then weekly",
+    "By 8 December",
+    "By mid-December",
+    "By 31 December",
+    "By mid-January",
+    "After the gate"
+   ],
+   "series": [
+    {
+     "name": "Open items",
+     "values": [
+      11,
+      3,
+      1,
+      16,
+      1,
+      3,
+      1
+     ]
+    }
+   ],
+   "xFormat": "@n0"
+  },
+  "tbl": "16.1"
+ },
+ "items_owner": {
+  "kind": "hbars",
+  "title": "The company and restructuring counsel own most of the open items.",
+  "sub": "The 32 open diligence items by first-named owner.",
+  "o": {
+   "labels": [
+    "Company",
+    "Restructuring counsel",
+    "Healthcare counsel",
+    "Tax counsel",
+    "Agent",
+    "Lenders' adviser",
+    "Sale adviser",
+    "Comvest"
+   ],
+   "series": [
+    {
+     "name": "Open items",
+     "values": [
+      19,
+      8,
+      3,
+      2,
+      1,
+      1,
+      1,
+      1
+     ]
+    }
+   ],
+   "xFormat": "@n0"
+  },
+  "tbl": "16.1"
+ },
+ "op_fte": {
+  "kind": "dumbbell",
+  "o": {
+   "labels": [
+    "Product testing",
+    "Lab and evidence",
+    "Medical review",
+    "Editorial approval",
+    "Partner relationships",
+    "Search judgement",
+    "Engineering, agents",
+    "Second eyes on cash",
+    "General management",
+    "Video, podcast hosts"
+   ],
+   "from": [
+    1.2,
+    0.6,
+    0.5,
+    0.6,
+    0.5,
+    0.4,
+    0.5,
+    0.2,
+    1.0,
+    0.25
+   ],
+   "to": [
+    2.0,
+    1.0,
+    0.7,
+    1.0,
+    1.0,
+    0.7,
+    1.0,
+    0.3,
+    1.0,
+    0.5
+   ],
+   "fromName": "Low estimate",
+   "toName": "High estimate",
+   "xFormat": "@n2",
+   "xMax": 2.0
+  },
+  "title": "The human work left after AI needs several people, whoever employs them.",
+  "sub": "Full-time equivalents of human work that remain after AI, by kind of work, low and high estimate. The total is about 6 to 9.",
+  "tbl": "10.3"
+ },
+ "op_models": {
+  "kind": "hbars",
+  "o": {
+   "labels": [
+    "Day-one team, about 15",
+    "Core of six",
+    "Team of four",
+    "One employee, lean",
+    "One employee, full",
+    "Run-off",
+    "Strict one person"
+   ],
+   "series": [
+    {
+     "name": "Cost a year",
+     "values": [
+      5.2,
+      4.46,
+      4.25,
+      4.04,
+      4.72,
+      2.23,
+      2.29
+     ]
+    }
+   ],
+   "xFormat": "@m2"
+  },
+  "title": "No model that keeps the testing and review costs less than about $4.0M.",
+  "sub": "Cost a year by staffing model, $M, in 2027 dollars. The run-off and the strict model end the testing and the review.",
+  "tbl": "10.4"
+ },
+ "op_bridge": {
+  "kind": "waterfall",
+  "o": {
+   "steps": [
+    {
+     "label": "Day-one budget",
+     "value": 5.2,
+     "total": true
+    },
+    {
+     "label": "Payroll",
+     "value": -1.13
+    },
+    {
+     "label": "Outside services",
+     "value": 0.35
+    },
+    {
+     "label": "Agents and tooling",
+     "value": 0.2
+    },
+    {
+     "label": "General",
+     "value": -0.03
+    },
+    {
+     "label": "Contingency",
+     "value": -0.13
+    },
+    {
+     "label": "Core of six",
+     "value": 4.46,
+     "total": true
+    }
+   ],
+   "yFormat": "@m2"
+  },
+  "title": "About half of the payroll saving is spent again on outside firms and tools.",
+  "sub": "From the day-one budget to the six-person budget, $M a year in 2027 dollars.",
+  "tbl": "10.4"
+ },
+ "op_stages": {
+  "kind": "gantt",
+  "o": {
+   "rows": [
+    {
+     "label": "0 Hold and build",
+     "start": 0,
+     "end": 4,
+     "note": "Now to the handover, expected February to March 2027. No change to Sleep Media's team"
+    },
+    {
+     "label": "The gate",
+     "start": 1.9,
+     "end": 2.1,
+     "kind": "caution",
+     "note": "Hold or sell, on or about 15 January 2027"
+    },
+    {
+     "label": "1 Prove",
+     "start": 4,
+     "end": 7,
+     "note": "The first 90 days of MediaCo: a pilot on about 50 pages against a matched control"
+    },
+    {
+     "label": "2 Extend",
+     "start": 7,
+     "end": 13,
+     "kind": "secondary",
+     "note": "Months 4 to 9: roll-out; finance, security and video move outside"
+    },
+    {
+     "label": "3 Settle",
+     "start": 13,
+     "end": 16,
+     "note": "Months 9 to 12: the team reduces to the core of six"
+    }
+   ],
+   "range": [
+    0,
+    16.5
+   ],
+   "ticks": [
+    {
+     "at": 1.5,
+     "label": "1 Jan 2027"
+    },
+    {
+     "at": 4.5,
+     "label": "1 Apr"
+    },
+    {
+     "at": 7.5,
+     "label": "1 Jul"
+    },
+    {
+     "at": 10.5,
+     "label": "1 Oct"
+    },
+    {
+     "at": 13.5,
+     "label": "1 Jan 2028"
+    }
+   ],
+   "today": 0
+  },
+  "title": "No role goes before its workflow is proved on a small set of pages.",
+  "sub": "Four stages from 16 November 2026 to early 2028, on a handover in March 2027. The claret line is 16 November.",
+  "tbl": "10.6"
+ },
+ "op_ladder": {
+  "kind": "hbars",
+  "o": {
+   "labels": [
+    "$14M or more: 6 to 8",
+    "$11M to $14M: six",
+    "$8M to $11M: four",
+    "Below $8M: run-off"
+   ],
+   "series": [
+    {
+     "name": "Cost a year",
+     "values": [
+      4.7,
+      4.5,
+      4.15,
+      2.2
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "title": "The team and its cost step down as revenue falls.",
+  "sub": "Cost a year by rung of Sleep Media revenue, $M, at the middle of each range.",
+  "tbl": "10.7"
+ },
+ "op_runoff": {
+  "kind": "hbars",
+  "o": {
+   "labels": [
+    "Sale, March 2027",
+    "Hold, sell June 2028",
+    "Run-off, as Severe",
+    "Run-off, faster",
+    "Run-off, much faster",
+    "Run-off, collapse"
+   ],
+   "series": [
+    {
+     "name": "Lender pool",
+     "values": [
+      5.9,
+      2.6,
+      7.3,
+      5.1,
+      4.2,
+      3.4
+     ]
+    }
+   ],
+   "xFormat": "@m1"
+  },
+  "title": "A sale at 2.5 times beats a run-off on most rates of decline.",
+  "sub": "Severe case: value to the lender pool by route, $M, present value at 16 November 2026. The sale is at 2.5 times, and the run-off rows differ in how fast revenue falls after 2027.",
+  "tbl": "10.8"
+ },
+ "op_value": {
+  "kind": "bars",
+  "o": {
+   "labels": [
+    "High",
+    "Central",
+    "Low"
+   ],
+   "series": [
+    {
+     "name": "Sale closing March 2027",
+     "values": [
+      18.5,
+      14.9,
+      11.6
+     ]
+    },
+    {
+     "name": "Hold on the $5.2M budget",
+     "values": [
+      17.3,
+      13.5,
+      10.2
+     ]
+    },
+    {
+     "name": "Hold with six people, buyer pays for the saving",
+     "values": [
+      18.4,
+      14.6,
+      11.3
+     ]
+    }
+   ],
+   "yFormat": "@m1"
+  },
+  "title": "A March sale still leads a hold on each case, even with the smaller team.",
+  "sub": "Comvest's value for Sleep Media by case, $M, present value at 16 November 2026. A hold closes in June 2028 at 3.5 times.",
+  "tbl": "10.9"
+ },
+ "op_week": {
+  "kind": "hbars",
+  "o": {
+   "labels": [
+    "Partners, affiliates",
+    "About twelve vendors",
+    "Editorial decisions",
+    "Agents, engineering",
+    "Search decisions",
+    "Lender, board reports",
+    "Advertising sales",
+    "Finance approvals",
+    "Legal, compliance"
+   ],
+   "series": [
+    {
+     "name": "Hours a week",
+     "values": [
+      12,
+      10,
+      10,
+      8,
+      6,
+      5,
+      5,
+      3,
+      3
+     ]
+    }
+   ],
+   "xFormat": "@hr"
+  },
+  "title": "A single operator's week runs to 62 hours before leave or illness.",
+  "sub": "Hours a week for the one employee, with content approval already handed to an outside editor. Total 62.",
+  "tbl": "E.4"
+ },
+ "op_breakeven": {
+  "kind": "dumbbell",
+  "o": {
+   "labels": [
+    "Core of six",
+    "Team of four",
+    "One employee, lean",
+    "One employee, full",
+    "Run-off",
+    "Strict one person"
+   ],
+   "from": [
+    4.9,
+    6.3,
+    7.7,
+    3.2,
+    19.8,
+    19.4
+   ],
+   "to": [
+    6.6,
+    8.4,
+    10.3,
+    4.3,
+    26.4,
+    25.9
+   ],
+   "fromName": "On High-case revenue",
+   "toName": "On Low-case revenue",
+   "xFormat": "@pct1",
+   "xMax": 30
+  },
+  "title": "A small fall in revenue cancels the saving from each model that keeps the work.",
+  "sub": "Further fall in 2027 revenue that cancels each model's saving, %, on High-case and Low-case revenue.",
+  "tbl": "10.4"
+ },
+ "op_worth": {
+  "kind": "hbars",
+  "o": {
+   "labels": [
+    "3Z click floor",
+    "A tenth of search",
+    "Core-of-six saving",
+    "Six to one employee"
+   ],
+   "series": [
+    {
+     "name": "Worth a month",
+     "values": [
+      200,
+      82,
+      62,
+      35
+     ]
+    }
+   ],
+   "xFormat": "@k0",
+   "xMax": 240
+  },
+  "title": "The 3Z floor is worth about three times the saving from the smaller team.",
+  "sub": "Worth a month, $K, about: the 3Z floor to 31 December 2026, a tenth of 2027 search revenue on the Central case, the saving from the core of six, and the further saving from going to one employee."
+ },
+ "op_staffing": {
+  "kind": "stacked",
+  "o": {
+   "labels": [
+    "Day-one",
+    "Six",
+    "Four",
+    "One, lean",
+    "One, full",
+    "Run-off",
+    "Strict"
+   ],
+   "series": [
+    {
+     "name": "Employees",
+     "values": [
+      15,
+      6,
+      4,
+      1,
+      1,
+      1.5,
+      1
+     ]
+    },
+    {
+     "name": "Outside full-time equivalents",
+     "values": [
+      3,
+      3,
+      4,
+      5,
+      6.5,
+      0.5,
+      0
+     ]
+    }
+   ],
+   "yFormat": "@n0",
+   "yMax": 20
+  },
+  "title": "A company with a single employee still relies on several outside people.",
+  "sub": "Employees and outside full-time equivalents by staffing model. Outside figures are the middle of each range.",
+  "tbl": "10.4"
+ },
+ "op_revcases": {
+  "kind": "line",
+  "o": {
+   "labels": [
+    "2027",
+    "2028",
+    "2029",
+    "2030",
+    "2031"
+   ],
+   "series": [
+    {
+     "name": "High",
+     "values": [
+      15.0,
+      13.4,
+      12.1,
+      11.0,
+      10.1
+     ]
+    },
+    {
+     "name": "Central",
+     "values": [
+      13.0,
+      11.7,
+      10.6,
+      9.7,
+      9.0
+     ]
+    },
+    {
+     "name": "Low",
+     "values": [
+      11.3,
+      10.2,
+      9.3,
+      8.5,
+      8.0
+     ]
+    },
+    {
+     "name": "Severe",
+     "values": [
+      7.5,
+      6.2,
+      5.2,
+      4.5,
+      3.9
+     ]
+    }
+   ],
+   "yFormat": "@m0",
+   "yMax": 16
+  },
+  "title": "On the Central and Low cases revenue reaches the next rung within a few years.",
+  "sub": "Sleep Media revenue by case, $M, 2027 to 2031. The rungs of the staffing ladder sit at $14M, $11M and $8M.",
+  "tbl": "A.4"
+ }
+}
